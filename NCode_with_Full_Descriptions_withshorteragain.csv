@@ -1,0 +1,357 @@
+state,year,ncode,lcode,datum,date,latest_year_flag,ncode_description
+Utah,2006,1.1,ce-vt,0.367,1/1/2006,0,Voter turnout
+Utah,2008,1.1,ce-vt,0.531,1/1/2008,0,Voter turnout
+Utah,2010,1.1,ce-vt,0.386,1/1/2010,0,Voter turnout
+Utah,2012,1.1,ce-vt,0.57,1/1/2012,0,Voter turnout
+Utah,2014,1.1,ce-vt,0.365,1/1/2014,0,Voter turnout
+Utah,2016,1.1,ce-vt,0.626826,1/1/2016,0,Voter turnout
+Utah,2018,1.1,ce-vt,0.576,1/1/2018,0,Voter turnout
+Utah,2020,1.1,ce-vt,0.636,1/1/2020,1,Voter turnout
+Utah,2010,1.2,cv-pm,0.134221311,1/1/2010,0,Share of citizens reporting attending public meeting
+Utah,2011,1.2,cv-pm,0.137254902,1/1/2011,0,Share of citizens reporting attending public meeting
+Utah,2012,1.2,cv-pm,0.192634561,1/1/2012,0,Share of citizens reporting attending public meeting
+Utah,2013,1.2,cv-pm,0.158301158,1/1/2013,0,Share of citizens reporting attending public meeting
+Utah,2014,1.2,cv-pm,0.153982301,1/1/2014,0,Share of citizens reporting attending public meeting
+Utah,2015,1.2,cv-pm,0.110813226,1/1/2015,0,Share of citizens reporting attending public meeting
+Utah,2017,1.2,cv-pm,0.159502262,1/1/2017,0,Share of citizens reporting attending public meeting
+Utah,2019,1.2,cv-pm,0.17612978,1/1/2019,1,Share of citizens reporting attending public meeting
+Utah,2009,1.3,ce-ao,2.717170794,1/1/2009,0,"Number of advocacy organizations per 100,000 people"
+Utah,2010,1.3,ce-ao,2.822114524,1/1/2010,0,"Number of advocacy organizations per 100,000 people"
+Utah,2011,1.3,ce-ao,2.484717214,1/1/2011,0,"Number of advocacy organizations per 100,000 people"
+Utah,2012,1.3,ce-ao,2.101364942,1/1/2012,0,"Number of advocacy organizations per 100,000 people"
+Utah,2013,1.3,ce-ao,2.447539912,1/1/2013,0,"Number of advocacy organizations per 100,000 people"
+Utah,2014,1.3,ce-ao,2.140744068,1/1/2014,0,"Number of advocacy organizations per 100,000 people"
+Utah,2015,1.3,ce-ao,2.136239331,1/1/2015,0,"Number of advocacy organizations per 100,000 people"
+Utah,2016,1.3,ce-ao,2.490809405,1/1/2016,0,"Number of advocacy organizations per 100,000 people"
+Utah,2017,1.3,ce-ao,2.643598156,1/1/2017,0,"Number of advocacy organizations per 100,000 people"
+Utah,2018,1.3,ce-ao,2.530760604,1/1/2018,0,"Number of advocacy organizations per 100,000 people"
+Utah,2019,1.3,ce-ao,2.588929736,1/1/2019,0,"Number of advocacy organizations per 100,000 people"
+Utah,2020,1.3,ce-ao,2.615481992,1/1/2020,1,"Number of advocacy organizations per 100,000 people"
+Utah,2008,2.1,st-fc,29.28995516,1/1/2008,0,Fraud convictions per capita
+Utah,2009,2.1,st-fc,35.61696851,1/1/2009,0,Fraud convictions per capita
+Utah,2010,2.1,st-fc,24.24124014,1/1/2010,0,Fraud convictions per capita
+Utah,2011,2.1,st-fc,26.97692976,1/1/2011,0,Fraud convictions per capita
+Utah,2012,2.1,st-fc,15.41000957,1/1/2012,0,Fraud convictions per capita
+Utah,2013,2.1,st-fc,21.02815981,1/1/2013,0,Fraud convictions per capita
+Utah,2014,2.1,st-fc,19.02883616,1/1/2014,0,Fraud convictions per capita
+Utah,2015,2.1,st-fc,20.36103112,1/1/2015,0,Fraud convictions per capita
+Utah,2016,2.1,st-fc,16.38690398,1/1/2016,0,Fraud convictions per capita
+Utah,2017,2.1,st-fc,17.40906103,1/1/2017,0,Fraud convictions per capita
+Utah,2018,2.1,st-fc,19.29704961,1/1/2018,0,Fraud convictions per capita
+Utah,2019,2.1,st-fc,15.59596227,1/1/2019,0,Fraud convictions per capita
+Utah,2020,2.1,st-fc,11.07733549,1/1/2020,1,Fraud convictions per capita
+Utah,2008,2.2,st-fc trust,3.755122456,1/1/2008,0,Convictions with breach of trust penalties per capita
+Utah,2009,2.2,st-fc trust,3.304667181,1/1/2009,0,Convictions with breach of trust penalties per capita
+Utah,2010,2.2,st-fc trust,1.809047772,1/1/2010,0,Convictions with breach of trust penalties per capita
+Utah,2011,2.2,st-fc trust,2.129757612,1/1/2011,0,Convictions with breach of trust penalties per capita
+Utah,2012,2.2,st-fc trust,4.202729883,1/1/2012,0,Convictions with breach of trust penalties per capita
+Utah,2013,2.2,st-fc trust,1.034171794,1/1/2013,0,Convictions with breach of trust penalties per capita
+Utah,2014,2.2,st-fc trust,0.679601292,1/1/2014,0,Convictions with breach of trust penalties per capita
+Utah,2015,2.2,st-fc trust,0.333787395,1/1/2015,0,Convictions with breach of trust penalties per capita
+Utah,2016,2.2,st-fc trust,0.32773808,1/1/2016,0,Convictions with breach of trust penalties per capita
+Utah,2017,2.2,st-fc trust,0.644780038,1/1/2017,0,Convictions with breach of trust penalties per capita
+Utah,2018,2.2,st-fc trust,0.632690151,1/1/2018,0,Convictions with breach of trust penalties per capita
+Utah,2019,2.2,st-fc trust,0,1/1/2019,0,Convictions with breach of trust penalties per capita
+Utah,2020,2.2,st-fc trust,0.923111291,1/1/2020,1,Convictions with breach of trust penalties per capita
+Utah,2008,2.3,st-fcc,1.877561228,1/1/2008,0,Federal corruption convictions per capita
+Utah,2009,2.3,st-fcc,1.101555727,1/1/2009,0,Federal corruption convictions per capita
+Utah,2010,2.3,st-fcc,0.361809554,1/1/2010,0,Federal corruption convictions per capita
+Utah,2011,2.3,st-fcc,0.709919204,1/1/2011,0,Federal corruption convictions per capita
+Utah,2012,2.3,st-fcc,0.35022749,1/1/2012,0,Federal corruption convictions per capita
+Utah,2013,2.3,st-fcc,1.034171794,1/1/2013,0,Federal corruption convictions per capita
+Utah,2014,2.3,st-fcc,0.679601292,1/1/2014,0,Federal corruption convictions per capita
+Utah,2015,2.3,st-fcc,0,1/1/2015,0,Federal corruption convictions per capita
+Utah,2016,2.3,st-fcc,0.655476159,1/1/2016,0,Federal corruption convictions per capita
+Utah,2017,2.3,st-fcc,0.322390019,1/1/2017,0,Federal corruption convictions per capita
+Utah,2018,2.3,st-fcc,0,1/1/2018,0,Federal corruption convictions per capita
+Utah,2019,2.3,st-fcc,0,1/1/2019,1,Federal corruption convictions per capita
+Utah,2008,2.4,st-vc,2.315032994,1/1/2008,0,"Violent crimes per 1,000"
+Utah,2009,2.4,st-vc,2.202377084,1/1/2009,0,"Violent crimes per 1,000"
+Utah,2010,2.4,st-vc,2.143721609,1/1/2010,0,"Violent crimes per 1,000"
+Utah,2011,2.4,st-vc,1.968960913,1/1/2011,0,"Violent crimes per 1,000"
+Utah,2012,2.4,st-vc,2.080001065,1/1/2012,0,"Violent crimes per 1,000"
+Utah,2013,2.4,st-vc,2.290345799,1/1/2013,0,"Violent crimes per 1,000"
+Utah,2014,2.4,st-vc,2.196471374,1/1/2014,0,"Violent crimes per 1,000"
+Utah,2015,2.4,st-vc,2.382574429,1/1/2015,0,"Violent crimes per 1,000"
+Utah,2016,2.4,st-vc,2.427228217,1/1/2016,0,"Violent crimes per 1,000"
+Utah,2017,2.4,st-vc,2.422760993,1/1/2017,0,"Violent crimes per 1,000"
+Utah,2018,2.4,st-vc,2.388721665,1/1/2018,0,"Violent crimes per 1,000"
+Utah,2019,2.4,st-vc,2.35592606,1/1/2019,1,"Violent crimes per 1,000"
+Utah,2010,3.1,cl-don,0.631510205,1/1/2010,0,Share of residents reporting a donation of at least $25 to a charitable group
+Utah,2011,3.1,cl-don,0.637567875,1/1/2011,0,Share of residents reporting a donation of at least $25 to a charitable group
+Utah,2012,3.1,cl-don,0.70773942,1/1/2012,0,Share of residents reporting a donation of at least $25 to a charitable group
+Utah,2013,3.1,cl-don,0.671443609,1/1/2013,0,Share of residents reporting a donation of at least $25 to a charitable group
+Utah,2014,3.1,cl-don,0.663932628,1/1/2014,0,Share of residents reporting a donation of at least $25 to a charitable group
+Utah,2015,3.1,cl-don,0.641233964,1/1/2015,0,Share of residents reporting a donation of at least $25 to a charitable group
+Utah,2017,3.1,cl-don,0.669418061,1/1/2017,0,Share of residents reporting a donation of at least $25 to a charitable group
+Utah,2019,3.1,cl-don,0.656626234,1/1/2019,1,Residents Donating at least $25 to a charitable group
+Utah,2010,3.2,cl-vol,0.428501796,1/1/2010,0,Share of adults who report volunteering
+Utah,2011,3.2,cl-vol,0.409079446,1/1/2011,0,Share of adults who report volunteering
+Utah,2012,3.2,cl-vol,0.477174298,1/1/2012,0,Share of adults who report volunteering
+Utah,2013,3.2,cl-vol,0.452588143,1/1/2013,0,Share of adults who report volunteering
+Utah,2014,3.2,cl-vol,0.453936344,1/1/2014,0,Share of adults who report volunteering
+Utah,2015,3.2,cl-vol,0.396566356,1/1/2015,0,Share of adults who report volunteering
+Utah,2017,3.2,cl-vol,0.509693476,1/1/2017,0,Share of adults who report volunteering
+Utah,2019,3.2,cl-vol,0.494537038,1/1/2019,1,Share of adults who report volunteering
+Utah,2008,3.3,cl-np,1.990214902,1/1/2008,0,Participation in neighborhood projects
+Utah,2009,3.3,cl-np,2.16639293,1/1/2009,0,Participation in neighborhood projects
+Utah,2010,3.3,cl-np,2.315581148,1/1/2010,0,Participation in neighborhood projects
+Utah,2011,3.3,cl-np,2.271741453,1/1/2011,0,Participation in neighborhood projects
+Utah,2012,3.3,cl-np,2.731774424,1/1/2012,0,Participation in neighborhood projects
+Utah,2013,3.3,cl-np,2.171760767,1/1/2013,0,Participation in neighborhood projects
+Utah,2014,3.3,cl-np,3.024225747,1/1/2014,0,Participation in neighborhood projects
+Utah,2015,3.3,cl-np,3.371252694,1/1/2015,0,Participation in neighborhood projects
+Utah,2016,3.3,cl-np,3.04796414,1/1/2016,0,Participation in neighborhood projects
+Utah,2017,3.3,cl-np,3.352856198,1/1/2017,0,Participation in neighborhood projects
+Utah,2018,3.3,cl-np,3.289988786,1/1/2018,0,Participation in neighborhood projects
+Utah,2019,3.3,cl-np,3.337535925,1/1/2019,0,Participation in neighborhood projects
+Utah,2020,3.3,cl-np,3.301120914,1/1/2020,1,Participation in neighborhood projects
+Utah,2007,3.4,cl-rel,0.57,1/1/2007,0,Weekly church/religious service attendance
+Utah,2014,3.4,cl-rel,0.53,1/1/2014,1,Weekly church/religious service attendance
+Utah,2010,3._2,cl-mem,0.134718984,1/1/2010,0,
+Utah,2011,3._2,cl-mem,0.178604728,1/1/2011,0,
+Utah,2012,3._2,cl-mem,0.231942477,1/1/2012,0,
+Utah,2013,3._2,cl-mem,0.195412989,1/1/2013,0,
+Utah,2014,3._2,cl-mem,0.178800886,1/1/2014,0,
+Utah,2015,3._2,cl-mem,0.138873683,1/1/2015,0,
+Utah,2017,3._2,cl-mem,0.396094917,1/1/2017,0,
+Utah,2019,3._2,cl-mem,0.449011815,1/1/2019,1,
+Utah,2008,3.5,cl-npo,1.464497758,1/1/2008,0,"Non-professional associations per 100,000 people"
+Utah,2009,3.5,cl-npo,1.064837203,1/1/2009,0,"Non-professional associations per 100,000 people"
+Utah,2010,3.5,cl-npo,1.157790574,1/1/2010,0,"Non-professional associations per 100,000 people"
+Utah,2011,3.5,cl-npo,0.887399005,1/1/2011,0,"Non-professional associations per 100,000 people"
+Utah,2012,3.5,cl-npo,0.910591475,1/1/2012,0,"Non-professional associations per 100,000 people"
+Utah,2013,3.5,cl-npo,0.861809828,1/1/2013,0,"Non-professional associations per 100,000 people"
+Utah,2014,3.5,cl-npo,1.019401937,1/1/2014,0,"Non-professional associations per 100,000 people"
+Utah,2015,3.5,cl-npo,1.068119665,1/1/2015,0,"Non-professional associations per 100,000 people"
+Utah,2016,3.5,cl-npo,1.114309471,1/1/2016,0,"Non-professional associations per 100,000 people"
+Utah,2017,3.5,cl-npo,1.192843071,1/1/2017,0,"Non-professional associations per 100,000 people"
+Utah,2018,3.5,cl-npo,1.138842272,1/1/2018,0,"Non-professional associations per 100,000 people"
+Utah,2019,3.5,cl-npo,1.185293132,1/1/2019,0,"Non-professional associations per 100,000 people"
+Utah,2020,3.5,cl-npo,1.192071441,1/1/2020,1,"Non-professional associations per 100,000 people"
+Utah,2008,3.6,cl-porg,4.844107969,1/1/2008,0,"Professional organizations per 100,000"
+Utah,2009,3.6,cl-porg,4.626534054,1/1/2009,0,"Professional organizations per 100,000"
+Utah,2010,3.6,cl-porg,4.812067072,1/1/2010,0,"Professional organizations per 100,000"
+Utah,2011,3.6,cl-porg,4.472490986,1/1/2011,0,"Professional organizations per 100,000"
+Utah,2012,3.6,cl-porg,3.572320401,1/1/2012,0,"Professional organizations per 100,000"
+Utah,2013,3.6,cl-porg,4.102214782,1/1/2013,0,"Professional organizations per 100,000"
+Utah,2014,3.6,cl-porg,3.771787168,1/1/2014,0,"Professional organizations per 100,000"
+Utah,2015,3.6,cl-porg,3.63828261,1/1/2015,0,"Professional organizations per 100,000"
+Utah,2016,3.6,cl-porg,3.998404571,1/1/2016,0,"Professional organizations per 100,000"
+Utah,2017,3.6,cl-porg,4.352265257,1/1/2017,0,"Professional organizations per 100,000"
+Utah,2018,3.6,cl-porg,4.239024012,1/1/2018,0,"Professional organizations per 100,000"
+Utah,2019,3.6,cl-porg,4.117334039,1/1/2019,0,"Professional organizations per 100,000"
+Utah,2020,3.6,cl-porg,4.126401142,1/1/2020,1,"Professional organizations per 100,000"
+Utah,2008,4.1,fh-uw,3.755122456,1/1/2008,0,Share of births to unmarried women
+Utah,2009,4.1,fh-uw,3.304667181,1/1/2009,0,Share of births to unmarried women
+Utah,2010,4.1,fh-uw,1.809047772,1/1/2010,0,Share of births to unmarried women
+Utah,2011,4.1,fh-uw,2.129757612,1/1/2011,0,Share of births to unmarried women
+Utah,2012,4.1,fh-uw,4.202729883,1/1/2012,0,Share of births to unmarried women
+Utah,2013,4.1,fh-uw,1.034171794,1/1/2013,0,Share of births to unmarried women
+Utah,2014,4.1,fh-uw,0.679601292,1/1/2014,0,Share of births to unmarried women
+Utah,2015,4.1,fh-uw,0.333787395,1/1/2015,0,Share of births to unmarried women
+Utah,2016,4.1,fh-uw,0.32773808,1/1/2016,0,Share of births to unmarried women
+Utah,2017,4.1,fh-uw,0.644780038,1/1/2017,0,Share of births to unmarried women
+Utah,2018,4.1,fh-uw,0.632690151,1/1/2018,0,Share of births to unmarried women
+Utah,2019,4.1,fh-uw,0,1/1/2019,0,Share of births to unmarried women
+Utah,2020,4.1,fh-uw,0.923111291,1/1/2020,1,Share of births to unmarried women
+Utah,2008,4.2,fh-ma,0.600389585,1/1/2008,0,Share of adults 35–64 currently married
+Utah,2009,4.2,fh-ma,0.616875985,1/1/2009,0,Share of adults 35–64 currently married
+Utah,2010,4.2,fh-ma,0.616380917,1/1/2010,0,Share of adults 35–64 currently married
+Utah,2011,4.2,fh-ma,0.603023134,1/1/2011,0,Share of adults 35–64 currently married
+Utah,2012,4.2,fh-ma,0.606294351,1/1/2012,0,Share of adults 35–64 currently married
+Utah,2013,4.2,fh-ma,0.615003452,1/1/2013,0,Share of adults 35–64 currently married
+Utah,2014,4.2,fh-ma,0.611890941,1/1/2014,0,Share of adults 35–64 currently married
+Utah,2015,4.2,fh-ma,0.607503499,1/1/2015,0,Share of adults 35–64 currently married
+Utah,2016,4.2,fh-ma,0.615340981,1/1/2016,0,Share of adults 35–64 currently married
+Utah,2017,4.2,fh-ma,0.605848396,1/1/2017,0,Share of adults 35–64 currently married
+Utah,2018,4.2,fh-ma,0.6121625,1/1/2018,0,Share of adults 35–64 currently married
+Utah,2019,4.2,fh-ma,0.601926642,1/1/2019,1,Share of adults 35–64 currently married
+Utah,2008,4.3,fh-spf,0.172404794,1/1/2008,0,Share of children living in a single-parent family
+Utah,2009,4.3,fh-spf,0.175494759,1/1/2009,0,Share of children living in a single-parent family
+Utah,2010,4.3,fh-spf,0.180511651,1/1/2010,0,Share of children living in a single-parent family
+Utah,2011,4.3,fh-spf,0.201742173,1/1/2011,0,Share of children living in a single-parent family
+Utah,2012,4.3,fh-spf,0.191144611,1/1/2012,0,Share of children living in a single-parent family
+Utah,2013,4.3,fh-spf,0.181737853,1/1/2013,0,Share of children living in a single-parent family
+Utah,2014,4.3,fh-spf,0.183615603,1/1/2014,0,Share of children living in a single-parent family
+Utah,2015,4.3,fh-spf,0.187421738,1/1/2015,0,Share of children living in a single-parent family
+Utah,2016,4.3,fh-spf,0.179174895,1/1/2016,0,Share of children living in a single-parent family
+Utah,2017,4.3,fh-spf,0.188785069,1/1/2017,0,Share of children living in a single-parent family
+Utah,2018,4.3,fh-spf,0.179961238,1/1/2018,0,Share of children living in a single-parent family
+Utah,2019,4.3,fh-spf,0.149874925,1/1/2019,1,Share of children living in a single-parent family
+Utah,2011,4.4,fh-read,0.192231221,1/1/2011,0,Share of children 5 and under read to every day in the past week
+Utah,2016,4.4,fh-read,0.136190164,1/1/2016,0,Share of children 5 and under read to every day in the past week
+Utah,2017,4.4,fh-read,0.123104202,1/1/2017,0,Share of children 5 and under read to every day in the past week
+Utah,2018,4.4,fh-read,0.109652855,1/1/2018,0,Share of children 5 and under read to every day in the past week
+Utah,2019,4.4,fh-read,0.092881345,1/1/2019,0,Share of children 5 and under read to every day in the past week
+Utah,2020,4.4,fh-read,0.122209375,1/1/2020,1,Children <=5 to every day in the past week
+Utah,2011,4.5,fh-tv,0.087144235,1/1/2011,0,"Share of children watching 4+ hours of TV in the past week, up to 17"
+Utah,2016,4.5,fh-tv,0.061176218,1/1/2016,0,"Share of children watching 4+ hours of TV in the past week, up to 17"
+Utah,2017,4.5,fh-tv,0.07719959,1/1/2017,0,"Share of children watching 4+ hours of TV in the past week, up to 17"
+Utah,2018,4.5,fh-tv,0.144884253,1/1/2018,0,"Share of children watching 4+ hours of TV in the past week, up to 17"
+Utah,2019,4.5,fh-tv,0.17354529,1/1/2019,0,"Share of children watching 4+ hours of TV in the past week, up to 17"
+Utah,2020,4.5,fh-tv,0.20513608,1/1/2020,1,Children watching 4+ hours of TV in the past week
+Utah,2011,4.6,fh-ed,0.064206978,1/1/2011,0,"Share of children who spend 4+ hours on electronic devices, up to 17"
+Utah,2016,4.6,fh-ed,0.080741675,1/1/2016,0,"Share of children who spend 4+ hours on electronic devices, up to 17"
+Utah,2017,4.6,fh-ed,0.097580156,1/1/2017,0,"Share of children who spend 4+ hours on electronic devices, up to 17"
+Utah,2018,4.6,fh-ed,0.144884253,1/1/2018,0,"Share of children who spend 4+ hours on electronic devices, up to 17"
+Utah,2019,4.6,fh-ed,0.17354529,1/1/2019,0,"Share of children who spend 4+ hours on electronic devices, up to 17"
+Utah,2020,4.6,fh-ed,0.20513608,1/1/2020,1,Children who spend 4+ hours on electronic devices
+Utah,2011,4.7,fh-eat,0.487667305,1/1/2011,0,Share of families eating a meal together daily
+Utah,2016,4.7,fh-eat,0.428157925,1/1/2016,0,Share of families eating a meal together daily
+Utah,2017,4.7,fh-eat,0.392795819,1/1/2017,0,Share of families eating a meal together daily
+Utah,2018,4.7,fh-eat,0.393949216,1/1/2018,0,Share of families eating a meal together daily
+Utah,2019,4.7,fh-eat,0.389942102,1/1/2019,0,Share of families eating a meal together daily
+Utah,2020,4.7,fh-eat,0.523539847,1/1/2020,1,Share of families eating a meal together daily
+Utah,2008,5.1,sc-mid,3.755122456,1/1/2008,0,Share of population in middle class households
+Utah,2009,5.1,sc-mid,3.304667181,1/1/2009,0,Share of population in middle class households
+Utah,2010,5.1,sc-mid,1.809047772,1/1/2010,0,Share of population in middle class households
+Utah,2011,5.1,sc-mid,2.129757612,1/1/2011,0,Share of population in middle class households
+Utah,2012,5.1,sc-mid,4.202729883,1/1/2012,0,Share of population in middle class households
+Utah,2013,5.1,sc-mid,1.034171794,1/1/2013,0,Share of population in middle class households
+Utah,2014,5.1,sc-mid,0.679601292,1/1/2014,0,Share of population in middle class households
+Utah,2015,5.1,sc-mid,0.333787395,1/1/2015,0,Share of population in middle class households
+Utah,2016,5.1,sc-mid,0.32773808,1/1/2016,0,Share of population in middle class households
+Utah,2017,5.1,sc-mid,0.644780038,1/1/2017,0,Share of population in middle class households
+Utah,2018,5.1,sc-mid,0.632690151,1/1/2018,0,Share of population in middle class households
+Utah,2019,5.1,sc-mid,0,1/1/2019,0,Share of population in middle class households
+Utah,2020,5.1,sc-mid,0.923111291,1/1/2020,1,Share of population in middle class households
+Utah,2009,5.2,sc-eng-a,0.062362874,1/1/2009,0,Share of adults with limited English proficiency
+Utah,2010,5.2,sc-eng-a,0.064292718,1/1/2010,0,Share of adults with limited English proficiency
+Utah,2011,5.2,sc-eng-a,0.063319638,1/1/2011,0,Share of adults with limited English proficiency
+Utah,2012,5.2,sc-eng-a,0.062659315,1/1/2012,0,Share of adults with limited English proficiency
+Utah,2013,5.2,sc-eng-a,0.060730865,1/1/2013,0,Share of adults with limited English proficiency
+Utah,2014,5.2,sc-eng-a,0.061663669,1/1/2014,0,Share of adults with limited English proficiency
+Utah,2015,5.2,sc-eng-a,0.059782308,1/1/2015,0,Share of adults with limited English proficiency
+Utah,2016,5.2,sc-eng-a,0.058580748,1/1/2016,0,Share of adults with limited English proficiency
+Utah,2017,5.2,sc-eng-a,0.057691366,1/1/2017,0,Share of adults with limited English proficiency
+Utah,2018,5.2,sc-eng-a,0.057999785,1/1/2018,0,Share of adults with limited English proficiency
+Utah,2019,5.2,sc-eng-a,0.056700863,1/1/2019,0,Share of adults with limited English proficiency
+Utah,2020,5.2,sc-eng-a,0.054831877,1/1/2020,1,Share of adults with limited English proficiency
+Utah,2009,5.3,sc-eng-c,0.032900678,1/1/2009,0,Share of students with limited English proficiency
+Utah,2010,5.3,sc-eng-c,0.032323892,1/1/2010,0,Share of students with limited English proficiency
+Utah,2011,5.3,sc-eng-c,0.029362161,1/1/2011,0,Share of students with limited English proficiency
+Utah,2012,5.3,sc-eng-c,0.027923516,1/1/2012,0,Share of students with limited English proficiency
+Utah,2013,5.3,sc-eng-c,0.025630565,1/1/2013,0,Share of students with limited English proficiency
+Utah,2014,5.3,sc-eng-c,0.024345805,1/1/2014,0,Share of students with limited English proficiency
+Utah,2015,5.3,sc-eng-c,0.022068463,1/1/2015,0,Share of students with limited English proficiency
+Utah,2016,5.3,sc-eng-c,0.021860105,1/1/2016,0,Share of students with limited English proficiency
+Utah,2017,5.3,sc-eng-c,0.02005181,1/1/2017,0,Share of students with limited English proficiency
+Utah,2018,5.3,sc-eng-c,0.020009487,1/1/2018,0,Share of students with limited English proficiency
+Utah,2019,5.3,sc-eng-c,0.019675991,1/1/2019,0,Share of students with limited English proficiency
+Utah,2020,5.3,sc-eng-c,0.019977407,1/1/2020,1,Share of students with limited English proficiency
+Utah,2008,5.4,sc-born,0.615482835,1/1/2008,0,Share of population born in the state of current residence
+Utah,2009,5.4,sc-born,0.625365047,1/1/2009,0,Share of population born in the state of current residence
+Utah,2010,5.4,sc-born,0.622953831,1/1/2010,0,Share of population born in the state of current residence
+Utah,2011,5.4,sc-born,0.616753667,1/1/2011,0,Share of population born in the state of current residence
+Utah,2012,5.4,sc-born,0.617752611,1/1/2012,0,Share of population born in the state of current residence
+Utah,2013,5.4,sc-born,0.627332747,1/1/2013,0,Share of population born in the state of current residence
+Utah,2014,5.4,sc-born,0.621529361,1/1/2014,0,Share of population born in the state of current residence
+Utah,2015,5.4,sc-born,0.622723111,1/1/2015,0,Share of population born in the state of current residence
+Utah,2016,5.4,sc-born,0.620160087,1/1/2016,0,Share of population born in the state of current residence
+Utah,2017,5.4,sc-born,0.618849564,1/1/2017,0,Share of population born in the state of current residence
+Utah,2018,5.4,sc-born,0.612769902,1/1/2018,0,Share of population born in the state of current residence
+Utah,2019,5.4,sc-born,0.616919498,1/1/2019,1,Share of population born in the state of current residence
+Utah,2008,6.1,fg-play,5.650344604,1/1/2008,0,"Investments in public parks/playgrounds per $1,000(personal)"
+Utah,2009,6.1,fg-play,5.593282088,1/1/2009,0,"Investments in public parks/playgrounds per $1,000 of personal income"
+Utah,2010,6.1,fg-play,5.329159855,1/1/2010,0,"Investments in public parks/playgrounds per $1,000 of personal income"
+Utah,2011,6.1,fg-play,5.019229192,1/1/2011,0,"Investments in public parks/playgrounds per $1,000 of personal income"
+Utah,2012,6.1,fg-play,6.455130978,1/1/2012,0,"Investments in public parks/playgrounds per $1,000 of personal income"
+Utah,2013,6.1,fg-play,4.572229304,1/1/2013,0,"Investments in public parks/playgrounds per $1,000 of personal income"
+Utah,2014,6.1,fg-play,4.123868373,1/1/2014,0,"Investments in public parks/playgrounds per $1,000 of personal income"
+Utah,2015,6.1,fg-play,3.8454391,1/1/2015,0,"Investments in public parks/playgrounds per $1,000 of personal income"
+Utah,2016,6.1,fg-play,3.829227895,1/1/2016,0,"Investments in public parks/playgrounds per $1,000 of personal income"
+Utah,2017,6.1,fg-play,3.62306776,1/1/2017,0,"Investments in public parks/playgrounds per $1,000 of personal income"
+Utah,2018,6.1,fg-play,3.665459271,1/1/2018,0,"Investments in public parks/playgrounds per $1,000 of personal income"
+Utah,2019,6.1,fg-play,4.200931135,1/1/2019,1,"Investments in public parks/playgrounds per $1,000"
+Utah,2008,6.2,fg-sch,48.5194121,1/1/2008,0,"Investments in public schools per $1,000 of personal income"
+Utah,2009,6.2,fg-sch,48.72626531,1/1/2009,0,"Investments in public schools per $1,000 of personal income"
+Utah,2010,6.2,fg-sch,44.9495032,1/1/2010,0,"Investments in public schools per $1,000 of personal income"
+Utah,2011,6.2,fg-sch,44.07497011,1/1/2011,0,"Investments in public schools per $1,000 of personal income"
+Utah,2012,6.2,fg-sch,42.23587703,1/1/2012,0,"Investments in public schools per $1,000 of personal income"
+Utah,2013,6.2,fg-sch,42.67651943,1/1/2013,0,"Investments in public schools per $1,000 of personal income"
+Utah,2014,6.2,fg-sch,38.78697572,1/1/2014,0,"Investments in public schools per $1,000 of personal income"
+Utah,2015,6.2,fg-sch,37.59319729,1/1/2015,0,"Investments in public schools per $1,000 of personal income"
+Utah,2016,6.2,fg-sch,38.38327421,1/1/2016,0,"Investments in public schools per $1,000 of personal income"
+Utah,2017,6.2,fg-sch,38.40940391,1/1/2017,0,"Investments in public schools per $1,000 of personal income"
+Utah,2018,6.2,fg-sch,38.16949373,1/1/2018,0,"Investments in public schools per $1,000 of personal income"
+Utah,2019,6.2,fg-sch,38.26347195,1/1/2019,1,"Investments in public schools per $1,000 of personal income"
+Utah,2007,6.3,fg-br,21.22,1/1/2007,0,Birth rates
+Utah,2008,6.3,fg-br,20.89,1/1/2008,0,Birth rates
+Utah,2009,6.3,fg-br,19.79,1/1/2009,0,Birth rates
+Utah,2010,6.3,fg-br,18.91,1/1/2010,0,Birth rates
+Utah,2011,6.3,fg-br,18.18,1/1/2011,0,Birth rates
+Utah,2012,6.3,fg-br,18.02,1/1/2012,0,Birth rates
+Utah,2013,6.3,fg-br,17.57,1/1/2013,0,Birth rates
+Utah,2014,6.3,fg-br,17.38,1/1/2014,0,Birth rates
+Utah,2015,6.3,fg-br,16.95,1/1/2015,0,Birth rates
+Utah,2016,6.3,fg-br,16.54,1/1/2016,0,Birth rates
+Utah,2017,6.3,fg-br,15.66,1/1/2017,0,Birth rates
+Utah,2018,6.3,fg-br,14.93,1/1/2018,0,Birth rates
+Utah,2019,6.3,fg-br,14.61,1/1/2019,0,Birth rates
+Utah,2020,6.3,fg-br,14.06,1/1/2020,1,Birth rates
+Utah,2008,6.4,fg-yorg,82.35277599,1/1/2008,0,"Youth organizations per 1,000 youth aged 5–17"
+Utah,2009,6.4,fg-yorg,80.17598897,1/1/2009,0,"Youth organizations per 1,000 youth aged 5–17"
+Utah,2010,6.4,fg-yorg,85.13101942,1/1/2010,0,"Youth organizations per 1,000 youth aged 5–17"
+Utah,2011,6.4,fg-yorg,85.51299504,1/1/2011,0,"Youth organizations per 1,000 youth aged 5–17"
+Utah,2012,6.4,fg-yorg,82.78104315,1/1/2012,0,"Youth organizations per 1,000 youth aged 5–17"
+Utah,2013,6.4,fg-yorg,79.19333557,1/1/2013,0,"Youth organizations per 1,000 youth aged 5–17"
+Utah,2014,6.4,fg-yorg,79.23602502,1/1/2014,0,"Youth organizations per 1,000 youth aged 5–17"
+Utah,2015,6.4,fg-yorg,84.57961152,1/1/2015,0,"Youth organizations per 1,000 youth aged 5–17"
+Utah,2016,6.4,fg-yorg,85.38073208,1/1/2016,0,"Youth organizations per 1,000 youth aged 5–17"
+Utah,2017,6.4,fg-yorg,92.11143402,1/1/2017,0,"Youth organizations per 1,000 youth aged 5–17"
+Utah,2018,6.4,fg-yorg,86.40907156,1/1/2018,0,"Youth organizations per 1,000 youth aged 5–17"
+Utah,2019,6.4,fg-yorg,101.0442626,1/1/2019,0,"Youth organizations per 1,000 youth aged 5–17"
+Utah,2020,6.4,fg-yorg,102.9137846,1/1/2020,1,"Youth organizations per 1,000 youth aged 5–17"
+Utah,2008,7.1,sm-grad,0.290575788,1/1/2008,0,Share of population that are college graduates
+Utah,2009,7.1,sm-grad,0.284850611,1/1/2009,0,Share of population that are college graduates
+Utah,2010,7.1,sm-grad,0.293496944,1/1/2010,0,Share of population that are college graduates
+Utah,2011,7.1,sm-grad,0.297492087,1/1/2011,0,Share of population that are college graduates
+Utah,2012,7.1,sm-grad,0.307384538,1/1/2012,0,Share of population that are college graduates
+Utah,2013,7.1,sm-grad,0.313385802,1/1/2013,0,Share of population that are college graduates
+Utah,2014,7.1,sm-grad,0.311018024,1/1/2014,0,Share of population that are college graduates
+Utah,2015,7.1,sm-grad,0.318443307,1/1/2015,0,Share of population that are college graduates
+Utah,2016,7.1,sm-grad,0.325774263,1/1/2016,0,Share of population that are college graduates
+Utah,2017,7.1,sm-grad,0.346157572,1/1/2017,0,Share of population that are college graduates
+Utah,2018,7.1,sm-grad,0.348546559,1/1/2018,0,Share of population that are college graduates
+Utah,2019,7.1,sm-grad,0.347700241,1/1/2019,1,Share of population that are college graduates
+Utah,2008,7.2,sm-hr,0.742206473,1/1/2008,0,Homeownership rates
+Utah,2009,7.2,sm-hr,0.743049836,1/1/2009,0,Homeownership rates
+Utah,2010,7.2,sm-hr,0.726028313,1/1/2010,0,Homeownership rates
+Utah,2011,7.2,sm-hr,0.723647812,1/1/2011,0,Homeownership rates
+Utah,2012,7.2,sm-hr,0.721026432,1/1/2012,0,Homeownership rates
+Utah,2013,7.2,sm-hr,0.710382,1/1/2013,0,Homeownership rates
+Utah,2014,7.2,sm-hr,0.713906981,1/1/2014,0,Homeownership rates
+Utah,2015,7.2,sm-hr,0.719285767,1/1/2015,0,Homeownership rates
+Utah,2016,7.2,sm-hr,0.725967607,1/1/2016,0,Homeownership rates
+Utah,2017,7.2,sm-hr,0.730175011,1/1/2017,0,Homeownership rates
+Utah,2018,7.2,sm-hr,0.736675935,1/1/2018,0,Homeownership rates
+Utah,2019,7.2,sm-hr,0.748841746,1/1/2019,1,Homeownership rates
+Utah,1940,7.3,sm-em,0.936999977,1/1/1940,0,Economic mobility
+Utah,1950,7.3,sm-em,0.782999992,1/1/1950,0,Economic mobility
+Utah,1960,7.3,sm-em,0.643000007,1/1/1960,0,Economic mobility
+Utah,1970,7.3,sm-em,0.611000001,1/1/1970,0,Economic mobility
+Utah,1980,7.3,sm-em,0.531000018,1/1/1980,1,Economic mobility
+Utah,2008,7.4,cl-ums,0.090654151,1/1/2008,0,"Share of 16–24-year-olds not in employment, education, or training"
+Utah,2009,7.4,cl-ums,0.115050955,1/1/2009,0,"Share of 16–24-year-olds not in employment, education, or training"
+Utah,2010,7.4,cl-ums,0.135040143,1/1/2010,0,"Share of 16–24-year-olds not in employment, education, or training"
+Utah,2011,7.4,cl-ums,0.119252828,1/1/2011,0,"Share of 16–24-year-olds not in employment, education, or training"
+Utah,2012,7.4,cl-ums,0.116335542,1/1/2012,0,"Share of 16–24-year-olds not in employment, education, or training"
+Utah,2013,7.4,cl-ums,0.111731292,1/1/2013,0,"Share of 16–24-year-olds not in employment, education, or training"
+Utah,2014,7.4,cl-ums,0.121965857,1/1/2014,0,"Share of 16–24-year-olds not in employment, education, or training"
+Utah,2015,7.4,cl-ums,0.100504105,1/1/2015,0,"Share of 16–24-year-olds not in employment, education, or training"
+Utah,2016,7.4,cl-ums,0.091538948,1/1/2016,0,"Share of 16–24-year-olds not in employment, education, or training"
+Utah,2017,7.4,cl-ums,0.095812131,1/1/2017,0,"Share of 16–24-year-olds not in employment, education, or training"
+Utah,2018,7.4,cl-ums,0.073058725,1/1/2018,0,"Share of 16–24-year-olds not in employment, education, or training"
+Utah,2019,7.4,cl-ums,0.082826484,1/1/2019,1,"16–24-year-olds not in employment, education, or training"
+Utah,2008,3._1,cl-cdd,0.337264462,1/1/2008,0,
+Utah,2009,3._1,cl-cdd,0.334210707,1/1/2009,0,
+Utah,2010,3._1,cl-cdd,0.339699601,1/1/2010,0,
+Utah,2011,3._1,cl-cdd,0.331439915,1/1/2011,0,
+Utah,2012,3._1,cl-cdd,0.324421467,1/1/2012,0,
+Utah,2013,3._1,cl-cdd,0.315380372,1/1/2013,0,
+Utah,2014,3._1,cl-cdd,0.310255634,1/1/2014,0,
+Utah,2015,3._1,cl-cdd,0.308437987,1/1/2015,0,
+Utah,2016,3._1,cl-cdd,0.311607191,1/1/2016,0,
+Utah,2017,3._1,cl-cdd,0.311137594,1/1/2017,0,
+Utah,2018,3._1,cl-cdd,0.134085792,1/1/2018,1,
