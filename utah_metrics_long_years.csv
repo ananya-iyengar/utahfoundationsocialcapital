@@ -1,0 +1,189 @@
+State,State Code,Metric,Year,Value
+Utah,UT,Civic Engagement,2013,7.273176135
+Utah,UT,Civic Engagement,2017,7.921674814
+Utah,UT,Civic Engagement,2021,13.23345548
+Utah,UT,Civic Engagement,2025,9.323215851
+Utah,UT,Community Life,2013,20.61158588
+Utah,UT,Community Life,2017,18.82716813
+Utah,UT,Community Life,2021,12.21815626
+Utah,UT,Community Life,2025,12.51648042
+Utah,UT,Family Health,2013,19.6007722
+Utah,UT,Family Health,2017,18.09649252
+Utah,UT,Family Health,2021,17.13122446
+Utah,UT,Family Health,2025,13.49147039
+Utah,UT,Future Generations,2013,17.92082557
+Utah,UT,Future Generations,2017,12.9720855
+Utah,UT,Future Generations,2021,10.20848328
+Utah,UT,Future Generations,2025,7.192655974
+Utah,UT,Social Cohesion,2013,9.575491966
+Utah,UT,Social Cohesion,2017,10.3155329
+Utah,UT,Social Cohesion,2021,11.03267051
+Utah,UT,Social Cohesion,2025,9.941176727
+Utah,UT,Social Mobility,2013,9.042676899
+Utah,UT,Social Mobility,2017,10.8003772
+Utah,UT,Social Mobility,2021,13.77707984
+Utah,UT,Social Mobility,2025,14.19499564
+Utah,UT,Social Trust,2013,12.32578589
+Utah,UT,Social Trust,2017,14.01060746
+Utah,UT,Social Trust,2021,14.89588176
+Utah,UT,Social Trust,2025,15.72997405
+Utah,UT,Total,2013,96.35031454
+Utah,UT,Total,2017,92.94393853
+Utah,UT,Total,2021,92.49695159
+Utah,UT,Total,2025,82.38996905
+Utah,UT,ce-ao,2013,1.913497591
+Utah,UT,ce-ao,2017,1.946265053
+Utah,UT,ce-ao,2021,1.913153291
+Utah,UT,ce-ao,2025,1.915313577
+Utah,UT,ce-vt,2013,-0.104693437
+Utah,UT,ce-vt,2017,2.504267751
+Utah,UT,ce-vt,2021,2.92545893
+Utah,UT,ce-vt,2025,3.177971628
+Utah,UT,cl-cdd,2013,2.390414191
+Utah,UT,cl-cdd,2017,2.026930337
+Utah,UT,cl-cdd,2021,-0.763243197
+Utah,UT,cl-cdd,2025,-0.983008519
+Utah,UT,cl-don,2013,3.391290784
+Utah,UT,cl-don,2017,3.358755232
+Utah,UT,cl-don,2021,1.120196096
+Utah,UT,cl-don,2025,2.90370231
+Utah,UT,cl-mem,2013,4.157236069
+Utah,UT,cl-mem,2017,4.086580534
+Utah,UT,cl-mem,2021,3.942322239
+Utah,UT,cl-mem,2025,4.615115698
+Utah,UT,cl-np,2013,-0.13066702
+Utah,UT,cl-np,2017,-0.029650556
+Utah,UT,cl-np,2021,-0.082689668
+Utah,UT,cl-np,2025,-0.182810137
+Utah,UT,cl-npo,2013,0.554462183
+Utah,UT,cl-npo,2017,0.604862478
+Utah,UT,cl-npo,2021,0.576365526
+Utah,UT,cl-npo,2025,0.482387657
+Utah,UT,cl-porg,2013,0.743688542
+Utah,UT,cl-porg,2017,0.7312704
+Utah,UT,cl-porg,2021,0.72105624
+Utah,UT,cl-porg,2025,0.882904929
+Utah,UT,cl-rel,2013,3.463210671
+Utah,UT,cl-rel,2017,2.982857092
+Utah,UT,cl-rel,2021,1.541796354
+Utah,UT,cl-rel,2025,1.541796354
+Utah,UT,cl-ta,2013,2.873567198
+Utah,UT,cl-ta,2017,2.119431052
+Utah,UT,cl-ta,2021,2.065983499
+Utah,UT,cl-ta,2025,0.226709343
+Utah,UT,cl-tfn,2013,1.291739419
+Utah,UT,cl-tfn,2017,-0.197253729
+Utah,UT,cl-tfn,2021,-0.783656656
+Utah,UT,cl-tfn,2025,-2.207372407
+Utah,UT,cl-vol,2013,4.136391014
+Utah,UT,cl-vol,2017,5.14066507
+Utah,UT,cl-vol,2021,3.034092959
+Utah,UT,cl-vol,2025,4.071236537
+Utah,UT,cv-pm,2013,5.464371981
+Utah,UT,cv-pm,2017,3.471142011
+Utah,UT,cv-pm,2021,8.394843259
+Utah,UT,cv-pm,2025,4.229930646
+Utah,UT,fg-act,2013,4.062716301
+Utah,UT,fg-act,2017,2.306905759
+Utah,UT,fg-act,2021,2.612801855
+Utah,UT,fg-act,2025,0.50623408
+Utah,UT,fg-br,2013,9.229819739
+Utah,UT,fg-br,2017,7.690797502
+Utah,UT,fg-br,2021,4.762901539
+Utah,UT,fg-br,2025,2.961119409
+Utah,UT,fg-play,2013,4.94698855
+Utah,UT,fg-play,2017,3.267462302
+Utah,UT,fg-play,2021,3.909359396
+Utah,UT,fg-play,2025,3.615153928
+Utah,UT,fg-read,2013,1.980336825
+Utah,UT,fg-read,2017,1.900953808
+Utah,UT,fg-read,2021,3.17226559
+Utah,UT,fg-read,2025,3.898399528
+Utah,UT,fg-sch,2013,2.452190617
+Utah,UT,fg-sch,2017,1.119330382
+Utah,UT,fg-sch,2021,1.283364899
+Utah,UT,fg-sch,2025,0.519294313
+Utah,UT,fg-yorg,2013,1.29182666
+Utah,UT,fg-yorg,2017,0.894495311
+Utah,UT,fg-yorg,2021,0.252857446
+Utah,UT,fg-yorg,2025,0.097088324
+Utah,UT,fh-eat,2013,2.844446035
+Utah,UT,fh-eat,2017,1.158561286
+Utah,UT,fh-eat,2021,3.86070548
+Utah,UT,fh-eat,2025,0.541084004
+Utah,UT,fh-ed,2013,2.139500807
+Utah,UT,fh-ed,2017,2.419666228
+Utah,UT,fh-ed,2021,0.54211417
+Utah,UT,fh-ed,2025,0.571998058
+Utah,UT,fh-ma,2013,3.888607445
+Utah,UT,fh-ma,2017,3.992928529
+Utah,UT,fh-ma,2021,3.863076664
+Utah,UT,fh-ma,2025,3.407184112
+Utah,UT,fh-read,2013,3.925672063
+Utah,UT,fh-read,2017,1.364861592
+Utah,UT,fh-read,2021,0.726005853
+Utah,UT,fh-read,2025,0.486235581
+Utah,UT,fh-spf,2013,3.063372166
+Utah,UT,fh-spf,2017,3.407527706
+Utah,UT,fh-spf,2021,3.679566707
+Utah,UT,fh-spf,2025,4.10958366
+Utah,UT,fh-time,2013,-0.369543791
+Utah,UT,fh-time,2017,1.577417724
+Utah,UT,fh-time,2021,0.443414818
+Utah,UT,fh-time,2025,0.623084679
+Utah,UT,fh-tv,2013,1.020408163
+Utah,UT,fh-tv,2017,1.020408163
+Utah,UT,fh-tv,2021,0.0
+Utah,UT,fh-tv,2025,0.0
+Utah,UT,fh-uw,2013,4.108717477
+Utah,UT,fh-uw,2017,4.175529458
+Utah,UT,fh-uw,2021,4.016340771
+Utah,UT,fh-uw,2025,3.752300296
+Utah,UT,sc-born,2013,2.459105767
+Utah,UT,sc-born,2017,2.551890245
+Utah,UT,sc-born,2021,2.461683314
+Utah,UT,sc-born,2025,2.311374503
+Utah,UT,sc-eng-a,2013,1.749232213
+Utah,UT,sc-eng-a,2017,1.914683628
+Utah,UT,sc-eng-a,2021,2.066760549
+Utah,UT,sc-eng-a,2025,2.008312545
+Utah,UT,sc-eng-c,2013,2.058080405
+Utah,UT,sc-eng-c,2017,2.648443898
+Utah,UT,sc-eng-c,2021,2.831752662
+Utah,UT,sc-eng-c,2025,2.367504436
+Utah,UT,sc-mid,2013,3.30907358
+Utah,UT,sc-mid,2017,3.200515131
+Utah,UT,sc-mid,2021,3.672473982
+Utah,UT,sc-mid,2025,3.253985243
+Utah,UT,sm-em,2013,2.589551322
+Utah,UT,sm-em,2017,2.589551322
+Utah,UT,sm-em,2021,2.589551322
+Utah,UT,sm-em,2025,2.589551322
+Utah,UT,sm-grad,2013,1.416630707
+Utah,UT,sm-grad,2017,2.02918685
+Utah,UT,sm-grad,2021,2.884579268
+Utah,UT,sm-grad,2025,3.942080259
+Utah,UT,sm-hr,2013,3.419911368
+Utah,UT,sm-hr,2017,3.284966045
+Utah,UT,sm-hr,2021,4.199317384
+Utah,UT,sm-hr,2025,3.982447784
+Utah,UT,sm-neet,2013,1.616583502
+Utah,UT,sm-neet,2017,2.896672987
+Utah,UT,sm-neet,2021,4.103631869
+Utah,UT,sm-neet,2025,3.680916276
+Utah,UT,st-fc,2013,1.977649109
+Utah,UT,st-fc,2017,2.690935132
+Utah,UT,st-fc,2021,3.34701273
+Utah,UT,st-fc,2025,4.386363267
+Utah,UT,st-fc trust,2013,3.572769753
+Utah,UT,st-fc trust,2017,4.868908687
+Utah,UT,st-fc trust,2021,4.829113292
+Utah,UT,st-fc trust,2025,4.683779688
+Utah,UT,st-fcc,2013,3.062561341
+Utah,UT,st-fcc,2017,3.141618309
+Utah,UT,st-fcc,2021,3.39525776
+Utah,UT,st-fcc,2025,3.291575171
+Utah,UT,st-vc,2013,3.712805683
+Utah,UT,st-vc,2017,3.309145335
+Utah,UT,st-vc,2021,3.324497976
+Utah,UT,st-vc,2025,3.368255922
