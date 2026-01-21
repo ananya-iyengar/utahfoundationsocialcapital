@@ -1,0 +1,145 @@
+time,state,year,category,series_type,metric,metric_name,value,latest_year_flag
+2013-01-01,Utah,2013,civic,component,ce-ao,"Number of advocacy organizations per 100,000 people",1.913497591,0
+2017-01-01,Utah,2017,civic,component,ce-ao,"Number of advocacy organizations per 100,000 people",1.946265053,0
+2021-01-01,Utah,2021,civic,component,ce-ao,"Number of advocacy organizations per 100,000 people",1.913153291,0
+2025-01-01,Utah,2025,civic,component,ce-ao,"Number of advocacy organizations per 100,000 people",1.915313577,1
+2013-01-01,Utah,2013,civic,component,ce-vt,Voter turnout,-0.104693437,0
+2017-01-01,Utah,2017,civic,component,ce-vt,Voter turnout,2.504267751,0
+2021-01-01,Utah,2021,civic,component,ce-vt,Voter turnout,2.92545893,0
+2025-01-01,Utah,2025,civic,component,ce-vt,Voter turnout,3.177971628,1
+2013-01-01,Utah,2013,civic,component,cv-pm,Share of citizens reporting attending public meeting,5.464371981,0
+2017-01-01,Utah,2017,civic,component,cv-pm,Share of citizens reporting attending public meeting,3.471142011,0
+2021-01-01,Utah,2021,civic,component,cv-pm,Share of citizens reporting attending public meeting,8.394843259,0
+2025-01-01,Utah,2025,civic,component,cv-pm,Share of citizens reporting attending public meeting,4.229930646,1
+2013-01-01,Utah,2013,cohesion,component,sc-born,Share of population born in the state of current residence,2.459105767,0
+2017-01-01,Utah,2017,cohesion,component,sc-born,Share of population born in the state of current residence,2.551890245,0
+2021-01-01,Utah,2021,cohesion,component,sc-born,Share of population born in the state of current residence,2.461683314,0
+2025-01-01,Utah,2025,cohesion,component,sc-born,Share of population born in the state of current residence,2.311374503,1
+2013-01-01,Utah,2013,cohesion,component,sc-eng-a,Share of adults with limited English proficiency,1.749232213,0
+2017-01-01,Utah,2017,cohesion,component,sc-eng-a,Share of adults with limited English proficiency,1.914683628,0
+2021-01-01,Utah,2021,cohesion,component,sc-eng-a,Share of adults with limited English proficiency,2.066760549,0
+2025-01-01,Utah,2025,cohesion,component,sc-eng-a,Share of adults with limited English proficiency,2.008312545,1
+2013-01-01,Utah,2013,cohesion,component,sc-eng-c,Share of students with limited English proficiency,2.058080405,0
+2017-01-01,Utah,2017,cohesion,component,sc-eng-c,Share of students with limited English proficiency,2.648443898,0
+2021-01-01,Utah,2021,cohesion,component,sc-eng-c,Share of students with limited English proficiency,2.831752662,0
+2025-01-01,Utah,2025,cohesion,component,sc-eng-c,Share of students with limited English proficiency,2.367504436,1
+2013-01-01,Utah,2013,cohesion,component,sc-mid,Share of population in middle class households,3.30907358,0
+2017-01-01,Utah,2017,cohesion,component,sc-mid,Share of population in middle class households,3.200515131,0
+2021-01-01,Utah,2021,cohesion,component,sc-mid,Share of population in middle class households,3.672473982,0
+2025-01-01,Utah,2025,cohesion,component,sc-mid,Share of population in middle class households,3.253985243,1
+2013-01-01,Utah,2013,community,component,cl-don,Share of residents reporting a donation of at least $25 to a charitable group,3.391290784,0
+2017-01-01,Utah,2017,community,component,cl-don,Share of residents reporting a donation of at least $25 to a charitable group,3.358755232,0
+2021-01-01,Utah,2021,community,component,cl-don,Share of residents reporting a donation of at least $25 to a charitable group,1.120196096,0
+2025-01-01,Utah,2025,community,component,cl-don,Share of residents reporting a donation of at least $25 to a charitable group,2.90370231,1
+2013-01-01,Utah,2013,community,component,cl-mem,Worked on a neighborhood project,4.157236069,0
+2017-01-01,Utah,2017,community,component,cl-mem,Worked on a neighborhood project,4.086580534,0
+2021-01-01,Utah,2021,community,component,cl-mem,Worked on a neighborhood project,3.942322239,0
+2025-01-01,Utah,2025,community,component,cl-mem,Worked on a neighborhood project,4.615115698,1
+2013-01-01,Utah,2013,community,component,cl-np,Participation in neighborhood projects,-0.13066702,0
+2017-01-01,Utah,2017,community,component,cl-np,Participation in neighborhood projects,-0.029650556,0
+2021-01-01,Utah,2021,community,component,cl-np,Participation in neighborhood projects,-0.082689668,0
+2025-01-01,Utah,2025,community,component,cl-np,Participation in neighborhood projects,-0.182810137,1
+2013-01-01,Utah,2013,community,component,cl-npo,"Non-professional associations per 100,000 people",0.554462183,0
+2017-01-01,Utah,2017,community,component,cl-npo,"Non-professional associations per 100,000 people",0.604862478,0
+2021-01-01,Utah,2021,community,component,cl-npo,"Non-professional associations per 100,000 people",0.576365526,0
+2025-01-01,Utah,2025,community,component,cl-npo,"Non-professional associations per 100,000 people",0.482387657,1
+2013-01-01,Utah,2013,community,component,cl-porg,"Professional organizations per 100,000",0.743688542,0
+2017-01-01,Utah,2017,community,component,cl-porg,"Professional organizations per 100,000",0.7312704,0
+2021-01-01,Utah,2021,community,component,cl-porg,"Professional organizations per 100,000",0.72105624,0
+2025-01-01,Utah,2025,community,component,cl-porg,"Professional organizations per 100,000",0.882904929,1
+2013-01-01,Utah,2013,community,component,cl-rel,Weekly church or religious service attendance,3.463210671,0
+2017-01-01,Utah,2017,community,component,cl-rel,Weekly church or religious service attendance,2.982857092,0
+2021-01-01,Utah,2021,community,component,cl-rel,Weekly church or religious service attendance,1.541796354,0
+2025-01-01,Utah,2025,community,component,cl-rel,Weekly church or religious service attendance,1.541796354,1
+2013-01-01,Utah,2013,community,component,cl-ta,Time spent alone,2.873567198,0
+2017-01-01,Utah,2017,community,component,cl-ta,Time spent alone,2.119431052,0
+2021-01-01,Utah,2021,community,component,cl-ta,Time spent alone,2.065983499,0
+2025-01-01,Utah,2025,community,component,cl-ta,Time spent alone,0.226709343,1
+2013-01-01,Utah,2013,community,component,cl-tfn,Time spent with friends and neighbors,1.291739419,0
+2017-01-01,Utah,2017,community,component,cl-tfn,Time spent with friends and neighbors,-0.197253729,0
+2021-01-01,Utah,2021,community,component,cl-tfn,Time spent with friends and neighbors,-0.783656656,0
+2025-01-01,Utah,2025,community,component,cl-tfn,Time spent with friends and neighbors,-2.207372407,1
+2013-01-01,Utah,2013,community,component,cl-vol,Share of adults who report volunteering,4.136391014,0
+2017-01-01,Utah,2017,community,component,cl-vol,Share of adults who report volunteering,5.14066507,0
+2021-01-01,Utah,2021,community,component,cl-vol,Share of adults who report volunteering,3.034092959,0
+2025-01-01,Utah,2025,community,component,cl-vol,Share of adults who report volunteering,4.071236537,1
+2013-01-01,Utah,2013,family,component,fh-eat,Share of families eating a meal together daily,2.844446035,0
+2017-01-01,Utah,2017,family,component,fh-eat,Share of families eating a meal together daily,1.158561286,0
+2021-01-01,Utah,2021,family,component,fh-eat,Share of families eating a meal together daily,3.86070548,0
+2025-01-01,Utah,2025,family,component,fh-eat,Share of families eating a meal together daily,0.541084004,1
+2013-01-01,Utah,2013,family,component,fh-ed,"Share of children who spend 4+ hours on electronic devices, up to 17",2.139500807,0
+2017-01-01,Utah,2017,family,component,fh-ed,"Share of children who spend 4+ hours on electronic devices, up to 17",2.419666228,0
+2021-01-01,Utah,2021,family,component,fh-ed,"Share of children who spend 4+ hours on electronic devices, up to 17",0.54211417,0
+2025-01-01,Utah,2025,family,component,fh-ed,"Share of children who spend 4+ hours on electronic devices, up to 17",0.571998058,1
+2013-01-01,Utah,2013,family,component,fh-ma,Share of adults 35 to 64 currently married,3.888607445,0
+2017-01-01,Utah,2017,family,component,fh-ma,Share of adults 35 to 64 currently married,3.992928529,0
+2021-01-01,Utah,2021,family,component,fh-ma,Share of adults 35 to 64 currently married,3.863076664,0
+2025-01-01,Utah,2025,family,component,fh-ma,Share of adults 35 to 64 currently married,3.407184112,1
+2013-01-01,Utah,2013,family,component,fh-read,Share of children 5 and under read to every day in the past week,3.925672063,0
+2017-01-01,Utah,2017,family,component,fh-read,Share of children 5 and under read to every day in the past week,1.364861592,0
+2021-01-01,Utah,2021,family,component,fh-read,Share of children 5 and under read to every day in the past week,0.726005853,0
+2025-01-01,Utah,2025,family,component,fh-read,Share of children 5 and under read to every day in the past week,0.486235581,1
+2013-01-01,Utah,2013,family,component,fh-spf,Share of children living in a single-parent family,3.063372166,0
+2017-01-01,Utah,2017,family,component,fh-spf,Share of children living in a single-parent family,3.407527706,0
+2021-01-01,Utah,2021,family,component,fh-spf,Share of children living in a single-parent family,3.679566707,0
+2025-01-01,Utah,2025,family,component,fh-spf,Share of children living in a single-parent family,4.10958366,1
+2013-01-01,Utah,2013,family,component,fh-time,"Time spent with family while eating, exercising, or socializing",-0.369543791,0
+2017-01-01,Utah,2017,family,component,fh-time,"Time spent with family while eating, exercising, or socializing",1.577417724,0
+2021-01-01,Utah,2021,family,component,fh-time,"Time spent with family while eating, exercising, or socializing",0.443414818,0
+2025-01-01,Utah,2025,family,component,fh-time,"Time spent with family while eating, exercising, or socializing",0.623084679,1
+2013-01-01,Utah,2013,family,component,fh-tv,"Share of children watching 4+ hours of TV in the past week, up to 17",1.020408163,0
+2017-01-01,Utah,2017,family,component,fh-tv,"Share of children watching 4+ hours of TV in the past week, up to 17",1.020408163,0
+2021-01-01,Utah,2021,family,component,fh-tv,"Share of children watching 4+ hours of TV in the past week, up to 17",0.0,0
+2025-01-01,Utah,2025,family,component,fh-tv,"Share of children watching 4+ hours of TV in the past week, up to 17",0.0,1
+2013-01-01,Utah,2013,family,component,fh-uw,Share of births to unmarried women,4.108717477,0
+2017-01-01,Utah,2017,family,component,fh-uw,Share of births to unmarried women,4.175529458,0
+2021-01-01,Utah,2021,family,component,fh-uw,Share of births to unmarried women,4.016340771,0
+2025-01-01,Utah,2025,family,component,fh-uw,Share of births to unmarried women,3.752300296,1
+2013-01-01,Utah,2013,future,component,fg-br,Birth rates,9.229819739,0
+2017-01-01,Utah,2017,future,component,fg-br,Birth rates,7.690797502,0
+2021-01-01,Utah,2021,future,component,fg-br,Birth rates,4.762901539,0
+2025-01-01,Utah,2025,future,component,fg-br,Birth rates,2.961119409,1
+2013-01-01,Utah,2013,future,component,fg-play,"Investments in public parks and playgrounds per $1,000 of personal income",4.94698855,0
+2017-01-01,Utah,2017,future,component,fg-play,"Investments in public parks and playgrounds per $1,000 of personal income",3.267462302,0
+2021-01-01,Utah,2021,future,component,fg-play,"Investments in public parks and playgrounds per $1,000 of personal income",3.909359396,0
+2025-01-01,Utah,2025,future,component,fg-play,"Investments in public parks and playgrounds per $1,000 of personal income",3.615153928,1
+2013-01-01,Utah,2013,future,component,fg-sch,"Investments in public schools per $1,000 of personal income",2.452190617,0
+2017-01-01,Utah,2017,future,component,fg-sch,"Investments in public schools per $1,000 of personal income",1.119330382,0
+2021-01-01,Utah,2021,future,component,fg-sch,"Investments in public schools per $1,000 of personal income",1.283364899,0
+2025-01-01,Utah,2025,future,component,fg-sch,"Investments in public schools per $1,000 of personal income",0.519294313,1
+2013-01-01,Utah,2013,future,component,fg-yorg,"Youth organizations per 1,000 youth aged 5 to 17",1.29182666,0
+2017-01-01,Utah,2017,future,component,fg-yorg,"Youth organizations per 1,000 youth aged 5 to 17",0.894495311,0
+2021-01-01,Utah,2021,future,component,fg-yorg,"Youth organizations per 1,000 youth aged 5 to 17",0.252857446,0
+2025-01-01,Utah,2025,future,component,fg-yorg,"Youth organizations per 1,000 youth aged 5 to 17",0.097088324,1
+2013-01-01,Utah,2013,mobility,component,sm-em,Economic mobility,2.589551322,0
+2017-01-01,Utah,2017,mobility,component,sm-em,Economic mobility,2.589551322,0
+2021-01-01,Utah,2021,mobility,component,sm-em,Economic mobility,2.589551322,0
+2025-01-01,Utah,2025,mobility,component,sm-em,Economic mobility,2.589551322,1
+2013-01-01,Utah,2013,mobility,component,sm-grad,Share of population that are college graduates,1.416630707,0
+2017-01-01,Utah,2017,mobility,component,sm-grad,Share of population that are college graduates,2.02918685,0
+2021-01-01,Utah,2021,mobility,component,sm-grad,Share of population that are college graduates,2.884579268,0
+2025-01-01,Utah,2025,mobility,component,sm-grad,Share of population that are college graduates,3.942080259,1
+2013-01-01,Utah,2013,mobility,component,sm-hr,Homeownership rates,3.419911368,0
+2017-01-01,Utah,2017,mobility,component,sm-hr,Homeownership rates,3.284966045,0
+2021-01-01,Utah,2021,mobility,component,sm-hr,Homeownership rates,4.199317384,0
+2025-01-01,Utah,2025,mobility,component,sm-hr,Homeownership rates,3.982447784,1
+2013-01-01,Utah,2013,mobility,component,sm-neet,Unengaged youth,1.616583502,0
+2017-01-01,Utah,2017,mobility,component,sm-neet,Unengaged youth,2.896672987,0
+2021-01-01,Utah,2021,mobility,component,sm-neet,Unengaged youth,4.103631869,0
+2025-01-01,Utah,2025,mobility,component,sm-neet,Unengaged youth,3.680916276,1
+2013-01-01,Utah,2013,trust,component,st-fc,Fraud convictions per capita,1.977649109,0
+2017-01-01,Utah,2017,trust,component,st-fc,Fraud convictions per capita,2.690935132,0
+2021-01-01,Utah,2021,trust,component,st-fc,Fraud convictions per capita,3.34701273,0
+2025-01-01,Utah,2025,trust,component,st-fc,Fraud convictions per capita,4.386363267,1
+2013-01-01,Utah,2013,trust,component,st-fc trust,Convictions with breach of trust penalties per capita,3.572769753,0
+2017-01-01,Utah,2017,trust,component,st-fc trust,Convictions with breach of trust penalties per capita,4.868908687,0
+2021-01-01,Utah,2021,trust,component,st-fc trust,Convictions with breach of trust penalties per capita,4.829113292,0
+2025-01-01,Utah,2025,trust,component,st-fc trust,Convictions with breach of trust penalties per capita,4.683779688,1
+2013-01-01,Utah,2013,trust,component,st-fcc,Federal corruption convictions per capita,3.062561341,0
+2017-01-01,Utah,2017,trust,component,st-fcc,Federal corruption convictions per capita,3.141618309,0
+2021-01-01,Utah,2021,trust,component,st-fcc,Federal corruption convictions per capita,3.39525776,0
+2025-01-01,Utah,2025,trust,component,st-fcc,Federal corruption convictions per capita,3.291575171,1
+2013-01-01,Utah,2013,trust,component,st-vc,"Violent crimes per 1,000",3.712805683,0
+2017-01-01,Utah,2017,trust,component,st-vc,"Violent crimes per 1,000",3.309145335,0
+2021-01-01,Utah,2021,trust,component,st-vc,"Violent crimes per 1,000",3.324497976,0
+2025-01-01,Utah,2025,trust,component,st-vc,"Violent crimes per 1,000",3.368255922,1
