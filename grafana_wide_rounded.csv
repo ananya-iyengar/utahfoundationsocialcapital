@@ -1,0 +1,2440 @@
+State,State Code,Metric,2013,2017,2021,2025
+Alabama,AL,Civic Engagement,4.5,2.9,5.3,2.5
+Alabama,AL,Community Life,6.5,7.5,-0.1,-3.4
+Alabama,AL,Family Health,4.9,4.6,3.5,5.2
+Alabama,AL,Future Generations,6.6,4.9,3.6,3.6
+Alabama,AL,Social Cohesion,11.3,11.3,11.6,10.8
+Alabama,AL,Social Mobility,2.4,3.7,6.6,8.8
+Alabama,AL,Social Trust,1,2.7,6.3,7
+Alabama,AL,Total,37.2,37.7,36.9,34.4
+Alabama,AL,ce-ao,1.9,1.9,1.9,1.9
+Alabama,AL,ce-vt,2.1,0.1,1.5,0.8
+Alabama,AL,cl-cdd,1.1,0.7,-1.7,-1.9
+Alabama,AL,cl-don,1.5,0.6,-1,-0.7
+Alabama,AL,cl-mem,-0.3,0.2,0.2,0.2
+Alabama,AL,cl-np,0.9,0.9,0.7,0.7
+Alabama,AL,cl-npo,0.6,0.6,0.6,0.6
+Alabama,AL,cl-porg,0.7,0.7,0.7,0.7
+Alabama,AL,cl-rel,2.9,2.7,0.7,0.7
+Alabama,AL,cl-ta,1.1,0.8,-0.2,-0.6
+Alabama,AL,cl-tfn,-0.5,0.9,-0.4,-3.4
+Alabama,AL,cl-vol,0.5,1,-0.8,-0.8
+Alabama,AL,cv-pm,0.4,0.9,1.9,-0.2
+Alabama,AL,fg-act,-0.8,0,1.6,0.1
+Alabama,AL,fg-br,1.3,1.2,1,0.4
+Alabama,AL,fg-play,0.8,0.6,0.6,0.6
+Alabama,AL,fg-read,0.4,-0.3,1.4,0.9
+Alabama,AL,fg-sch,1.7,1,0.5,1
+Alabama,AL,fg-yorg,0.6,0.5,0.3,0.4
+Alabama,AL,fh-eat,2.4,0.9,1.7,3.3
+Alabama,AL,fh-ed,-2.2,0.2,0.4,-0.4
+Alabama,AL,fh-ma,1.1,0.8,1,0.7
+Alabama,AL,fh-read,1.2,1,0,-0.2
+Alabama,AL,fh-spf,0.6,0.4,0.6,0.6
+Alabama,AL,fh-time,1.3,1.5,0.4,2.1
+Alabama,AL,fh-tv,1.2,1.2,0,0
+Alabama,AL,fh-uw,0.6,-0.2,-0.1,0
+Alabama,AL,sc-born,3.8,3.8,3.6,3.2
+Alabama,AL,sc-eng-a,3.2,3.4,3.4,3.3
+Alabama,AL,sc-eng-c,3.2,3.2,3.4,2.9
+Alabama,AL,sc-mid,1.1,1,1.2,1.4
+Alabama,AL,sm-em,2.1,2.1,2.1,2.1
+Alabama,AL,sm-grad,-0.8,-0.2,0.4,1.2
+Alabama,AL,sm-hr,3,2.4,3,3.6
+Alabama,AL,sm-neet,-2,-0.6,1.1,1.9
+Alabama,AL,st-fc,-0.9,-0.5,1.8,1
+Alabama,AL,st-fc trust,-0.9,1.1,1.8,2.6
+Alabama,AL,st-fcc,1.2,1.1,2,1.7
+Alabama,AL,st-vc,1.5,1,0.7,1.7
+Alaska,AK,Civic Engagement,11.9,11,13.8,13
+Alaska,AK,Community Life,10,10.6,4.8,0.7
+Alaska,AK,Family Health,13.2,9.8,11.5,11.2
+Alaska,AK,Future Generations,20.4,19.9,12.1,9.1
+Alaska,AK,Social Cohesion,5,5.9,6.9,6.9
+Alaska,AK,Social Mobility,-2.7,0.1,-2.8,1.8
+Alaska,AK,Social Trust,1.2,2.1,4.8,6.2
+Alaska,AK,Total,59.1,59.2,51,48.9
+Alaska,AK,ce-ao,2.5,2.7,2.6,2.5
+Alaska,AK,ce-vt,0.5,1.9,3,5.7
+Alaska,AK,cl-cdd,0,-0.3,-2,-2.2
+Alaska,AK,cl-don,2.5,1.4,0.3,0.4
+Alaska,AK,cl-mem,3,1.3,1.1,1.8
+Alaska,AK,cl-np,0.3,0.3,0.3,0.3
+Alaska,AK,cl-npo,0.9,1,0.9,0.7
+Alaska,AK,cl-porg,0.8,0.8,0.8,0.7
+Alaska,AK,cl-rel,-0.7,0.2,-1.1,-1.1
+Alaska,AK,cl-ta,0.6,2.8,2.4,0
+Alaska,AK,cl-tfn,1.1,-0.3,0,-3.6
+Alaska,AK,cl-vol,1.8,3.3,0.4,1.7
+Alaska,AK,cv-pm,8.9,6.4,8.2,4.8
+Alaska,AK,fg-act,-0.4,-0.2,4.9,5.5
+Alaska,AK,fg-br,4.2,3.7,2.2,1.2
+Alaska,AK,fg-play,1.9,1.7,1.2,0.7
+Alaska,AK,fg-read,0.6,0.8,8.2,-0.8
+Alaska,AK,fg-sch,4.6,4.8,2.7,3.1
+Alaska,AK,fg-yorg,2.9,3,2,1
+Alaska,AK,fh-eat,3.8,2.4,4.1,3.8
+Alaska,AK,fh-ed,1,1.4,0.2,1.2
+Alaska,AK,fh-ma,1.2,1,1.5,0.4
+Alaska,AK,fh-read,3.2,1.5,2.6,2.1
+Alaska,AK,fh-spf,1.3,1.3,1.5,1.2
+Alaska,AK,fh-time,0.9,0.5,1.8,2.8
+Alaska,AK,fh-tv,1.2,1.2,0,0
+Alaska,AK,fh-uw,1.7,1.6,1.7,1.6
+Alaska,AK,sc-born,-0.9,-0.6,-0.5,-0.5
+Alaska,AK,sc-eng-a,1.9,2,2.2,2.4
+Alaska,AK,sc-eng-c,1.5,2,2.4,2.6
+Alaska,AK,sc-mid,2.6,2.6,2.8,2.5
+Alaska,AK,sm-em,-3.2,-3.2,-3.2,-3.2
+Alaska,AK,sm-grad,0.4,1.4,1.5,2.1
+Alaska,AK,sm-hr,1.2,1.6,1.9,2.9
+Alaska,AK,sm-neet,-1.1,0.3,-3,0
+Alaska,AK,st-fc,3.1,0.8,1.6,4
+Alaska,AK,st-fc trust,0.4,1,2.8,2.3
+Alaska,AK,st-fcc,-1.9,1.7,3.2,1.5
+Alaska,AK,st-vc,-0.3,-1.5,-2.8,-1.5
+Arizona,AZ,Civic Engagement,2.5,2.8,11,6.7
+Arizona,AZ,Community Life,4.3,5.9,2.7,0.2
+Arizona,AZ,Family Health,7.8,5.3,4.8,6.5
+Arizona,AZ,Future Generations,6.6,3.2,1.3,-0.4
+Arizona,AZ,Social Cohesion,-0.7,1.4,2.7,2.6
+Arizona,AZ,Social Mobility,-1.2,0.7,4.4,6.8
+Arizona,AZ,Social Trust,-7.4,6.3,7,12
+Arizona,AZ,Total,11.9,25.5,34,34.3
+Arizona,AZ,ce-ao,2,2.1,2.2,2
+Arizona,AZ,ce-vt,-0.6,1.5,6.7,2.9
+Arizona,AZ,cl-cdd,1.3,1,-1.5,-1.7
+Arizona,AZ,cl-don,0.4,1,0.4,0.5
+Arizona,AZ,cl-mem,-0.1,-0.3,0.2,0.5
+Arizona,AZ,cl-np,0.9,5.6,0.5,0.4
+Arizona,AZ,cl-npo,0.6,0.6,0.6,0.5
+Arizona,AZ,cl-porg,0.8,0.8,0.8,0.7
+Arizona,AZ,cl-rel,0.1,0.7,-0.3,-0.3
+Arizona,AZ,cl-ta,1.7,0.9,1.1,-0.8
+Arizona,AZ,cl-tfn,0.5,0.7,0.2,-1.9
+Arizona,AZ,cl-vol,0.3,1.5,-0.2,0.9
+Arizona,AZ,cv-pm,1.1,-0.8,2.1,1.7
+Arizona,AZ,fg-act,0.8,0.3,0.3,2.6
+Arizona,AZ,fg-br,2,1.4,0.1,-0.2
+Arizona,AZ,fg-play,1.5,0.8,1.1,0.5
+Arizona,AZ,fg-read,1.4,-0.2,1.8,1.1
+Arizona,AZ,fg-sch,0.4,-0.7,-0.6,-0.8
+Arizona,AZ,fg-yorg,0.6,0.7,0.3,0.2
+Arizona,AZ,fh-eat,3.1,1.2,2,1.5
+Arizona,AZ,fh-ed,-0.1,-0.3,-1.8,0.5
+Arizona,AZ,fh-ma,0.8,0.8,1,0.7
+Arizona,AZ,fh-read,1.7,0.1,0,0.6
+Arizona,AZ,fh-spf,1.1,1.4,1.8,2.1
+Arizona,AZ,fh-time,1.1,1.9,1.7,1
+Arizona,AZ,fh-tv,1,1,0,0
+Arizona,AZ,fh-uw,0.1,0.2,0.1,0.1
+Arizona,AZ,sc-born,-1.2,-1,-0.9,-1
+Arizona,AZ,sc-eng-a,-0.1,0.2,0.5,0.8
+Arizona,AZ,sc-eng-c,-1.2,0.4,1,1
+Arizona,AZ,sc-mid,1.8,1.8,2.1,1.9
+Arizona,AZ,sm-em,-0.1,-0.1,-0.1,-0.1
+Arizona,AZ,sm-grad,0.5,0.8,1.5,2.5
+Arizona,AZ,sm-hr,0.7,0.2,1.6,2.6
+Arizona,AZ,sm-neet,-2.3,-0.2,1.3,1.7
+Arizona,AZ,st-fc,-14.1,0.3,0.4,4.1
+Arizona,AZ,st-fc trust,3.2,3.3,3.7,4.1
+Arizona,AZ,st-fcc,1.9,1.1,1.6,2.2
+Arizona,AZ,st-vc,1.6,1.6,1.3,1.6
+Arkansas,AR,Civic Engagement,-0.1,3.1,3.2,0.3
+Arkansas,AR,Community Life,5.4,6.7,3.3,-1
+Arkansas,AR,Family Health,6.6,3.9,2,5
+Arkansas,AR,Future Generations,9.8,7.1,5,3.2
+Arkansas,AR,Social Cohesion,9.5,9.6,9.6,9.7
+Arkansas,AR,Social Mobility,2.6,3.1,6.1,7.3
+Arkansas,AR,Social Trust,5.9,7.1,7.3,8.8
+Arkansas,AR,Total,39.7,40.5,36.6,33.3
+Arkansas,AR,ce-ao,1.9,1.9,1.9,1.9
+Arkansas,AR,ce-vt,-1.8,0.7,-1.5,-1.7
+Arkansas,AR,cl-cdd,0.2,0,-2,-2.1
+Arkansas,AR,cl-don,-0.2,0.5,1,0.1
+Arkansas,AR,cl-mem,-0.3,-0.1,-0.1,0
+Arkansas,AR,cl-np,0.7,0.7,1,0.3
+Arkansas,AR,cl-npo,0.9,0.7,0.7,0.5
+Arkansas,AR,cl-porg,0.8,0.8,0.8,0.7
+Arkansas,AR,cl-rel,2.6,1.5,0.2,0.2
+Arkansas,AR,cl-ta,0.9,1.2,0.5,-0.5
+Arkansas,AR,cl-tfn,1.2,0.6,0.6,-2.5
+Arkansas,AR,cl-vol,-0.4,1.5,-0.5,0.6
+Arkansas,AR,cv-pm,-0.1,0.5,2.8,0.1
+Arkansas,AR,fg-act,1,-0.4,1.4,-0.4
+Arkansas,AR,fg-br,2,1.9,1.1,0.6
+Arkansas,AR,fg-play,0.9,0.6,0.4,0.4
+Arkansas,AR,fg-read,1,-0.6,0.2,0.5
+Arkansas,AR,fg-sch,3,1.6,1.4,0.9
+Arkansas,AR,fg-yorg,0.7,0.7,0.5,0.3
+Arkansas,AR,fh-eat,2.7,2,3.1,3.3
+Arkansas,AR,fh-ed,-0.1,-1.1,-1.7,0
+Arkansas,AR,fh-ma,1.4,1.2,1,0.8
+Arkansas,AR,fh-read,2.1,-0.7,-1.1,-0.1
+Arkansas,AR,fh-spf,0.3,0.5,0.5,0.7
+Arkansas,AR,fh-time,0.2,1.9,0.6,1.2
+Arkansas,AR,fh-tv,1.2,1.2,0,0
+Arkansas,AR,fh-uw,0.1,0.1,-0.1,0
+Arkansas,AR,sc-born,2.4,2.5,2.3,2.2
+Arkansas,AR,sc-eng-a,2.9,2.9,2.9,2.8
+Arkansas,AR,sc-eng-c,2.5,2.5,2.9,2.9
+Arkansas,AR,sc-mid,1.7,1.7,1.5,1.7
+Arkansas,AR,sm-em,3.7,3.7,3.7,3.7
+Arkansas,AR,sm-grad,-1.3,-0.9,-0.5,0.4
+Arkansas,AR,sm-hr,2.1,1.5,1.9,2.4
+Arkansas,AR,sm-neet,-1.8,-1.3,1,0.7
+Arkansas,AR,st-fc,2.2,2.5,2.9,3
+Arkansas,AR,st-fc trust,1.2,2.1,2.8,3
+Arkansas,AR,st-fcc,1.6,2.1,1.7,3.3
+Arkansas,AR,st-vc,0.9,0.5,0,-0.4
+California,CA,Civic Engagement,3.6,3.1,8.7,5.7
+California,CA,Community Life,6.6,5.9,-0.3,-2.9
+California,CA,Family Health,11.4,10.2,1.9,1
+California,CA,Future Generations,7.9,5.7,4.4,4.1
+California,CA,Social Cohesion,-7.5,-5.6,-3.9,-3.9
+California,CA,Social Mobility,0.2,2.4,5.1,6.2
+California,CA,Social Trust,10.8,10.8,11.7,11.5
+California,CA,Total,33.1,32.5,27.5,21.7
+California,CA,ce-ao,2,2,2,2
+California,CA,ce-vt,0.1,0.3,3.6,2.2
+California,CA,cl-cdd,1.7,1.7,-0.6,-0.9
+California,CA,cl-don,0.1,0.1,-1.1,-0.6
+California,CA,cl-mem,0.4,0.1,0.1,0.1
+California,CA,cl-np,0.7,0.5,0.3,0.3
+California,CA,cl-npo,0.7,0.8,0.7,0.6
+California,CA,cl-porg,0.7,0.7,0.7,0.7
+California,CA,cl-rel,0.6,0.3,-1,-1
+California,CA,cl-ta,1.6,1.3,0.6,-1.1
+California,CA,cl-tfn,2.1,1.8,0.6,-1.6
+California,CA,cl-vol,0.4,0.7,-0.9,-0.1
+California,CA,cv-pm,1.5,0.7,3.1,1.4
+California,CA,fg-act,1.7,1.4,1.3,1.1
+California,CA,fg-br,2.1,1.5,0.4,-0.4
+California,CA,fg-play,1.6,1.1,1.1,1.1
+California,CA,fg-read,1.1,1.7,1.2,1
+California,CA,fg-sch,0.6,0.2,0.6,0.7
+California,CA,fg-yorg,0.9,1,0.8,1.3
+California,CA,fh-eat,2.6,1.8,3.9,2
+California,CA,fh-ed,1.8,1.7,-0.3,0.8
+California,CA,fh-ma,1.2,1.3,1.6,1.2
+California,CA,fh-read,1,-0.6,1.1,1.1
+California,CA,fh-spf,3.4,3.9,4.8,5
+California,CA,fh-time,0.5,1,0.7,0.7
+California,CA,fh-tv,1.2,1.2,0,0
+California,CA,fh-uw,1,1.1,-9.6,-9.6
+California,CA,sc-born,1.3,1.4,1.6,1.6
+California,CA,sc-eng-a,-4.6,-4.2,-3.6,-3.5
+California,CA,sc-eng-c,-5.1,-3.5,-2.8,-3
+California,CA,sc-mid,0.9,0.7,1,1
+California,CA,sm-em,0.9,0.9,0.9,0.9
+California,CA,sm-grad,1.6,2.2,3,3.7
+California,CA,sm-hr,-1.7,-2.1,-1.5,-0.9
+California,CA,sm-neet,-0.6,1.4,2.8,2.5
+California,CA,st-fc,2.7,3.1,3.7,3.9
+California,CA,st-fc trust,3.8,3.9,3.9,4.1
+California,CA,st-fcc,2.7,2.3,2.7,2.9
+California,CA,st-vc,1.6,1.5,1.3,0.7
+Colorado,CO,Civic Engagement,13.6,10.5,13.4,12.4
+Colorado,CO,Community Life,7.9,7.6,4.1,5.5
+Colorado,CO,Family Health,14.3,12.2,10.9,9.9
+Colorado,CO,Future Generations,15.6,12.5,10.2,11.1
+Colorado,CO,Social Cohesion,3.5,4.4,5.2,4.7
+Colorado,CO,Social Mobility,7.3,9.9,12.9,14.6
+Colorado,CO,Social Trust,12.8,14.1,13.4,14.5
+Colorado,CO,Total,74.9,71.1,70.1,72.8
+Colorado,CO,ce-ao,2.7,2.1,2,2
+Colorado,CO,ce-vt,6,5.6,4.8,7.3
+Colorado,CO,cl-cdd,1.9,1.3,-1.2,-1.5
+Colorado,CO,cl-don,1.9,1.5,1.5,2.6
+Colorado,CO,cl-mem,1.3,0.7,1.1,0.9
+Colorado,CO,cl-np,2.4,1.9,1.2,0.9
+Colorado,CO,cl-npo,0.7,0.7,0.6,0.9
+Colorado,CO,cl-porg,0.8,0.8,0.8,0.7
+Colorado,CO,cl-rel,0.1,0.2,-1,-1
+Colorado,CO,cl-ta,1.5,0.7,0.2,-0.3
+Colorado,CO,cl-tfn,0.3,1.1,0.3,0.2
+Colorado,CO,cl-vol,1.4,1.9,0.5,1.6
+Colorado,CO,cv-pm,4.8,2.7,6.7,3.1
+Colorado,CO,fg-act,1.4,2.1,0.1,0.8
+Colorado,CO,fg-br,1.6,1.2,0.1,-0.3
+Colorado,CO,fg-play,4.2,2.7,3.3,3.1
+Colorado,CO,fg-read,1.7,3.1,1.9,1
+Colorado,CO,fg-sch,0.5,0,0.2,0.1
+Colorado,CO,fg-yorg,4.1,4.4,3.2,4.4
+Colorado,CO,fh-eat,3.1,1.3,3,1.1
+Colorado,CO,fh-ed,2.4,1.9,-0.1,1.7
+Colorado,CO,fh-ma,1.3,1.5,1.5,1
+Colorado,CO,fh-read,3.8,2.3,2.1,1.1
+Colorado,CO,fh-spf,0.6,1.1,1.4,1.3
+Colorado,CO,fh-time,-0.4,0.5,-0.6,0.4
+Colorado,CO,fh-tv,1,1,0,0
+Colorado,CO,fh-uw,3.5,3.6,3.5,3.3
+Colorado,CO,sc-born,-0.5,-0.5,-0.6,-0.7
+Colorado,CO,sc-eng-a,1.3,1.6,1.8,1.9
+Colorado,CO,sc-eng-c,0.8,1.3,1.8,1.5
+Colorado,CO,sc-mid,2,2,2.1,2.1
+Colorado,CO,sm-em,1.4,1.4,1.4,1.4
+Colorado,CO,sm-grad,3.4,4.2,5.2,6.3
+Colorado,CO,sm-hr,1.5,1.4,2.3,2.6
+Colorado,CO,sm-neet,1,3,4.1,4.4
+Colorado,CO,st-fc,4.1,4.6,4.6,5.5
+Colorado,CO,st-fc trust,3.2,3.6,4,4.5
+Colorado,CO,st-fcc,2.9,3.3,3,3.5
+Colorado,CO,st-vc,2.6,2.5,1.9,1
+Connecticut,CT,Civic Engagement,7.3,9,12.1,10.4
+Connecticut,CT,Community Life,8.7,7.4,6,1.3
+Connecticut,CT,Family Health,7,7,3.3,7.5
+Connecticut,CT,Future Generations,-0.2,0.3,-1.1,-0.7
+Connecticut,CT,Social Cohesion,5.1,5,4.5,4.3
+Connecticut,CT,Social Mobility,9.7,11.5,12.3,14.1
+Connecticut,CT,Social Trust,11.1,10.2,13.5,14.2
+Connecticut,CT,Total,48.8,50.4,50.6,51.1
+Connecticut,CT,ce-ao,2,1.9,1.9,1.9
+Connecticut,CT,ce-vt,2.5,3,4.3,4.5
+Connecticut,CT,cl-cdd,2.8,2.6,-1,-1.4
+Connecticut,CT,cl-don,1.8,1.1,2.5,2
+Connecticut,CT,cl-mem,0.9,0.1,1,0
+Connecticut,CT,cl-np,0.1,0,0.2,-0.1
+Connecticut,CT,cl-npo,0.8,0.8,0.7,0.5
+Connecticut,CT,cl-porg,0.7,0.7,0.7,0.7
+Connecticut,CT,cl-rel,0.2,0,-1.3,-1.3
+Connecticut,CT,cl-ta,1.2,0.6,0,-1.3
+Connecticut,CT,cl-tfn,2,2.2,1.6,-1.4
+Connecticut,CT,cl-vol,1.1,1.8,0.8,2.1
+Connecticut,CT,cv-pm,2.8,4,5.9,4
+Connecticut,CT,fg-act,2.5,2.2,-0.8,0.9
+Connecticut,CT,fg-br,-0.3,-0.7,-1,-1
+Connecticut,CT,fg-play,-0.7,-0.2,-0.6,-0.7
+Connecticut,CT,fg-read,1.7,3.6,0,-0.1
+Connecticut,CT,fg-sch,0.5,0.6,0.5,0.8
+Connecticut,CT,fg-yorg,0.4,0.5,0.3,0.4
+Connecticut,CT,fh-eat,0.2,-0.3,1.3,0.6
+Connecticut,CT,fh-ed,0.6,1.4,-1.7,0.4
+Connecticut,CT,fh-ma,1.2,1.1,1,0.7
+Connecticut,CT,fh-read,2.3,1.8,0.8,2.2
+Connecticut,CT,fh-spf,1.1,1.3,1.5,2
+Connecticut,CT,fh-time,0.4,0.3,-0.5,1.4
+Connecticut,CT,fh-tv,1.2,1.2,0,0
+Connecticut,CT,fh-uw,1.2,1.4,1.5,1.5
+Connecticut,CT,sc-born,1.5,1.5,1.2,1.2
+Connecticut,CT,sc-eng-a,0.5,0.6,0.6,0.4
+Connecticut,CT,sc-eng-c,1.6,1.7,1.7,1.3
+Connecticut,CT,sc-mid,1.5,1.3,0.9,1.4
+Connecticut,CT,sm-em,2.1,2.1,2.1,2.1
+Connecticut,CT,sm-grad,3.3,3.9,4.4,5.3
+Connecticut,CT,sm-hr,2.9,2.5,2.3,2.8
+Connecticut,CT,sm-neet,1.4,3,3.5,3.9
+Connecticut,CT,st-fc,2.8,3,3.9,4.1
+Connecticut,CT,st-fc trust,2.4,1.8,2.6,3.1
+Connecticut,CT,st-fcc,3,2,3.2,2.8
+Connecticut,CT,st-vc,2.9,3.5,3.8,4.2
+Delaware,DE,Civic Engagement,12.5,7.2,11.2,9.1
+Delaware,DE,Community Life,7.9,13.6,3.7,2.1
+Delaware,DE,Family Health,7.6,7.1,1.1,3.6
+Delaware,DE,Future Generations,7.2,5.6,4.4,1.4
+Delaware,DE,Social Cohesion,6.4,6.9,5.8,4.1
+Delaware,DE,Social Mobility,7,8,10.2,13.5
+Delaware,DE,Social Trust,5.2,9.8,11.3,14.8
+Delaware,DE,Total,53.9,58.3,47.6,48.6
+Delaware,DE,ce-ao,1.9,2,1.9,1.9
+Delaware,DE,ce-vt,4.6,2.3,4.8,4.5
+Delaware,DE,cl-cdd,1.7,1.3,-1.4,-1.7
+Delaware,DE,cl-don,1.2,2.5,0.5,0.4
+Delaware,DE,cl-mem,0.3,1.3,1.6,0.8
+Delaware,DE,cl-np,0.3,0.2,0.4,-0.1
+Delaware,DE,cl-npo,1,1.2,1.1,1.1
+Delaware,DE,cl-porg,0.8,0.7,0.7,0.7
+Delaware,DE,cl-rel,0.8,0.7,-0.1,-0.1
+Delaware,DE,cl-ta,1.1,3,0.6,-0.9
+Delaware,DE,cl-tfn,2.1,2.4,-1.9,-1.1
+Delaware,DE,cl-vol,0.7,1.8,1.2,1.2
+Delaware,DE,cv-pm,6,2.9,4.5,2.7
+Delaware,DE,fg-act,-0.4,2.2,-2,3.1
+Delaware,DE,fg-br,1.3,0.8,0,-0.6
+Delaware,DE,fg-play,0,-0.1,0.1,0.1
+Delaware,DE,fg-read,1.7,-0.2,0.7,0.2
+Delaware,DE,fg-sch,1.7,1.2,1.3,1.1
+Delaware,DE,fg-yorg,1.8,1.8,1.5,0.4
+Delaware,DE,fh-eat,1.7,1.2,0.3,-2
+Delaware,DE,fh-ed,0,0,-2.8,-0.2
+Delaware,DE,fh-ma,1.2,1.1,1.1,1.2
+Delaware,DE,fh-read,2.7,1.3,0.6,0.4
+Delaware,DE,fh-spf,1.8,1.6,1.4,2.3
+Delaware,DE,fh-time,0.4,2.1,1,2.7
+Delaware,DE,fh-tv,1.2,1.2,0,0
+Delaware,DE,fh-uw,-0.3,-0.2,-0.2,-0.2
+Delaware,DE,sc-born,-0.1,0,-0.3,-0.6
+Delaware,DE,sc-eng-a,2.3,2.3,2.3,1.9
+Delaware,DE,sc-eng-c,1.6,2.1,1.8,0.4
+Delaware,DE,sc-mid,2.6,2.5,2,2.3
+Delaware,DE,sm-em,1.9,1.9,1.9,1.9
+Delaware,DE,sm-grad,1.2,1.8,2.4,3.4
+Delaware,DE,sm-hr,3.4,3.1,3.3,4.6
+Delaware,DE,sm-neet,0.5,1.1,2.6,3.5
+Delaware,DE,st-fc,3,4.1,4.3,5.6
+Delaware,DE,st-fc trust,0.7,2.7,2.8,4
+Delaware,DE,st-fcc,1.4,2.3,2.7,3.3
+Delaware,DE,st-vc,0.1,0.7,1.5,1.9
+District of Columbia,DC,Community Life,25.8,22.4,19.7,10.3
+District of Columbia,DC,Family Health,-1.7,-0.2,0.1,-2.3
+District of Columbia,DC,Future Generations,23.4,24.5,21.9,25.6
+District of Columbia,DC,Social Mobility,10.7,14.4,12.1,15.6
+District of Columbia,DC,Social Trust,-69.8,-26.7,-21.5,-22.6
+District of Columbia,DC,ce-ao,23.3,19.3,10.3,19
+District of Columbia,DC,ce-vt,8.6,7.9,12.3,2.9
+District of Columbia,DC,cl-cdd,2.3,2.3,0,-0.3
+District of Columbia,DC,cl-don,-0.2,1.6,2.5,2.4
+District of Columbia,DC,cl-mem,2.7,2.6,2.4,2.1
+District of Columbia,DC,cl-np,3.3,2.2,2.2,3.3
+District of Columbia,DC,cl-npo,8.5,7.2,6.3,4.7
+District of Columbia,DC,cl-porg,7.6,7.3,6.6,2.4
+District of Columbia,DC,cl-rel,1.1,0,-1.2,-1.2
+District of Columbia,DC,cl-ta,-0.5,-1.7,-2.2,-4.2
+District of Columbia,DC,cl-tfn,5.2,2.3,3.7,1.9
+District of Columbia,DC,cl-vol,1.5,3.2,1.8,2.1
+District of Columbia,DC,fg-act,0.7,0.4,-1,-0.2
+District of Columbia,DC,fg-br,3.5,2.9,1.7,0.7
+District of Columbia,DC,fg-play,4.4,2.9,4.8,3.7
+District of Columbia,DC,fg-read,0.1,1.1,-1.1,1.5
+District of Columbia,DC,fg-sch,3.3,3.1,3,2.8
+District of Columbia,DC,fg-yorg,4.4,7.5,5.1,9.8
+District of Columbia,DC,fh-eat,2.3,2.5,5.6,2.5
+District of Columbia,DC,fh-ed,-1.5,1,-1.3,2.3
+District of Columbia,DC,fh-ma,-5.2,-4.3,-4.6,-4.9
+District of Columbia,DC,fh-read,5.6,5.1,6.7,5.4
+District of Columbia,DC,fh-spf,-1.5,-1,-1.8,-2.4
+District of Columbia,DC,fh-time,-0.7,-3.2,-4.8,-5.5
+District of Columbia,DC,fh-tv,1.2,1.2,0,0
+District of Columbia,DC,fh-uw,-0.7,-0.3,0.4,-0.1
+District of Columbia,DC,sc-born,-1.2,-1.6,-1.3,-1.9
+District of Columbia,DC,sc-eng-a,2.3,1.9,1.9,2.1
+District of Columbia,DC,sc-eng-c,2.2,0.6,0.2,0.9
+District of Columbia,DC,sm-em,7.6,7.6,7.6,7.6
+District of Columbia,DC,sm-grad,8.1,9.3,10.2,12
+District of Columbia,DC,sm-hr,-5.2,-5.7,-4.8,-5.1
+District of Columbia,DC,sm-neet,0.2,3.2,-0.9,1
+District of Columbia,DC,st-fc,-16.6,-5.8,-4.9,-5.3
+District of Columbia,DC,st-fc trust,-6.6,-6.3,-2.5,-3.3
+District of Columbia,DC,st-fcc,-40.5,-7.9,-9.5,-8.4
+District of Columbia,DC,st-vc,-6.1,-6.8,-4.6,-5.6
+Florida,FL,Civic Engagement,4.3,2.9,6.4,8.3
+Florida,FL,Community Life,3.9,4.9,-1.2,-3.4
+Florida,FL,Family Health,4.1,4.6,5,5.2
+Florida,FL,Future Generations,4.9,2.6,0.8,-0.1
+Florida,FL,Social Cohesion,-1.4,-1,-0.9,-1.5
+Florida,FL,Social Mobility,0.6,2.4,5.3,7.4
+Florida,FL,Social Trust,1.3,2.1,6.4,10.4
+Florida,FL,Total,17.5,18.4,21.7,26.3
+Florida,FL,ce-ao,2.3,2.4,2.4,2.3
+Florida,FL,ce-vt,1.6,1,2.2,4.4
+Florida,FL,cl-cdd,0.2,0.1,-1.7,-1.9
+Florida,FL,cl-don,-0.7,-0.5,-1.5,-1
+Florida,FL,cl-mem,0,1.2,0.1,0.7
+Florida,FL,cl-np,0.8,0.6,0.7,0.7
+Florida,FL,cl-npo,0.6,0.7,0.6,0.5
+Florida,FL,cl-porg,0.8,0.8,0.8,0.7
+Florida,FL,cl-rel,1.1,0.8,-0.7,-0.7
+Florida,FL,cl-ta,0.8,0.7,0.3,-1
+Florida,FL,cl-tfn,1.6,1,0.6,-2.1
+Florida,FL,cl-vol,-0.4,0.2,-1.4,-0.5
+Florida,FL,cv-pm,0.3,-0.6,1.8,1.6
+Florida,FL,fg-act,0.5,1.4,0.5,0.6
+Florida,FL,fg-br,0.3,0.2,-0.5,-0.8
+Florida,FL,fg-play,2,1.5,1.6,1.2
+Florida,FL,fg-read,0.4,0.7,1.1,0.6
+Florida,FL,fg-sch,0.2,-0.6,-1,-1.2
+Florida,FL,fg-yorg,0.7,0.6,0.4,0.7
+Florida,FL,fh-eat,1.5,1.7,5.2,1.2
+Florida,FL,fh-ed,-0.7,0.3,-1.7,-0.4
+Florida,FL,fh-ma,0.6,0.6,0.8,0.9
+Florida,FL,fh-read,1.4,0,-0.6,0.6
+Florida,FL,fh-spf,0.9,1.2,1.7,2.3
+Florida,FL,fh-time,0.7,0.9,0.5,1.4
+Florida,FL,fh-tv,1.2,1.2,0,0
+Florida,FL,fh-uw,-0.3,-0.1,-0.1,0
+Florida,FL,sc-born,-1.6,-1.5,-1.6,-1.7
+Florida,FL,sc-eng-a,-1,-1,-1,-1.1
+Florida,FL,sc-eng-c,-0.3,0.1,0.1,-0.3
+Florida,FL,sc-mid,1.5,1.4,1.6,1.7
+Florida,FL,sm-em,-0.2,-0.2,-0.2,-0.2
+Florida,FL,sm-grad,0.3,1,1.7,2.9
+Florida,FL,sm-hr,1.7,0.6,1.6,2.5
+Florida,FL,sm-neet,-1.1,0.9,2.2,2.3
+Florida,FL,st-fc,-1.8,-1.9,0.3,1.9
+Florida,FL,st-fc trust,0.5,1.2,2.1,3
+Florida,FL,st-fcc,1.9,1.7,2,2.7
+Florida,FL,st-vc,0.6,1.1,1.9,2.8
+Georgia,GA,Civic Engagement,5.5,4.1,9.1,11.1
+Georgia,GA,Community Life,8.9,5,-0.7,-0.6
+Georgia,GA,Family Health,6.6,3.6,5.9,4.1
+Georgia,GA,Future Generations,10.2,8.2,6,5.2
+Georgia,GA,Social Cohesion,6.3,6.3,6.3,5.8
+Georgia,GA,Social Mobility,0.3,1.9,5.5,7.8
+Georgia,GA,Social Trust,7.9,6.6,10.6,11.9
+Georgia,GA,Total,45.6,35.8,42.7,45.3
+Georgia,GA,ce-ao,2,2.1,2,2
+Georgia,GA,ce-vt,2.1,1.4,4.1,5.1
+Georgia,GA,cl-cdd,1.6,1.6,-1.1,-1.4
+Georgia,GA,cl-don,0.7,0,0,-0.3
+Georgia,GA,cl-mem,1,0,-0.1,1.2
+Georgia,GA,cl-np,3.4,1.3,3.6,4
+Georgia,GA,cl-npo,0.6,0.7,0.6,0.6
+Georgia,GA,cl-porg,0.8,0.7,0.8,0.7
+Georgia,GA,cl-rel,2,1.7,-0.1,-0.1
+Georgia,GA,cl-ta,1.7,0.7,0.2,-1.7
+Georgia,GA,cl-tfn,1.7,0.4,-1.4,-1.5
+Georgia,GA,cl-vol,0.3,0.8,-0.7,0.4
+Georgia,GA,cv-pm,1.3,0.7,3,4
+Georgia,GA,fg-act,1.2,2.3,1.3,-0.2
+Georgia,GA,fg-br,2.2,1.7,0.9,0.4
+Georgia,GA,fg-play,0.8,0.2,0.5,0.4
+Georgia,GA,fg-read,0.7,1.5,1.3,0
+Georgia,GA,fg-sch,2,1.5,1.2,1.2
+Georgia,GA,fg-yorg,1.7,2,1.3,1.5
+Georgia,GA,fh-eat,2.6,0.7,4,2.2
+Georgia,GA,fh-ed,-0.4,0.2,0.2,0.9
+Georgia,GA,fh-ma,0.9,1,0.9,0.8
+Georgia,GA,fh-read,1.7,-0.4,0,-0.6
+Georgia,GA,fh-spf,1.1,1.3,1.5,2.1
+Georgia,GA,fh-time,0.5,0.7,0.3,-0.5
+Georgia,GA,fh-tv,1.2,1.2,0,0
+Georgia,GA,fh-uw,0.1,0.2,0,-0.1
+Georgia,GA,sc-born,1.5,1.4,1.3,1.1
+Georgia,GA,sc-eng-a,1.7,1.7,1.9,1.8
+Georgia,GA,sc-eng-c,1.9,1.9,1.6,1.4
+Georgia,GA,sc-mid,1.1,1.3,1.5,1.5
+Georgia,GA,sm-em,0.7,0.7,0.7,0.7
+Georgia,GA,sm-grad,0.8,1.5,2.2,3.1
+Georgia,GA,sm-hr,1.2,0.5,1.5,2.4
+Georgia,GA,sm-neet,-2.4,-0.8,1,1.6
+Georgia,GA,st-fc,2.3,1.8,3.2,3.5
+Georgia,GA,st-fc trust,2.2,1.3,2.8,3.6
+Georgia,GA,st-fcc,1.4,1.5,2.2,2.6
+Georgia,GA,st-vc,2,1.9,2.4,2.2
+Hawaii,HI,Civic Engagement,-0.1,-1.7,9.5,2.2
+Hawaii,HI,Community Life,5,5.9,-1.9,-1.6
+Hawaii,HI,Family Health,15.1,14.3,13.1,10.8
+Hawaii,HI,Future Generations,9.6,6.3,5.3,3.1
+Hawaii,HI,Social Cohesion,2.3,1,2.6,3.3
+Hawaii,HI,Social Mobility,3.5,5,7.3,8.7
+Hawaii,HI,Social Trust,9.3,11,12.9,14
+Hawaii,HI,Total,44.7,41.9,48.7,40.5
+Hawaii,HI,ce-ao,2.1,2.1,2.1,2.1
+Hawaii,HI,ce-vt,-2.6,-4.6,3.2,-3.2
+Hawaii,HI,cl-cdd,1.2,0.8,-1.2,-1.5
+Hawaii,HI,cl-don,1.1,0.7,-0.2,1.9
+Hawaii,HI,cl-mem,0.4,0.4,-0.4,-0.3
+Hawaii,HI,cl-np,0.2,0.1,0.1,0
+Hawaii,HI,cl-npo,0.8,0.8,0.7,0.6
+Hawaii,HI,cl-porg,0.7,0.7,0.7,0.7
+Hawaii,HI,cl-rel,0.8,0,-1.3,-1.3
+Hawaii,HI,cl-ta,1.4,1.3,0,-0.3
+Hawaii,HI,cl-tfn,-0.2,0.9,-0.6,-3.4
+Hawaii,HI,cl-vol,0,1.1,-0.7,0.6
+Hawaii,HI,cv-pm,0.4,0.8,4.2,3.3
+Hawaii,HI,fg-act,1.1,-1.2,2.9,-0.4
+Hawaii,HI,fg-br,2.5,1.7,0.9,-0.4
+Hawaii,HI,fg-play,3.1,2.2,2.3,2.3
+Hawaii,HI,fg-read,1.7,0.5,10.2,-0.5
+Hawaii,HI,fg-sch,-0.1,-0.6,-0.3,-0.4
+Hawaii,HI,fg-yorg,0.9,0.8,0.6,0.6
+Hawaii,HI,fh-eat,3.7,3,5.4,2.7
+Hawaii,HI,fh-ed,0.5,-0.1,-3.1,-1.3
+Hawaii,HI,fh-ma,1.8,2,1.7,1.7
+Hawaii,HI,fh-read,3.2,0.8,3.1,0
+Hawaii,HI,fh-spf,4.3,4.9,5.2,5.5
+Hawaii,HI,fh-time,0.2,2.6,1.9,3
+Hawaii,HI,fh-tv,1.2,1.2,0,0
+Hawaii,HI,fh-uw,1.3,1.1,1.2,0.9
+Hawaii,HI,sc-born,1.4,1.1,1,1.1
+Hawaii,HI,sc-eng-a,-1.2,-1.3,-0.8,-0.6
+Hawaii,HI,sc-eng-c,-0.7,-1.6,-0.5,0.5
+Hawaii,HI,sc-mid,2.9,2.8,2.9,2.3
+Hawaii,HI,sm-em,1.4,1.4,1.4,1.4
+Hawaii,HI,sm-grad,1.2,1.9,2.6,3.5
+Hawaii,HI,sm-hr,-0.2,-0.6,0.6,1.4
+Hawaii,HI,sm-neet,1.1,2.4,2.8,2.3
+Hawaii,HI,st-fc,1.3,3.1,4.2,5
+Hawaii,HI,st-fc trust,2.1,2.8,3.4,3.4
+Hawaii,HI,st-fcc,2.8,2.3,2.3,1.8
+Hawaii,HI,st-vc,3.2,2.8,3.1,3.8
+Idaho,ID,Civic Engagement,11.9,5.1,9.1,9.3
+Idaho,ID,Community Life,11.1,12,6.9,6.1
+Idaho,ID,Family Health,16.1,10.9,12,13.9
+Idaho,ID,Future Generations,6.8,5,3.3,2.8
+Idaho,ID,Social Cohesion,7.7,7.1,8.3,8.3
+Idaho,ID,Social Mobility,2.5,6,10,9.3
+Idaho,ID,Social Trust,13.7,12,11.1,14
+Idaho,ID,Total,69.8,58.2,60.7,63.7
+Idaho,ID,ce-ao,2,2,2,1.9
+Idaho,ID,ce-vt,3.1,2.2,3.5,2.9
+Idaho,ID,cl-cdd,1.2,0.8,-1.7,-1.8
+Idaho,ID,cl-don,0.5,1.5,1.8,1.7
+Idaho,ID,cl-mem,1.4,2.3,1.2,1
+Idaho,ID,cl-np,0.2,0.2,0.1,0.1
+Idaho,ID,cl-npo,0.6,0.5,0.5,0.5
+Idaho,ID,cl-porg,0.7,0.7,0.7,0.7
+Idaho,ID,cl-rel,2,0.8,0.7,0.7
+Idaho,ID,cl-ta,2.6,2,1.5,0.8
+Idaho,ID,cl-tfn,1,1.3,-0.5,-0.9
+Idaho,ID,cl-vol,2.3,2.8,1,1.6
+Idaho,ID,cv-pm,6.8,0.9,3.6,4.5
+Idaho,ID,fg-act,0,1.7,0.4,1.4
+Idaho,ID,fg-br,2.7,2.5,1.3,0.5
+Idaho,ID,fg-play,0.7,0.6,1,1.9
+Idaho,ID,fg-read,1.2,1.3,2.1,3.5
+Idaho,ID,fg-sch,0.2,-0.6,-0.6,-1
+Idaho,ID,fg-yorg,0.9,0.9,0.5,0.4
+Idaho,ID,fh-eat,3.1,2,2.3,1.6
+Idaho,ID,fh-ed,1.6,1.7,1,1.5
+Idaho,ID,fh-ma,2.7,2.4,2.6,2.8
+Idaho,ID,fh-read,3.6,-0.1,-0.7,0.4
+Idaho,ID,fh-spf,1.1,0.9,1.6,2.1
+Idaho,ID,fh-time,1,1.3,2.3,2.5
+Idaho,ID,fh-tv,1,1,0,0
+Idaho,ID,fh-uw,2.9,2.7,2.8,3
+Idaho,ID,sc-born,0.1,0.3,0,-0.4
+Idaho,ID,sc-eng-a,2.5,2.5,2.6,2.7
+Idaho,ID,sc-eng-c,2.4,2.3,2.6,3
+Idaho,ID,sc-mid,2.7,2,3.1,3
+Idaho,ID,sm-em,1.1,1.1,1.1,1.1
+Idaho,ID,sm-grad,0.1,0.3,1.1,2.1
+Idaho,ID,sm-hr,2.7,2.7,3.9,4.3
+Idaho,ID,sm-neet,-1.4,1.9,3.9,1.7
+Idaho,ID,st-fc,3.4,3,2.8,3.8
+Idaho,ID,st-fc trust,3.7,2.9,2.6,4.1
+Idaho,ID,st-fcc,3,2.6,2.4,2.8
+Idaho,ID,st-vc,3.7,3.5,3.4,3.4
+Illinois,IL,Civic Engagement,5.9,6,11.3,8.7
+Illinois,IL,Community Life,8.3,9.4,6.7,1.2
+Illinois,IL,Family Health,8.8,6,3.9,5.8
+Illinois,IL,Future Generations,9.4,7.9,5.8,7.6
+Illinois,IL,Social Cohesion,4.3,5.4,6,5.2
+Illinois,IL,Social Mobility,5,6,9,10.4
+Illinois,IL,Social Trust,5.8,6.2,9.7,11.2
+Illinois,IL,Total,47.5,46.9,52.4,50.2
+Illinois,IL,ce-ao,2,2,2,2
+Illinois,IL,ce-vt,2,3,5.1,2.8
+Illinois,IL,cl-cdd,1.6,1.3,-1.5,-1.7
+Illinois,IL,cl-don,1.6,1.4,1.6,0.6
+Illinois,IL,cl-mem,0.3,0.8,1,1
+Illinois,IL,cl-np,1.3,1,0.9,0.7
+Illinois,IL,cl-npo,0.8,1,0.8,0.8
+Illinois,IL,cl-porg,1,1,0.9,0.7
+Illinois,IL,cl-rel,1.3,0.7,-0.4,-0.4
+Illinois,IL,cl-ta,1.3,0.8,0.6,-1.1
+Illinois,IL,cl-tfn,1.3,2.6,1.2,-1.4
+Illinois,IL,cl-vol,0.7,1.1,0.9,1
+Illinois,IL,cv-pm,1.9,1,4.2,4
+Illinois,IL,fg-act,1.4,2.6,0.2,2.2
+Illinois,IL,fg-br,1.4,1.2,0.2,-0.7
+Illinois,IL,fg-play,3,2.5,2.6,2.1
+Illinois,IL,fg-read,1.8,1.6,0.9,1.2
+Illinois,IL,fg-sch,1.4,1,0.9,3
+Illinois,IL,fg-yorg,0.4,0.5,0.3,0.7
+Illinois,IL,fh-eat,1.6,0.4,2,0.8
+Illinois,IL,fh-ed,0.5,0.9,-2.3,0.6
+Illinois,IL,fh-ma,1,1,0.7,0.3
+Illinois,IL,fh-read,2.5,0.9,1.9,2
+Illinois,IL,fh-spf,1.2,1.3,1.3,1.5
+Illinois,IL,fh-time,1.1,0.5,-0.2,0.4
+Illinois,IL,fh-tv,1.2,1.2,0,0
+Illinois,IL,fh-uw,0.9,0.9,1.1,1.1
+Illinois,IL,sc-born,3.3,3.3,3.4,3.2
+Illinois,IL,sc-eng-a,0,0.2,0.5,0.3
+Illinois,IL,sc-eng-c,-0.4,0.6,1,0.4
+Illinois,IL,sc-mid,1.3,1.2,1.2,1.3
+Illinois,IL,sm-em,0.2,0.2,0.2,0.2
+Illinois,IL,sm-grad,1.8,2.4,3.2,3.9
+Illinois,IL,sm-hr,2.6,1.9,2.7,3.3
+Illinois,IL,sm-neet,0.3,1.5,2.9,2.9
+Illinois,IL,st-fc,2.1,1.5,3.5,4
+Illinois,IL,st-fc trust,0.9,1.1,2.4,3.1
+Illinois,IL,st-fcc,1.3,1.8,2.3,1.6
+Illinois,IL,st-vc,1.5,1.9,1.6,2.6
+Indiana,IN,Civic Engagement,3.5,4.1,6.2,3.7
+Indiana,IN,Community Life,6.9,8.8,3.9,1.4
+Indiana,IN,Family Health,8,5.5,5.2,6.6
+Indiana,IN,Future Generations,7.1,5.5,4.7,3.3
+Indiana,IN,Social Cohesion,10.8,11,11,10.1
+Indiana,IN,Social Mobility,3.4,5.1,7.3,10.1
+Indiana,IN,Social Trust,10.9,9.7,11.7,12.7
+Indiana,IN,Total,50.7,49.7,50,47.8
+Indiana,IN,ce-ao,1.9,1.9,1.9,1.9
+Indiana,IN,ce-vt,1,0.5,1.7,0.6
+Indiana,IN,cl-cdd,0.5,0,-2.1,-2.2
+Indiana,IN,cl-don,0.7,1.4,1,0.5
+Indiana,IN,cl-mem,-0.1,0.2,0.5,0.9
+Indiana,IN,cl-np,1.3,1.2,0.7,0.5
+Indiana,IN,cl-npo,0.8,0.8,0.8,0.8
+Indiana,IN,cl-porg,0.7,0.7,0.7,0.7
+Indiana,IN,cl-rel,1.9,1.1,0.3,0.3
+Indiana,IN,cl-ta,1.3,1.1,0.8,-0.8
+Indiana,IN,cl-tfn,0.7,1.2,-0.8,-2.3
+Indiana,IN,cl-vol,0.9,2.3,0.6,1.2
+Indiana,IN,cv-pm,0.7,1.7,2.5,1.1
+Indiana,IN,fg-act,0.9,1.5,0.5,1.3
+Indiana,IN,fg-br,1.7,1.6,1,0.6
+Indiana,IN,fg-play,0.4,0,0,-0.3
+Indiana,IN,fg-read,0.5,0.9,0.5,1.3
+Indiana,IN,fg-sch,0.9,0.3,0.7,0.9
+Indiana,IN,fg-yorg,1.7,1.7,1.4,1
+Indiana,IN,fh-eat,1.3,-0.4,2.3,1.6
+Indiana,IN,fh-ed,0.6,1.3,0.1,1.9
+Indiana,IN,fh-ma,1.3,1.1,0.9,0.9
+Indiana,IN,fh-read,3,1.3,-0.1,-0.2
+Indiana,IN,fh-spf,0.7,0.5,0.6,0.9
+Indiana,IN,fh-time,0.8,1.3,1.6,2
+Indiana,IN,fh-tv,1.2,1.2,0,0
+Indiana,IN,fh-uw,0.4,0.5,0.5,0.6
+Indiana,IN,sc-born,3.6,3.5,3.4,3.3
+Indiana,IN,sc-eng-a,2.9,2.9,2.9,2.7
+Indiana,IN,sc-eng-c,2.2,2.5,2.7,2
+Indiana,IN,sc-mid,2.2,2.1,2,2.1
+Indiana,IN,sm-em,0.8,0.8,0.8,0.8
+Indiana,IN,sm-grad,-0.6,0,0.6,1.6
+Indiana,IN,sm-hr,3.4,2.8,3.5,4.1
+Indiana,IN,sm-neet,-0.2,1.5,2.5,3.6
+Indiana,IN,st-fc,3.4,3.1,3.8,4.6
+Indiana,IN,st-fc trust,2.7,2.7,3.1,3.4
+Indiana,IN,st-fcc,2.4,2,2.8,2.3
+Indiana,IN,st-vc,2.4,1.9,2,2.4
+Iowa,IA,Civic Engagement,12.8,6.4,11.5,10.6
+Iowa,IA,Community Life,11.4,11.8,5.4,0.8
+Iowa,IA,Family Health,10,7.5,7.3,5.1
+Iowa,IA,Future Generations,7.5,7.4,6.3,5.2
+Iowa,IA,Social Cohesion,12.3,11.9,12.2,11.4
+Iowa,IA,Social Mobility,10.8,11.8,11.2,14.5
+Iowa,IA,Social Trust,9.5,11.3,11.8,12.7
+Iowa,IA,Total,74.3,68,65.6,60.2
+Iowa,IA,ce-ao,2,1.9,1.9,1.9
+Iowa,IA,ce-vt,5.6,2.9,6.1,6.2
+Iowa,IA,cl-cdd,1.2,0.9,-1.9,-2.1
+Iowa,IA,cl-don,0.9,1.2,2,0.7
+Iowa,IA,cl-mem,1.6,1.4,1,0.4
+Iowa,IA,cl-np,0.6,0.9,0.7,1
+Iowa,IA,cl-npo,1,1,0.9,0.5
+Iowa,IA,cl-porg,0.8,0.7,0.7,0.7
+Iowa,IA,cl-rel,1.4,0.9,-0.9,-0.9
+Iowa,IA,cl-ta,2.1,0.6,0.6,-1
+Iowa,IA,cl-tfn,1.7,2.4,0,-1.1
+Iowa,IA,cl-vol,2,3.5,1.1,1.5
+Iowa,IA,cv-pm,5.2,1.6,3.4,2.4
+Iowa,IA,fg-act,2.6,0.7,1.3,0.7
+Iowa,IA,fg-br,1.4,1.5,0.9,0.4
+Iowa,IA,fg-play,0.9,0.7,1.1,1.1
+Iowa,IA,fg-read,1.1,0.6,1.2,1.6
+Iowa,IA,fg-sch,2.2,2.1,1.8,1.8
+Iowa,IA,fg-yorg,0.5,0.6,0.4,0.3
+Iowa,IA,fh-eat,2.5,1,3.1,0.6
+Iowa,IA,fh-ed,1,1.9,0.1,0.7
+Iowa,IA,fh-ma,1.8,1.6,1.4,1.3
+Iowa,IA,fh-read,2.4,0.4,-0.2,1.5
+Iowa,IA,fh-spf,0,0.2,0.3,0
+Iowa,IA,fh-time,0.6,0.9,1.8,0
+Iowa,IA,fh-tv,1.2,1.2,0,0
+Iowa,IA,fh-uw,1.8,1.6,1.9,1.7
+Iowa,IA,sc-born,4.1,3.9,3.7,3.7
+Iowa,IA,sc-eng-a,3,2.9,2.8,2.7
+Iowa,IA,sc-eng-c,2.5,2.6,2.8,2.4
+Iowa,IA,sc-mid,2.6,2.4,2.8,2.6
+Iowa,IA,sm-em,2.9,2.9,2.9,2.9
+Iowa,IA,sm-grad,0.3,0.6,1.3,1.9
+Iowa,IA,sm-hr,4.3,3.8,3.8,4.6
+Iowa,IA,sm-neet,3.3,4.5,3.2,5.1
+Iowa,IA,st-fc,2,3.2,3.4,4
+Iowa,IA,st-fc trust,2,2.4,2.8,2.6
+Iowa,IA,st-fcc,2.4,2.7,2.8,3.1
+Iowa,IA,st-vc,3.1,2.9,2.8,2.9
+Kansas,KS,Civic Engagement,8.4,5.6,9.5,9.2
+Kansas,KS,Community Life,12,12.6,5.3,3.9
+Kansas,KS,Family Health,11.2,9.1,7.1,7.9
+Kansas,KS,Future Generations,8.3,7.9,6.2,4
+Kansas,KS,Social Cohesion,8.6,8.6,9.3,8.4
+Kansas,KS,Social Mobility,7.2,8.7,9.9,12.2
+Kansas,KS,Social Trust,7.6,8.6,8.6,11.7
+Kansas,KS,Total,63.3,61,55.8,57.2
+Kansas,KS,ce-ao,1.9,2,1.9,1.9
+Kansas,KS,ce-vt,2.8,1.9,3.9,2.7
+Kansas,KS,cl-cdd,1.1,0.5,-1.8,-2
+Kansas,KS,cl-don,1.6,3.1,1.3,1.3
+Kansas,KS,cl-mem,1.4,1.3,0.1,0.6
+Kansas,KS,cl-np,0.5,0.5,0.3,0.3
+Kansas,KS,cl-npo,0.6,0.6,0.6,0.5
+Kansas,KS,cl-porg,0.8,0.8,0.8,0.7
+Kansas,KS,cl-rel,2.4,1.1,0.7,0.7
+Kansas,KS,cl-ta,1.7,1.4,1.1,-0.4
+Kansas,KS,cl-tfn,1.2,1.8,-0.7,-2
+Kansas,KS,cl-vol,2.3,2.6,1.4,2.4
+Kansas,KS,cv-pm,3.7,1.7,3.6,4.5
+Kansas,KS,fg-act,0.5,2.2,0.9,1.7
+Kansas,KS,fg-br,2.5,2.2,1.1,0.6
+Kansas,KS,fg-play,0.9,0.7,0.9,0.3
+Kansas,KS,fg-read,2.9,1.7,1.8,1.2
+Kansas,KS,fg-sch,1.7,1.8,1.8,1.5
+Kansas,KS,fg-yorg,0.4,0.5,0.3,0.2
+Kansas,KS,fh-eat,2.5,2.3,2.3,2.3
+Kansas,KS,fh-ed,1.7,0.6,0,0.7
+Kansas,KS,fh-ma,1.7,1.6,1.8,1.5
+Kansas,KS,fh-read,2.9,0.8,0.9,1.4
+Kansas,KS,fh-spf,0.2,0.4,0.6,0.7
+Kansas,KS,fh-time,0.7,1.8,0.9,0.7
+Kansas,KS,fh-tv,1.2,1.2,0,0
+Kansas,KS,fh-uw,1.5,1.6,1.8,1.8
+Kansas,KS,sc-born,2,2,2.1,2.1
+Kansas,KS,sc-eng-a,2.3,2.3,2.3,2.2
+Kansas,KS,sc-eng-c,2,2.3,2.4,2.1
+Kansas,KS,sc-mid,2.2,2.1,2.5,2
+Kansas,KS,sm-em,1.3,1.3,1.3,1.3
+Kansas,KS,sm-grad,1.5,2,2.7,3.2
+Kansas,KS,sm-hr,2.9,2.5,2.8,3.1
+Kansas,KS,sm-neet,1.5,2.9,3.2,4.7
+Kansas,KS,st-fc,1.8,2.2,2.6,4.3
+Kansas,KS,st-fc trust,1.3,1.6,2.8,3.4
+Kansas,KS,st-fcc,2.3,3,1.6,2.5
+Kansas,KS,st-vc,2.2,1.8,1.7,1.4
+Kentucky,KY,Civic Engagement,2.9,2.5,7.8,4.2
+Kentucky,KY,Community Life,8.7,7.4,-0.2,-0.1
+Kentucky,KY,Family Health,8.5,5.3,6.4,5.1
+Kentucky,KY,Future Generations,5.7,4.8,3.1,4.7
+Kentucky,KY,Social Cohesion,11.6,11.5,11.3,10.5
+Kentucky,KY,Social Mobility,3.4,4.4,5.9,8.4
+Kentucky,KY,Social Trust,2.2,7.9,7.8,10.7
+Kentucky,KY,Total,43,43.9,42,43.6
+Kentucky,KY,ce-ao,2,1.9,1.9,1.9
+Kentucky,KY,ce-vt,1,-0.1,5.2,2.3
+Kentucky,KY,cl-cdd,0.9,0.5,-2,-2.2
+Kentucky,KY,cl-don,0.4,0.8,-0.2,0.3
+Kentucky,KY,cl-mem,0.4,-0.3,-0.4,-0.2
+Kentucky,KY,cl-np,0.8,0.7,0.4,0.4
+Kentucky,KY,cl-npo,0.7,0.6,0.6,0.6
+Kentucky,KY,cl-porg,0.7,0.8,0.7,0.7
+Kentucky,KY,cl-rel,2.3,1.3,0.3,0.3
+Kentucky,KY,cl-ta,1.9,1.2,0.6,0.1
+Kentucky,KY,cl-tfn,2,1.8,-1.1,-2.2
+Kentucky,KY,cl-vol,0.4,1.1,-0.7,0.3
+Kentucky,KY,cv-pm,0,0.7,0.7,0
+Kentucky,KY,fg-act,1,2.3,3.2,3.1
+Kentucky,KY,fg-br,1.6,1.5,0.9,0.6
+Kentucky,KY,fg-play,0.3,0.3,0.2,0.3
+Kentucky,KY,fg-read,0.2,0.8,0,0.2
+Kentucky,KY,fg-sch,1.8,1,0.9,2.2
+Kentucky,KY,fg-yorg,0.2,0.4,0.1,0.1
+Kentucky,KY,fh-eat,2.3,0.2,3,0.9
+Kentucky,KY,fh-ed,0.3,-0.2,0.2,0.2
+Kentucky,KY,fh-ma,1.4,1.1,1,0.9
+Kentucky,KY,fh-read,2.3,0.9,0,0.9
+Kentucky,KY,fh-spf,0.5,0.5,0.8,0.7
+Kentucky,KY,fh-time,1.1,2.2,2,1.8
+Kentucky,KY,fh-tv,1.2,1.2,0,0
+Kentucky,KY,fh-uw,0.6,0.7,0.6,0.6
+Kentucky,KY,sc-born,3.8,3.7,3.5,3.5
+Kentucky,KY,sc-eng-a,3.4,3.4,3.3,3.2
+Kentucky,KY,sc-eng-c,3.2,3.1,2.9,2.6
+Kentucky,KY,sc-mid,1.2,1.3,1.6,1.3
+Kentucky,KY,sm-em,2.7,2.7,2.7,2.7
+Kentucky,KY,sm-grad,-1.1,-0.5,0.1,0.9
+Kentucky,KY,sm-hr,2.9,1.9,2.5,3.3
+Kentucky,KY,sm-neet,-1.1,0.2,0.6,1.5
+Kentucky,KY,st-fc,0.4,1.7,2.1,3.5
+Kentucky,KY,st-fc trust,-0.3,1.2,0.8,1.6
+Kentucky,KY,st-fcc,-1.3,1.5,1.4,2.2
+Kentucky,KY,st-vc,3.3,3.5,3.5,3.4
+Louisiana,LA,Civic Engagement,8.5,4.6,6,3.3
+Louisiana,LA,Community Life,2.7,5.6,1.8,-1.5
+Louisiana,LA,Family Health,3.2,0.8,-2.1,-3
+Louisiana,LA,Future Generations,10.6,9.3,5.9,4.8
+Louisiana,LA,Social Cohesion,12.3,11.9,11.7,11.1
+Louisiana,LA,Social Mobility,1.1,2,4.9,5.7
+Louisiana,LA,Social Trust,-4.9,-1.1,2.8,1.7
+Louisiana,LA,Total,33.5,33.2,31,22
+Louisiana,LA,ce-ao,2,2.1,2.1,2.1
+Louisiana,LA,ce-vt,4.2,2,2.1,1.6
+Louisiana,LA,cl-cdd,0,0,-1.9,-2
+Louisiana,LA,cl-don,-1.7,-0.1,-0.7,-0.5
+Louisiana,LA,cl-mem,-0.1,0.2,1,0.8
+Louisiana,LA,cl-np,0.4,0.1,0,0.1
+Louisiana,LA,cl-npo,0.6,0.6,0.6,0.5
+Louisiana,LA,cl-porg,0.7,0.8,0.7,0.7
+Louisiana,LA,cl-rel,3,2.1,0.7,0.7
+Louisiana,LA,cl-ta,0.8,0.9,0.6,-1.4
+Louisiana,LA,cl-tfn,0.4,0.3,-0.6,-2
+Louisiana,LA,cl-vol,-0.9,0.7,-0.4,-0.3
+Louisiana,LA,cv-pm,2.3,0.5,1.8,-0.4
+Louisiana,LA,fg-act,0.6,-0.2,-0.1,0
+Louisiana,LA,fg-br,2.3,2.5,1.6,1
+Louisiana,LA,fg-play,2.7,2.4,2,1.2
+Louisiana,LA,fg-read,-0.3,-0.2,0.6,1.4
+Louisiana,LA,fg-sch,1.9,1.1,0.3,0.8
+Louisiana,LA,fg-yorg,0.2,0.2,0.1,0.2
+Louisiana,LA,fh-eat,3.1,1.6,1.9,1.4
+Louisiana,LA,fh-ed,-3,-2,-3.5,-0.8
+Louisiana,LA,fh-ma,0,-0.2,-0.4,-0.5
+Louisiana,LA,fh-read,1.8,0.7,-0.8,-1
+Louisiana,LA,fh-spf,0.5,0.3,0.4,0.4
+Louisiana,LA,fh-time,1.9,1.4,1.4,-1.4
+Louisiana,LA,fh-tv,1.2,1.2,0,0
+Louisiana,LA,fh-uw,-1.1,-1,-1.5,-1.7
+Louisiana,LA,sc-born,5,5,4.9,4.9
+Louisiana,LA,sc-eng-a,3,3,3,2.9
+Louisiana,LA,sc-eng-c,3.6,3.5,3.2,2.7
+Louisiana,LA,sc-mid,0.6,0.4,0.6,0.6
+Louisiana,LA,sm-em,2.6,2.6,2.6,2.6
+Louisiana,LA,sm-grad,-1.1,-0.5,0,0.6
+Louisiana,LA,sm-hr,2.2,1.5,2.2,2.9
+Louisiana,LA,sm-neet,-2.5,-1.6,0,-0.4
+Louisiana,LA,st-fc,-1.3,-0.3,1,0.7
+Louisiana,LA,st-fc trust,-1.2,-0.7,1.1,1.5
+Louisiana,LA,st-fcc,-2.6,-0.4,0.5,-0.7
+Louisiana,LA,st-vc,0.2,0.4,0.2,0.3
+Maine,ME,Civic Engagement,14.7,15.6,17.8,17.3
+Maine,ME,Community Life,7.7,6.8,5.1,-0.8
+Maine,ME,Family Health,13.5,10.9,10.4,11.7
+Maine,ME,Future Generations,3.5,0.8,-0.2,-1.6
+Maine,ME,Social Cohesion,12.2,12.4,12.2,12.2
+Maine,ME,Social Mobility,7.2,10.2,11.8,14.5
+Maine,ME,Social Trust,12.6,12.3,15.2,16.1
+Maine,ME,Total,71.3,69,72.3,69.3
+Maine,ME,ce-ao,2,2,2,2
+Maine,ME,ce-vt,5.2,7.1,6.5,7.8
+Maine,ME,cl-cdd,0.8,0.5,-2,-2.2
+Maine,ME,cl-don,1,1.5,1.1,0.7
+Maine,ME,cl-mem,1.9,1.8,1.6,1.8
+Maine,ME,cl-np,0.1,0.1,0,0
+Maine,ME,cl-npo,0.7,0.7,0.6,0.6
+Maine,ME,cl-porg,0.7,0.7,0.7,0.7
+Maine,ME,cl-rel,-0.6,-0.7,-1.5,-1.5
+Maine,ME,cl-ta,1.8,0.8,-0.3,-2.6
+Maine,ME,cl-tfn,0.3,-1,0.5,-2.2
+Maine,ME,cl-vol,1.9,3,2.3,1.5
+Maine,ME,cv-pm,7.5,6.5,9.4,7.6
+Maine,ME,fg-act,2.2,4.6,-0.6,0.1
+Maine,ME,fg-br,-1,-1.1,-1.7,-2.1
+Maine,ME,fg-play,0,-0.1,-0.3,-0.5
+Maine,ME,fg-read,0.2,2.1,-0.4,2.4
+Maine,ME,fg-sch,1.8,0.8,1,0.5
+Maine,ME,fg-yorg,1.5,0.9,0.9,1
+Maine,ME,fh-eat,2.4,1.1,2.9,1.6
+Maine,ME,fh-ed,2,2.2,0.6,2.4
+Maine,ME,fh-ma,1.4,1.2,1,1.3
+Maine,ME,fh-read,4.7,3.6,3.7,4.2
+Maine,ME,fh-spf,0.2,0.6,0.4,0.7
+Maine,ME,fh-time,2,1.2,2,1.7
+Maine,ME,fh-tv,1.2,1.2,0,0
+Maine,ME,fh-uw,0.8,1.1,1.6,1.7
+Maine,ME,sc-born,2.9,2.8,2.4,2
+Maine,ME,sc-eng-a,3.6,3.6,3.7,3.7
+Maine,ME,sc-eng-c,3.6,3.9,4,3.9
+Maine,ME,sc-mid,2.2,2.1,2.1,2.7
+Maine,ME,sm-em,1.4,1.4,1.4,1.4
+Maine,ME,sm-grad,1,1.5,2.4,3.5
+Maine,ME,sm-hr,4.1,4.2,4.4,5.1
+Maine,ME,sm-neet,0.6,3.1,3.6,4.4
+Maine,ME,st-fc,2.6,2.9,3.5,4.1
+Maine,ME,st-fc trust,3.4,2.8,3.9,4
+Maine,ME,st-fcc,2.1,2.2,3.3,3.3
+Maine,ME,st-vc,4.4,4.4,4.5,4.6
+Maryland,MD,Civic Engagement,8.1,9.5,14.4,10.7
+Maryland,MD,Community Life,7.9,9.8,2.3,3
+Maryland,MD,Family Health,7.4,6.7,4.4,4
+Maryland,MD,Future Generations,6.1,6.4,5,4.9
+Maryland,MD,Social Cohesion,5.4,5.1,4.4,3
+Maryland,MD,Social Mobility,8.6,9.9,11.7,13.1
+Maryland,MD,Social Trust,5.2,5,7.9,11.5
+Maryland,MD,Total,48.8,52.4,50.1,50.2
+Maryland,MD,ce-ao,2,2,2,2
+Maryland,MD,ce-vt,3.6,3.9,7.5,5.5
+Maryland,MD,cl-cdd,3.5,3.2,0.3,-0.2
+Maryland,MD,cl-don,1.6,2,0.2,1.7
+Maryland,MD,cl-mem,1,1.3,0.8,1.8
+Maryland,MD,cl-np,0.3,0.4,0.1,0.3
+Maryland,MD,cl-npo,0.7,0.9,0.8,0.7
+Maryland,MD,cl-porg,0.9,0.9,0.9,0.7
+Maryland,MD,cl-rel,1.1,0.3,-0.5,-0.5
+Maryland,MD,cl-ta,0.6,0.2,-0.1,-1.2
+Maryland,MD,cl-tfn,1,1.7,-0.2,-1.7
+Maryland,MD,cl-vol,1.1,2.6,0.3,1.4
+Maryland,MD,cv-pm,2.5,3.6,4.9,3.2
+Maryland,MD,fg-act,0.5,0.4,0,1.8
+Maryland,MD,fg-br,1.4,1.2,0.7,-0.2
+Maryland,MD,fg-play,1.1,1.8,1.6,1.8
+Maryland,MD,fg-read,1.9,3,1.7,1
+Maryland,MD,fg-sch,1,0.7,0.8,1.3
+Maryland,MD,fg-yorg,0.5,0.5,0.2,0.4
+Maryland,MD,fh-eat,2,-0.3,3.1,-0.3
+Maryland,MD,fh-ed,-0.2,0.9,-2.7,-0.1
+Maryland,MD,fh-ma,0.7,1,1,0.6
+Maryland,MD,fh-read,3.4,1.8,1.7,1.6
+Maryland,MD,fh-spf,1.6,2,2.3,2.2
+Maryland,MD,fh-time,-0.9,0.4,-1.1,-0.3
+Maryland,MD,fh-tv,1.2,1.2,0,0
+Maryland,MD,fh-uw,0.9,1,0.9,0.9
+Maryland,MD,sc-born,0.3,0.2,0.2,0.2
+Maryland,MD,sc-eng-a,1.4,1.4,1.2,0.9
+Maryland,MD,sc-eng-c,1.7,1.6,1,0.2
+Maryland,MD,sc-mid,1.9,2,2,1.8
+Maryland,MD,sm-em,1.9,1.9,1.9,1.9
+Maryland,MD,sm-grad,3.5,4.1,4.7,5.5
+Maryland,MD,sm-hr,2.6,2,2.5,3.2
+Maryland,MD,sm-neet,0.6,2,2.7,2.5
+Maryland,MD,st-fc,2.3,2,3.5,3.7
+Maryland,MD,st-fc trust,2.2,2,3,3.5
+Maryland,MD,st-fcc,0,-0.1,0.2,2.8
+Maryland,MD,st-vc,0.8,1.1,1.2,1.5
+Massachusetts,MA,Civic Engagement,12.9,9.1,11.9,-1
+Massachusetts,MA,Community Life,7.3,8.3,2.9,2.7
+Massachusetts,MA,Family Health,10.8,6.4,6.2,7
+Massachusetts,MA,Future Generations,1.8,1.9,-0.5,0.1
+Massachusetts,MA,Social Cohesion,4.9,4.7,4.1,2.8
+Massachusetts,MA,Social Mobility,12.5,13.8,16.2,16.9
+Massachusetts,MA,Social Trust,9.8,10.8,11.5,11.7
+Massachusetts,MA,Total,60.1,55,52.3,40.2
+Massachusetts,MA,ce-ao,2.1,2,2,2
+Massachusetts,MA,ce-vt,6.2,4.4,4.2,-8.8
+Massachusetts,MA,cl-cdd,2.2,2,-1,-1.4
+Massachusetts,MA,cl-don,1.2,1.9,1.3,1.4
+Massachusetts,MA,cl-mem,0.5,0.9,0.9,0.8
+Massachusetts,MA,cl-np,0.1,0.4,0.2,0.1
+Massachusetts,MA,cl-npo,0.9,1.1,1,1.2
+Massachusetts,MA,cl-porg,0.8,0.8,0.8,0.7
+Massachusetts,MA,cl-rel,0.2,-0.6,-1.7,-1.7
+Massachusetts,MA,cl-ta,1,0.5,0,-1.3
+Massachusetts,MA,cl-tfn,1.9,1.8,0.6,-0.1
+Massachusetts,MA,cl-vol,0.8,1.9,0.2,1.7
+Massachusetts,MA,cv-pm,4.6,2.7,5.8,5.9
+Massachusetts,MA,fg-act,2.2,0.5,1.8,0.7
+Massachusetts,MA,fg-br,0.3,-0.2,-0.6,-1
+Massachusetts,MA,fg-play,-0.7,-0.6,-0.7,-0.6
+Massachusetts,MA,fg-read,2.8,1.6,2.3,1.4
+Massachusetts,MA,fg-sch,0.4,0.5,0,0.5
+Massachusetts,MA,fg-yorg,1.2,1.6,1,1.2
+Massachusetts,MA,fh-eat,0.3,-1.5,1.8,-0.3
+Massachusetts,MA,fh-ed,1.7,1.3,-1.5,1.4
+Massachusetts,MA,fh-ma,0.6,0.7,0.8,0.4
+Massachusetts,MA,fh-read,4.2,1.4,1.9,2.8
+Massachusetts,MA,fh-spf,1.2,1.5,2.1,2.1
+Massachusetts,MA,fh-time,0.8,1,-0.3,-0.5
+Massachusetts,MA,fh-tv,1.2,1.2,0,0
+Massachusetts,MA,fh-uw,1.9,2,2.4,2.2
+Massachusetts,MA,sc-born,2.6,2.5,2.1,1.9
+Massachusetts,MA,sc-eng-a,0.3,0.3,0.2,0
+Massachusetts,MA,sc-eng-c,0.9,0.9,0.6,0
+Massachusetts,MA,sc-mid,1.1,1.1,1.2,0.8
+Massachusetts,MA,sm-em,3.5,3.5,3.5,3.5
+Massachusetts,MA,sm-grad,4.2,4.8,5.9,6.7
+Massachusetts,MA,sm-hr,1.7,1.4,1.6,1.8
+Massachusetts,MA,sm-neet,3.2,4.2,5.2,4.9
+Massachusetts,MA,st-fc,3.7,3.8,4,3.9
+Massachusetts,MA,st-fc trust,3.3,3.2,3.1,3
+Massachusetts,MA,st-fcc,1.4,1.9,2,2.2
+Massachusetts,MA,st-vc,1.5,1.8,2.4,2.6
+Michigan,MI,Civic Engagement,8.8,7.5,9.8,11.5
+Michigan,MI,Community Life,7.9,6.2,4.9,-1.2
+Michigan,MI,Family Health,9.7,4.9,6.8,7.9
+Michigan,MI,Future Generations,4.5,3,1.5,3.1
+Michigan,MI,Social Cohesion,11.9,12.1,12,11.6
+Michigan,MI,Social Mobility,3.1,5.1,8.4,9
+Michigan,MI,Social Trust,8.6,8.9,9.3,9.4
+Michigan,MI,Total,54.5,47.7,52.9,51.2
+Michigan,MI,ce-ao,2,1.9,1.9,2
+Michigan,MI,ce-vt,4.4,3.2,4.4,8
+Michigan,MI,cl-cdd,1.1,0.7,-1.9,-2.1
+Michigan,MI,cl-don,0.7,0.5,0.9,0.6
+Michigan,MI,cl-mem,0.4,0.4,0.8,0.2
+Michigan,MI,cl-np,1.2,1.5,0.7,0.7
+Michigan,MI,cl-npo,0.7,0.8,0.8,0.5
+Michigan,MI,cl-porg,0.7,0.7,0.7,0.7
+Michigan,MI,cl-rel,1.2,0.6,-0.5,-0.5
+Michigan,MI,cl-ta,1.3,0.9,0.5,-1.2
+Michigan,MI,cl-tfn,1.7,1,1,-2
+Michigan,MI,cl-vol,1.2,1.3,0.6,0.5
+Michigan,MI,cv-pm,2.4,2.3,3.5,1.5
+Michigan,MI,fg-act,1.1,1.3,0.5,1.5
+Michigan,MI,fg-br,0.6,0.5,0,-0.8
+Michigan,MI,fg-play,0.1,0.6,0.4,0.9
+Michigan,MI,fg-read,1.1,2.2,1.6,1.3
+Michigan,MI,fg-sch,1.9,0.7,0.6,1.4
+Michigan,MI,fg-yorg,0.3,0.2,0.1,0.5
+Michigan,MI,fh-eat,2.8,0.4,2.5,2
+Michigan,MI,fh-ed,0.5,0.5,-0.9,1.8
+Michigan,MI,fh-ma,1.1,0.8,0.6,0.7
+Michigan,MI,fh-read,2.9,0.7,2.6,2
+Michigan,MI,fh-spf,0.8,0.8,1,1
+Michigan,MI,fh-time,1.2,0.8,1.2,0.5
+Michigan,MI,fh-tv,1.2,1.2,0,0
+Michigan,MI,fh-uw,0.5,0.7,1,1.3
+Michigan,MI,sc-born,4.8,4.8,4.7,4.7
+Michigan,MI,sc-eng-a,2.9,2.8,2.8,2.8
+Michigan,MI,sc-eng-c,2.7,2.8,2.8,2.4
+Michigan,MI,sc-mid,1.5,1.6,1.7,1.7
+Michigan,MI,sm-em,-0.3,-0.3,-0.3,-0.3
+Michigan,MI,sm-grad,0.2,0.8,1.5,2.3
+Michigan,MI,sm-hr,3.9,3.6,4.1,5
+Michigan,MI,sm-neet,-0.8,0.9,3.1,1.9
+Michigan,MI,st-fc,2.2,2.1,2.8,3.3
+Michigan,MI,st-fc trust,3,2.6,3.1,2.3
+Michigan,MI,st-fcc,2.1,2.6,2,2.6
+Michigan,MI,st-vc,1.3,1.5,1.4,1.2
+Minnesota,MN,Civic Engagement,14.8,12.8,16.5,14.9
+Minnesota,MN,Community Life,12.1,13.4,7.1,6.4
+Minnesota,MN,Family Health,13.1,8.4,8.2,8.5
+Minnesota,MN,Future Generations,9.8,8.8,7.5,5.9
+Minnesota,MN,Social Cohesion,9.7,9.4,9.7,9.6
+Minnesota,MN,Social Mobility,12.7,14,15.8,16.6
+Minnesota,MN,Social Trust,11.6,12.6,14.4,15.7
+Minnesota,MN,Total,83.7,79.4,79.2,77.7
+Minnesota,MN,ce-ao,2,2,2.1,2.1
+Minnesota,MN,ce-vt,7.3,5.3,9.5,8.8
+Minnesota,MN,cl-cdd,2.3,1.8,-1.4,-1.7
+Minnesota,MN,cl-don,2.4,3,2.5,1.8
+Minnesota,MN,cl-mem,1.2,1.2,2.1,2.2
+Minnesota,MN,cl-np,1.1,1,0.8,0.8
+Minnesota,MN,cl-npo,0.8,0.9,0.9,0.6
+Minnesota,MN,cl-porg,0.8,0.8,0.7,0.7
+Minnesota,MN,cl-rel,1.2,0.7,-0.9,-0.9
+Minnesota,MN,cl-ta,1.7,1.3,0.9,-0.6
+Minnesota,MN,cl-tfn,1.7,1.4,-0.6,0
+Minnesota,MN,cl-vol,2.3,4.1,1.4,2.6
+Minnesota,MN,cv-pm,5.4,5.5,5,4.1
+Minnesota,MN,fg-act,1.9,1.8,2.6,0.9
+Minnesota,MN,fg-br,1.7,1.6,0.8,0
+Minnesota,MN,fg-play,2.9,2.2,2.3,2.3
+Minnesota,MN,fg-read,3,2.2,3.1,2
+Minnesota,MN,fg-sch,1.2,1.3,1.5,0.8
+Minnesota,MN,fg-yorg,0.8,0.8,0.4,0.9
+Minnesota,MN,fh-eat,1.8,-0.8,2.7,0.8
+Minnesota,MN,fh-ed,2.3,1.8,-0.7,1.4
+Minnesota,MN,fh-ma,1.7,1.7,1.6,1.3
+Minnesota,MN,fh-read,4.2,1.8,1.3,1.7
+Minnesota,MN,fh-spf,0.6,0.6,0.7,0.8
+Minnesota,MN,fh-time,0.4,1.1,1.4,1.5
+Minnesota,MN,fh-tv,1.2,1.2,0,0
+Minnesota,MN,fh-uw,2,2.1,2.5,2.4
+Minnesota,MN,sc-born,3.5,3.4,3.4,3.4
+Minnesota,MN,sc-eng-a,2.5,2.4,2.4,2.3
+Minnesota,MN,sc-eng-c,1.2,1.3,1.5,1.5
+Minnesota,MN,sc-mid,2.4,2.4,2.5,2.4
+Minnesota,MN,sm-em,2.5,2.5,2.5,2.5
+Minnesota,MN,sm-grad,2.2,2.9,3.6,4.4
+Minnesota,MN,sm-hr,4.5,4,4.6,4.9
+Minnesota,MN,sm-neet,3.4,4.7,5.1,4.8
+Minnesota,MN,st-fc,3.7,3.6,4.5,5.1
+Minnesota,MN,st-fc trust,2,2.8,3.6,4.6
+Minnesota,MN,st-fcc,2.5,3,3,3
+Minnesota,MN,st-vc,3.4,3.3,3.3,3.1
+Mississippi,MS,Civic Engagement,12.1,6.6,8.9,3.9
+Mississippi,MS,Community Life,8.5,6.5,1.4,-1.8
+Mississippi,MS,Family Health,2.5,2.8,-0.4,0.3
+Mississippi,MS,Future Generations,7.4,5.6,3.8,3.6
+Mississippi,MS,Social Cohesion,12.4,12.5,12.3,12.2
+Mississippi,MS,Social Mobility,0.1,1.6,3.6,6.6
+Mississippi,MS,Social Trust,1.6,7.8,8.8,9.4
+Mississippi,MS,Total,44.7,43.4,38.5,34.2
+Mississippi,MS,ce-ao,1.9,1.9,1.9,1.9
+Mississippi,MS,ce-vt,7.9,4.8,6,0.1
+Mississippi,MS,cl-cdd,0.2,0.3,-1.9,-2
+Mississippi,MS,cl-don,0.9,0.1,-0.8,-1.4
+Mississippi,MS,cl-mem,0.6,0.2,0.6,0.6
+Mississippi,MS,cl-np,0.7,0.9,0.6,0.6
+Mississippi,MS,cl-npo,0.6,0.6,0.5,0.5
+Mississippi,MS,cl-porg,0.7,0.7,0.7,0.7
+Mississippi,MS,cl-rel,3.8,2.5,2.4,2.4
+Mississippi,MS,cl-ta,1,1.5,0.3,-1.3
+Mississippi,MS,cl-tfn,-0.1,0.6,-1.4,-2.3
+Mississippi,MS,cl-vol,1,0.4,-0.9,-1
+Mississippi,MS,cv-pm,2.3,-0.2,1,1.9
+Mississippi,MS,fg-act,-0.4,1,1.5,-1.3
+Mississippi,MS,fg-br,2.1,1.7,1.3,0.8
+Mississippi,MS,fg-play,1,0.6,0.5,0.3
+Mississippi,MS,fg-read,-0.2,1.2,0.1,2.5
+Mississippi,MS,fg-sch,1.6,1.3,0.8,1.4
+Mississippi,MS,fg-yorg,0.2,0.1,-0.1,-0.1
+Mississippi,MS,fh-eat,3.1,1.7,2.5,2.7
+Mississippi,MS,fh-ed,-2.9,-0.2,-1.3,-0.1
+Mississippi,MS,fh-ma,0.4,0.1,0,0
+Mississippi,MS,fh-read,1.3,0.1,-2.1,-0.7
+Mississippi,MS,fh-spf,0.6,0.8,0.7,0.8
+Mississippi,MS,fh-time,1.3,1.5,1.1,-0.8
+Mississippi,MS,fh-tv,1.2,1.2,0,0
+Mississippi,MS,fh-uw,-1.3,-1.1,-1.6,-1.6
+Mississippi,MS,sc-born,4,4,4,3.8
+Mississippi,MS,sc-eng-a,3.6,3.6,3.6,3.6
+Mississippi,MS,sc-eng-c,3.8,3.9,3.7,3.6
+Mississippi,MS,sc-mid,1.1,1,1,1.2
+Mississippi,MS,sm-em,2.6,2.6,2.6,2.6
+Mississippi,MS,sm-grad,-1.5,-1.2,-0.8,0.2
+Mississippi,MS,sm-hr,2.7,1.8,2.3,3.9
+Mississippi,MS,sm-neet,-3.7,-1.6,-0.5,-0.1
+Mississippi,MS,st-fc,-0.9,1.7,1.1,2.6
+Mississippi,MS,st-fc trust,-0.5,2.5,2.4,1.8
+Mississippi,MS,st-fcc,0,0.6,2.2,1.4
+Mississippi,MS,st-vc,3,3,3.1,3.7
+Missouri,MO,Civic Engagement,5.7,6,10.4,8.3
+Missouri,MO,Community Life,11.1,8.7,5,0.8
+Missouri,MO,Family Health,10.1,7,4.6,5.8
+Missouri,MO,Future Generations,10.9,9.4,7.2,5.2
+Missouri,MO,Social Cohesion,11.4,11.7,11.3,11.7
+Missouri,MO,Social Mobility,5.6,7.5,9.1,11.1
+Missouri,MO,Social Trust,1.1,0.8,4.4,6.7
+Missouri,MO,Total,55.9,51.2,52,49.6
+Missouri,MO,ce-ao,2,2.3,2.2,2.3
+Missouri,MO,ce-vt,3.1,3.5,4.4,3.3
+Missouri,MO,cl-cdd,0.9,0.5,-1.9,-2.1
+Missouri,MO,cl-don,2,1.5,1.4,0.4
+Missouri,MO,cl-mem,1.5,0.9,0.3,0.5
+Missouri,MO,cl-np,1,1.1,0.6,0.9
+Missouri,MO,cl-npo,0.7,0.9,0.8,0.6
+Missouri,MO,cl-porg,0.9,0.8,0.8,0.7
+Missouri,MO,cl-rel,1.8,1.1,0,0
+Missouri,MO,cl-ta,1.5,1.1,0.4,-0.6
+Missouri,MO,cl-tfn,0.8,0.7,0,-1.7
+Missouri,MO,cl-vol,1.8,1.8,1.4,0.9
+Missouri,MO,cv-pm,0.6,0.3,3.9,2.8
+Missouri,MO,fg-act,2.2,1.8,-0.1,0.4
+Missouri,MO,fg-br,1.5,1.3,0.8,0
+Missouri,MO,fg-play,1.6,0.9,1,0.4
+Missouri,MO,fg-read,0.2,1.3,3.3,0.6
+Missouri,MO,fg-sch,1.1,0.9,0.5,0.5
+Missouri,MO,fg-yorg,2.9,3.2,2.6,2.4
+Missouri,MO,fh-eat,2.6,0.6,1.6,1.2
+Missouri,MO,fh-ed,0.6,0.9,-0.7,0.9
+Missouri,MO,fh-ma,1.3,1,1,0.8
+Missouri,MO,fh-read,2.5,0.8,1.2,1.7
+Missouri,MO,fh-spf,0.5,0.5,0.4,0.6
+Missouri,MO,fh-time,1.9,2.4,0.9,0.4
+Missouri,MO,fh-tv,1.2,1.2,0,0
+Missouri,MO,fh-uw,0.9,0.9,1.1,1.2
+Missouri,MO,sc-born,3.2,3.2,3.1,3
+Missouri,MO,sc-eng-a,3.3,3.4,3.4,3.3
+Missouri,MO,sc-eng-c,3.1,3.3,3,3.3
+Missouri,MO,sc-mid,1.8,1.9,1.8,2.1
+Missouri,MO,sm-em,2.3,2.3,2.3,2.3
+Missouri,MO,sm-grad,0.3,0.9,1.6,2.4
+Missouri,MO,sm-hr,2.9,2.2,2.9,3.6
+Missouri,MO,sm-neet,0.1,2,2.3,2.7
+Missouri,MO,st-fc,-1.1,-0.9,0.9,1.5
+Missouri,MO,st-fc trust,-0.6,-1.2,0.9,1.6
+Missouri,MO,st-fcc,1.5,2.3,1.9,2.4
+Missouri,MO,st-vc,1.3,0.8,0.8,1.2
+Montana,MT,Civic Engagement,13.1,11,14.5,12.5
+Montana,MT,Community Life,8.1,10.1,4.8,7.2
+Montana,MT,Family Health,14,10.9,8.6,11
+Montana,MT,Future Generations,6.7,7.2,3.3,0.5
+Montana,MT,Social Cohesion,11.2,11.5,11.7,11.4
+Montana,MT,Social Mobility,8.8,8.8,13.7,13.9
+Montana,MT,Social Trust,-1.2,-2.1,-0.4,4.9
+Montana,MT,Total,60.6,57.3,56.3,61.5
+Montana,MT,ce-ao,2.2,2,2,2
+Montana,MT,ce-vt,3.9,4,7.5,5
+Montana,MT,cl-cdd,0.9,0.6,-1.8,-1.9
+Montana,MT,cl-don,1.2,1.2,1.7,2.3
+Montana,MT,cl-mem,1.1,2,1.4,1.9
+Montana,MT,cl-np,0.9,1.5,0.6,0.5
+Montana,MT,cl-npo,0.7,0.7,0.7,0.6
+Montana,MT,cl-porg,0.7,0.7,0.7,0.7
+Montana,MT,cl-rel,0.3,0.3,-0.6,-0.6
+Montana,MT,cl-ta,1.6,-0.2,0.3,-0.1
+Montana,MT,cl-tfn,0.5,2.3,-0.6,0.2
+Montana,MT,cl-vol,1.9,3,1.2,2.2
+Montana,MT,cv-pm,7,4.9,5,5.5
+Montana,MT,fg-act,-0.4,0.7,4.9,-1.7
+Montana,MT,fg-br,1.1,1.1,-0.4,-0.9
+Montana,MT,fg-play,0.8,0.7,0.7,0.9
+Montana,MT,fg-read,1.6,-0.2,5.3,0.3
+Montana,MT,fg-sch,1.2,1.1,0.7,-0.2
+Montana,MT,fg-yorg,1.5,1.9,1.3,0.5
+Montana,MT,fh-eat,4.2,2.2,3.3,1.8
+Montana,MT,fh-ed,2,2,1,1.7
+Montana,MT,fh-ma,1.3,1.2,1.1,1.3
+Montana,MT,fh-read,4.3,2.1,0.1,1.4
+Montana,MT,fh-spf,-0.3,-0.3,0,0.1
+Montana,MT,fh-time,1.2,2.1,1.1,2.3
+Montana,MT,fh-tv,1,1,0,0
+Montana,MT,fh-uw,1.3,1.5,2,2.3
+Montana,MT,sc-born,1.5,1.3,1.2,0.8
+Montana,MT,sc-eng-a,3.9,3.9,4,3.9
+Montana,MT,sc-eng-c,3.8,4.2,4.2,4.1
+Montana,MT,sc-mid,1.9,2.1,2.4,2.5
+Montana,MT,sm-em,4.7,4.7,4.7,4.7
+Montana,MT,sm-grad,1,1.7,2.5,2.8
+Montana,MT,sm-hr,2.9,2.4,3.4,3.7
+Montana,MT,sm-neet,0.3,0,3.1,2.7
+Montana,MT,st-fc,-0.5,1.1,1.7,0
+Montana,MT,st-fc trust,-3.1,-1.7,0.7,1.4
+Montana,MT,st-fcc,-0.6,-3.7,-4.3,2.2
+Montana,MT,st-vc,2.9,2.2,1.6,1.3
+Nebraska,NE,Civic Engagement,8,9.2,8.9,10.3
+Nebraska,NE,Community Life,12.5,11.7,7.9,4.4
+Nebraska,NE,Family Health,11.7,8.1,9,8.6
+Nebraska,NE,Future Generations,10,10.2,8.2,6.6
+Nebraska,NE,Social Cohesion,9.3,8.6,8.6,8.6
+Nebraska,NE,Social Mobility,10.5,12.1,13.1,14.3
+Nebraska,NE,Social Trust,8.4,8.2,6.8,11.2
+Nebraska,NE,Total,70.5,68.1,62.5,64
+Nebraska,NE,ce-ao,2.1,1.9,1.9,1.9
+Nebraska,NE,ce-vt,2,4.4,3.7,4.9
+Nebraska,NE,cl-cdd,1.1,0.8,-1.9,-2
+Nebraska,NE,cl-don,1.4,2,2.4,1.7
+Nebraska,NE,cl-mem,1.4,2.2,1.6,1.3
+Nebraska,NE,cl-np,0.5,0.5,0.3,0.2
+Nebraska,NE,cl-npo,0.8,0.8,0.8,0.7
+Nebraska,NE,cl-porg,0.7,0.7,0.7,0.7
+Nebraska,NE,cl-rel,2.3,1.3,-0.1,-0.1
+Nebraska,NE,cl-ta,1.9,1.6,1,-0.2
+Nebraska,NE,cl-tfn,2.2,-0.4,-0.3,-2.1
+Nebraska,NE,cl-vol,1.9,3.2,1.8,2.5
+Nebraska,NE,cv-pm,3.9,2.9,3.3,3.4
+Nebraska,NE,fg-act,0.2,2.2,0.8,4
+Nebraska,NE,fg-br,2.6,2.7,1.7,1.2
+Nebraska,NE,fg-play,1.6,0.8,1.1,0.8
+Nebraska,NE,fg-read,1.8,2.4,0.1,0.1
+Nebraska,NE,fg-sch,1.5,1.9,1.7,1.2
+Nebraska,NE,fg-yorg,1,1.4,1,1.3
+Nebraska,NE,fh-eat,2.8,0.4,2.2,0.6
+Nebraska,NE,fh-ed,2,2.2,1.8,1.7
+Nebraska,NE,fh-ma,1.8,1.4,1.8,1.4
+Nebraska,NE,fh-read,2.4,0.5,1,0.7
+Nebraska,NE,fh-spf,0.2,0.2,0.5,0.5
+Nebraska,NE,fh-time,0.6,1.4,1.1,3
+Nebraska,NE,fh-tv,1.2,1.2,0,0
+Nebraska,NE,fh-uw,1.9,1.9,2.1,2
+Nebraska,NE,sc-born,3.1,3,2.9,2.8
+Nebraska,NE,sc-eng-a,2.3,2.1,2.1,2
+Nebraska,NE,sc-eng-c,1.3,1.1,0.8,1.2
+Nebraska,NE,sc-mid,2.7,2.5,2.7,2.6
+Nebraska,NE,sm-em,3.3,3.3,3.3,3.3
+Nebraska,NE,sm-grad,0.9,1.5,2.4,3
+Nebraska,NE,sm-hr,2.8,2.5,2.9,3.2
+Nebraska,NE,sm-neet,3.6,4.8,4.5,4.7
+Nebraska,NE,st-fc,-0.2,-0.3,1.7,2.8
+Nebraska,NE,st-fc trust,2.8,3.1,1.9,2.9
+Nebraska,NE,st-fcc,2.7,2.5,0.6,2.1
+Nebraska,NE,st-vc,3.2,3,2.7,3.4
+Nevada,NV,Civic Engagement,3.1,4.3,4.7,6.7
+Nevada,NV,Community Life,3.9,5,-1.5,-6.8
+Nevada,NV,Family Health,5.8,1.6,4.4,4.7
+Nevada,NV,Future Generations,12,9,13.4,1.5
+Nevada,NV,Social Cohesion,-4.2,-1.7,-1.2,-1.6
+Nevada,NV,Social Mobility,-6.9,-4.9,-3.4,-0.9
+Nevada,NV,Social Trust,4.8,5.2,11,12.6
+Nevada,NV,Total,18.6,18.4,27.4,16.1
+Nevada,NV,ce-ao,1.9,1.9,1.9,1.9
+Nevada,NV,ce-vt,0.3,1.5,2,3.9
+Nevada,NV,cl-cdd,0.7,0.4,-1.6,-1.8
+Nevada,NV,cl-don,0.1,-0.1,-0.8,-2
+Nevada,NV,cl-mem,0.2,-0.7,-0.3,0
+Nevada,NV,cl-np,-0.1,-0.1,-0.1,-0.1
+Nevada,NV,cl-npo,0.6,0.6,0.6,0.5
+Nevada,NV,cl-porg,0.7,0.7,0.7,0.7
+Nevada,NV,cl-rel,0.2,0.3,-1.8,-1.8
+Nevada,NV,cl-ta,1,1.5,0.5,-0.9
+Nevada,NV,cl-tfn,1.4,2.2,0.3,-2.5
+Nevada,NV,cl-vol,-0.4,0.5,-0.8,-0.7
+Nevada,NV,cv-pm,0.9,0.9,0.9,0.9
+Nevada,NV,fg-act,1.9,2.6,-0.8,0.1
+Nevada,NV,fg-br,1.8,1.5,0.5,-0.7
+Nevada,NV,fg-play,5,4.2,8.3,2
+Nevada,NV,fg-read,0.5,1.9,0.3,0.7
+Nevada,NV,fg-sch,0.7,-0.2,-0.2,-0.9
+Nevada,NV,fg-yorg,0.5,0.4,0.3,0.6
+Nevada,NV,fh-eat,3.1,1,3.8,2.6
+Nevada,NV,fh-ed,-0.7,-1.1,-3.1,-1.2
+Nevada,NV,fh-ma,0.5,0,0.1,-0.1
+Nevada,NV,fh-read,1.3,0.1,-0.4,0
+Nevada,NV,fh-spf,1.4,1.2,1.9,2.1
+Nevada,NV,fh-time,0.1,0.6,2.6,1.6
+Nevada,NV,fh-tv,1,1,0,0
+Nevada,NV,fh-uw,0.1,-0.4,-0.5,-0.4
+Nevada,NV,sc-born,-3.2,-3.1,-2.9,-2.9
+Nevada,NV,sc-eng-a,-1.4,-1.2,-0.8,-0.7
+Nevada,NV,sc-eng-c,-2.3,0.2,0.1,-0.2
+Nevada,NV,sc-mid,2.7,2.4,2.5,2.2
+Nevada,NV,sm-em,-2.6,-2.6,-2.6,-2.6
+Nevada,NV,sm-grad,-0.7,-0.4,0.2,1.1
+Nevada,NV,sm-hr,-1.5,-2.2,-0.8,0.3
+Nevada,NV,sm-neet,-2,0.3,-0.1,0.3
+Nevada,NV,st-fc,-0.3,1,3.3,3.7
+Nevada,NV,st-fc trust,2.8,2.4,3.9,4.2
+Nevada,NV,st-fcc,2.3,2.9,3,3.1
+Nevada,NV,st-vc,0.1,-1.2,0.8,1.6
+New Hampshire,NH,Civic Engagement,15.1,14.9,17.5,17.2
+New Hampshire,NH,Community Life,7.3,11.6,3.4,1.4
+New Hampshire,NH,Family Health,13.9,10.5,10.7,12.5
+New Hampshire,NH,Future Generations,2.3,1,-1.2,-2.8
+New Hampshire,NH,Social Cohesion,8.8,8.8,8.1,8.3
+New Hampshire,NH,Social Mobility,11.5,13.9,14.6,17.2
+New Hampshire,NH,Social Trust,9.7,12,14.4,14
+New Hampshire,NH,Total,68.5,72.7,67.6,67.9
+New Hampshire,NH,ce-ao,1.9,2,2.2,2
+New Hampshire,NH,ce-vt,5.6,5.4,7.7,7.8
+New Hampshire,NH,cl-cdd,1.3,1,-1.7,-1.9
+New Hampshire,NH,cl-don,1.8,3.1,2.1,2
+New Hampshire,NH,cl-mem,0.8,1.1,1.2,1
+New Hampshire,NH,cl-np,0,0,-0.1,-0.1
+New Hampshire,NH,cl-npo,0.6,0.7,0.6,0.6
+New Hampshire,NH,cl-porg,0.7,0.7,0.7,0.7
+New Hampshire,NH,cl-rel,-0.6,-0.7,-1.8,-1.8
+New Hampshire,NH,cl-ta,2.2,1.1,0.6,-0.3
+New Hampshire,NH,cl-tfn,0.8,3.1,-0.6,-1.7
+New Hampshire,NH,cl-vol,0.9,2.5,0.6,1
+New Hampshire,NH,cv-pm,7.6,7.5,7.6,7.4
+New Hampshire,NH,fg-act,1.5,0,-0.3,2.2
+New Hampshire,NH,fg-br,-0.9,-1.2,-1.7,-1.9
+New Hampshire,NH,fg-play,0,-0.4,-0.5,-0.6
+New Hampshire,NH,fg-read,3.2,1.2,2.8,1.7
+New Hampshire,NH,fg-sch,1.3,0.7,0.3,0
+New Hampshire,NH,fg-yorg,1.1,1.7,1.1,0.7
+New Hampshire,NH,fh-eat,1,-0.3,1.8,-0.7
+New Hampshire,NH,fh-ed,2.2,2.8,-0.6,1.5
+New Hampshire,NH,fh-ma,2.4,1.9,1.9,2.1
+New Hampshire,NH,fh-read,3.9,1.1,3.2,2.1
+New Hampshire,NH,fh-spf,1.3,1.4,1.6,1.9
+New Hampshire,NH,fh-time,1.2,1.5,1.9,4.5
+New Hampshire,NH,fh-tv,1.2,1.2,0,0
+New Hampshire,NH,fh-uw,1.8,2,2.7,3.1
+New Hampshire,NH,sc-born,-0.5,-0.6,-0.8,-0.9
+New Hampshire,NH,sc-eng-a,3.2,3.2,3.2,3.3
+New Hampshire,NH,sc-eng-c,3.3,3.5,3.3,3.4
+New Hampshire,NH,sc-mid,2.8,2.6,2.4,2.5
+New Hampshire,NH,sm-em,1.8,1.8,1.8,1.8
+New Hampshire,NH,sm-grad,2.5,3.1,3.7,4.6
+New Hampshire,NH,sm-hr,4.3,4.1,4.5,4.9
+New Hampshire,NH,sm-neet,2.9,4.9,4.6,5.9
+New Hampshire,NH,st-fc,1,2,4,3.3
+New Hampshire,NH,st-fc trust,2.1,3,3.2,2.8
+New Hampshire,NH,st-fcc,3.2,3.5,3.2,3.3
+New Hampshire,NH,st-vc,3.5,3.7,4.1,4.6
+New Jersey,NJ,Civic Engagement,5.3,4.2,14.6,9.8
+New Jersey,NJ,Community Life,5,6.5,2.8,-0.1
+New Jersey,NJ,Family Health,9.3,6.6,7.3,8.9
+New Jersey,NJ,Future Generations,5.5,4.4,2.3,4.2
+New Jersey,NJ,Social Cohesion,0.8,1.2,0.8,-0.4
+New Jersey,NJ,Social Mobility,8,9,11.7,13.1
+New Jersey,NJ,Social Trust,8.8,9.9,13.6,13.1
+New Jersey,NJ,Total,42.8,41.8,53.1,48.6
+New Jersey,NJ,ce-ao,1.9,1.9,1.9,1.9
+New Jersey,NJ,ce-vt,2.1,2,9.7,4.5
+New Jersey,NJ,cl-cdd,2.8,2.7,-0.7,-1.1
+New Jersey,NJ,cl-don,1.1,1.6,0.8,1.8
+New Jersey,NJ,cl-mem,0.1,0.5,1.2,1
+New Jersey,NJ,cl-np,0.6,0.7,0.6,0.6
+New Jersey,NJ,cl-npo,0.7,0.7,0.7,0.5
+New Jersey,NJ,cl-porg,0.8,0.8,0.8,0.7
+New Jersey,NJ,cl-rel,0.9,0.8,-0.6,-0.6
+New Jersey,NJ,cl-ta,1,0.5,0.1,-1.6
+New Jersey,NJ,cl-tfn,0.5,0.9,0.5,-2.3
+New Jersey,NJ,cl-vol,-0.1,0.8,-0.6,0.5
+New Jersey,NJ,cv-pm,1.3,0.3,3,3.4
+New Jersey,NJ,fg-act,2.6,1.9,0.1,1.1
+New Jersey,NJ,fg-br,1,0.6,0.3,0.1
+New Jersey,NJ,fg-play,0.1,-0.3,-0.6,-0.6
+New Jersey,NJ,fg-read,1.5,1.6,0.9,2.2
+New Jersey,NJ,fg-sch,2.2,2.3,1.7,3.1
+New Jersey,NJ,fg-yorg,0.3,0.3,0,0.3
+New Jersey,NJ,fh-eat,0.9,-0.1,2.8,1.8
+New Jersey,NJ,fh-ed,0.2,-0.4,-1.5,-0.3
+New Jersey,NJ,fh-ma,1.7,1.8,1.9,1.6
+New Jersey,NJ,fh-read,1.8,0.3,0.1,1.3
+New Jersey,NJ,fh-spf,2.3,2.6,3.1,3.5
+New Jersey,NJ,fh-time,0.8,0.6,-0.1,0.3
+New Jersey,NJ,fh-tv,1.2,1.2,0,0
+New Jersey,NJ,fh-uw,1.6,1.8,2.2,2.2
+New Jersey,NJ,sc-born,1,1,0.9,0.7
+New Jersey,NJ,sc-eng-a,-1.4,-1.3,-1.2,-1.4
+New Jersey,NJ,sc-eng-c,-0.1,0.5,-0.2,-0.9
+New Jersey,NJ,sc-mid,1.3,1,1.3,1.2
+New Jersey,NJ,sm-em,2.4,2.4,2.4,2.4
+New Jersey,NJ,sm-grad,3,3.7,4.8,5.5
+New Jersey,NJ,sm-hr,2,1.4,1.6,1.9
+New Jersey,NJ,sm-neet,0.6,1.5,3,3.4
+New Jersey,NJ,st-fc,2.1,2.8,4.3,3.5
+New Jersey,NJ,st-fc trust,3,2.2,4,3.9
+New Jersey,NJ,st-fcc,1,1.7,1.7,2.2
+New Jersey,NJ,st-vc,2.6,3.1,3.6,3.5
+New Mexico,NM,Civic Engagement,7.6,3.8,8.2,5.5
+New Mexico,NM,Community Life,4.5,5.3,-1.1,-2.8
+New Mexico,NM,Family Health,10.4,6.1,4.1,2.6
+New Mexico,NM,Future Generations,12.6,11,5.8,6.5
+New Mexico,NM,Social Cohesion,1.9,2.7,3.2,2.4
+New Mexico,NM,Social Mobility,2.7,2.3,5.3,8
+New Mexico,NM,Social Trust,6.1,3.9,3.7,8.2
+New Mexico,NM,Total,46,35.2,29.1,30.3
+New Mexico,NM,ce-ao,2,2,2,2
+New Mexico,NM,ce-vt,2,-1.1,2.5,1.1
+New Mexico,NM,cl-cdd,0.2,-0.1,-2,-2.1
+New Mexico,NM,cl-don,0,-0.3,-0.3,-1.4
+New Mexico,NM,cl-mem,0.2,-0.4,-0.2,-0.6
+New Mexico,NM,cl-np,0.5,0.6,0.5,0.5
+New Mexico,NM,cl-npo,0.6,0.6,0.6,0.5
+New Mexico,NM,cl-porg,0.7,0.7,0.7,0.7
+New Mexico,NM,cl-rel,0.7,0.9,-0.4,-0.4
+New Mexico,NM,cl-ta,1.8,0.8,-0.1,-0.4
+New Mexico,NM,cl-tfn,0.3,2,-0.7,-0.5
+New Mexico,NM,cl-vol,0.2,0.9,-0.8,-0.8
+New Mexico,NM,cv-pm,3.6,2.9,3.8,2.4
+New Mexico,NM,fg-act,-0.5,-0.9,0.1,0.8
+New Mexico,NM,fg-br,1.9,1.3,0.1,-0.7
+New Mexico,NM,fg-play,2.9,2.8,1.9,2.3
+New Mexico,NM,fg-read,-0.2,1.6,-0.5,0.5
+New Mexico,NM,fg-sch,3,2.6,1.4,2.1
+New Mexico,NM,fg-yorg,0.6,0.6,0.4,0.7
+New Mexico,NM,fh-eat,5.5,3.8,6.1,3.6
+New Mexico,NM,fh-ed,0.8,0.5,-1.4,0.3
+New Mexico,NM,fh-ma,0.5,0.3,-0.3,-0.6
+New Mexico,NM,fh-read,2.9,1.1,0.2,0.1
+New Mexico,NM,fh-spf,0.8,0.5,0.7,0.8
+New Mexico,NM,fh-time,0.8,0.7,-0.1,-0.7
+New Mexico,NM,fh-tv,1,1,0,0
+New Mexico,NM,fh-uw,-0.9,-0.9,-1,-1
+New Mexico,NM,sc-born,1,1.2,1.2,0.9
+New Mexico,NM,sc-eng-a,0,0.3,0.5,0.5
+New Mexico,NM,sc-eng-c,0,0.2,0.3,-0.3
+New Mexico,NM,sc-mid,0.9,1,1.2,1.4
+New Mexico,NM,sm-em,1.7,1.7,1.7,1.7
+New Mexico,NM,sm-grad,0.2,0.5,0.8,2
+New Mexico,NM,sm-hr,2.7,2.3,2.6,3.4
+New Mexico,NM,sm-neet,-1.9,-2.1,0.1,0.9
+New Mexico,NM,st-fc,2.7,3.1,1.7,4.2
+New Mexico,NM,st-fc trust,1.7,0.2,1.9,2.6
+New Mexico,NM,st-fcc,1.7,1.4,2.5,3
+New Mexico,NM,st-vc,0.1,-0.8,-2.4,-1.7
+New York,NY,Civic Engagement,4.8,3.7,7.5,4.7
+New York,NY,Community Life,4.8,6,2.3,-1
+New York,NY,Family Health,7.5,7.2,5.6,8.7
+New York,NY,Future Generations,10.4,9.5,7.7,5.5
+New York,NY,Social Cohesion,0,-0.7,-0.5,-1.7
+New York,NY,Social Mobility,4,6.3,8.2,9.1
+New York,NY,Social Trust,5.5,6.6,9.1,8.1
+New York,NY,Total,37.1,38.6,39.9,33.4
+New York,NY,ce-ao,2.5,2.5,2.3,2.4
+New York,NY,ce-vt,0.7,0,3.4,0.3
+New York,NY,cl-cdd,1.9,1.7,-1.3,-1.5
+New York,NY,cl-don,0.1,0.4,0.3,-0.3
+New York,NY,cl-mem,0.5,0.7,1,1.2
+New York,NY,cl-np,1.1,1.7,1.4,1.3
+New York,NY,cl-npo,1,1.2,1,0.7
+New York,NY,cl-porg,0.8,0.8,0.8,0.7
+New York,NY,cl-rel,0.5,0.1,-1.2,-1.2
+New York,NY,cl-ta,1,0.5,0,-0.9
+New York,NY,cl-tfn,1.3,1.8,0.7,-1.3
+New York,NY,cl-vol,-0.5,0.6,-0.3,0.1
+New York,NY,cv-pm,1.7,1.1,1.8,2
+New York,NY,fg-act,1.8,0.8,1.7,0.4
+New York,NY,fg-br,1.3,1,0.5,-0.3
+New York,NY,fg-play,1.2,0.9,0.7,0.6
+New York,NY,fg-read,1.8,0.8,2.6,3.7
+New York,NY,fg-sch,3.3,3.2,3.2,2.5
+New York,NY,fg-yorg,1.1,1.2,0.8,0.9
+New York,NY,fh-eat,1.1,1.1,3.2,3.3
+New York,NY,fh-ed,0.2,1.2,-1.8,1.6
+New York,NY,fh-ma,0.1,0,-0.1,-0.4
+New York,NY,fh-read,2.5,1.6,0.9,1.3
+New York,NY,fh-spf,1.9,2,2.5,2.4
+New York,NY,fh-time,0.8,0.2,0.5,0.5
+New York,NY,fh-tv,1.2,1.2,0,0
+New York,NY,fh-uw,0.9,1.2,1.4,1.5
+New York,NY,sc-born,2.8,2.7,2.7,2.5
+New York,NY,sc-eng-a,-1.7,-1.7,-1.5,-1.5
+New York,NY,sc-eng-c,-1.7,-2.1,-2.2,-3
+New York,NY,sc-mid,0.7,0.4,0.4,0.3
+New York,NY,sm-em,3.2,3.2,3.2,3.2
+New York,NY,sm-grad,2.3,3,3.8,4.6
+New York,NY,sm-hr,-1.5,-1.6,-1.3,-0.8
+New York,NY,sm-neet,-0.1,1.7,2.5,2.1
+New York,NY,st-fc,-0.1,0.6,2.1,1.6
+New York,NY,st-fc trust,1.6,1.9,2.6,2.3
+New York,NY,st-fcc,2.3,2.2,2.3,2.4
+New York,NY,st-vc,1.8,1.9,2.1,1.8
+North Carolina,NC,Civic Engagement,9.3,7,7,9.9
+North Carolina,NC,Community Life,8.4,9.3,2.6,0
+North Carolina,NC,Family Health,8,5.7,6.3,9.7
+North Carolina,NC,Future Generations,4.6,2.9,2,1.4
+North Carolina,NC,Social Cohesion,6.9,6.9,7.5,6.2
+North Carolina,NC,Social Mobility,2.5,4.7,7.5,10
+North Carolina,NC,Social Trust,10.1,9.2,11.9,12.9
+North Carolina,NC,Total,49.8,45.7,44.8,50
+North Carolina,NC,ce-ao,2.1,2.1,2,2
+North Carolina,NC,ce-vt,5.4,4.7,3.4,6
+North Carolina,NC,cl-cdd,1.6,1.1,-1.6,-1.8
+North Carolina,NC,cl-don,1.2,1.4,0.3,0.1
+North Carolina,NC,cl-mem,0.7,1.4,0.9,1
+North Carolina,NC,cl-np,1,1.1,0.5,0.5
+North Carolina,NC,cl-npo,0.6,0.7,0.6,0.6
+North Carolina,NC,cl-porg,0.8,0.8,0.8,0.7
+North Carolina,NC,cl-rel,2.5,1.3,0.2,0.2
+North Carolina,NC,cl-ta,1.2,0.6,0.5,-0.8
+North Carolina,NC,cl-tfn,0.7,0.8,-0.3,-1.9
+North Carolina,NC,cl-vol,0.7,2.3,-0.3,0
+North Carolina,NC,cv-pm,1.8,0.1,1.5,1.9
+North Carolina,NC,fg-act,0.9,0.9,1.2,0.4
+North Carolina,NC,fg-br,1.4,1,0.4,0.2
+North Carolina,NC,fg-play,0.8,0.7,0.9,0.8
+North Carolina,NC,fg-read,2.2,1.2,1.2,0.3
+North Carolina,NC,fg-sch,0.5,-0.1,-0.2,-0.4
+North Carolina,NC,fg-yorg,0.5,0.4,0.2,0.4
+North Carolina,NC,fh-eat,2.5,0.5,3.6,3.7
+North Carolina,NC,fh-ed,0,0.9,-0.4,2.7
+North Carolina,NC,fh-ma,1.1,0.9,1.1,1
+North Carolina,NC,fh-read,1.8,1.2,1,1.1
+North Carolina,NC,fh-spf,0.5,0.6,0.8,1.1
+North Carolina,NC,fh-time,1.3,0.8,0.5,0.8
+North Carolina,NC,fh-tv,1.2,1.2,0,0
+North Carolina,NC,fh-uw,0.7,0.8,0.9,0.9
+North Carolina,NC,sc-born,1.9,1.8,1.6,1.1
+North Carolina,NC,sc-eng-a,2.2,2.2,2.4,2.2
+North Carolina,NC,sc-eng-c,1.4,1.6,1.9,1.3
+North Carolina,NC,sc-mid,1.4,1.3,1.7,1.6
+North Carolina,NC,sm-em,1.3,1.3,1.3,1.3
+North Carolina,NC,sm-grad,0.6,1.3,2.2,3.5
+North Carolina,NC,sm-hr,1.9,1.2,1.8,2.5
+North Carolina,NC,sm-neet,-1.3,0.8,2.2,2.7
+North Carolina,NC,st-fc,3,2.7,3.7,4.1
+North Carolina,NC,st-fc trust,2.1,1.7,3.5,3.9
+North Carolina,NC,st-fcc,2.7,2.6,2.8,3.1
+North Carolina,NC,st-vc,2.3,2.3,1.9,1.8
+North Dakota,ND,Civic Engagement,11.1,8.1,10.5,8.1
+North Dakota,ND,Community Life,11.9,11.4,4.7,2.9
+North Dakota,ND,Family Health,13.4,7.3,7.2,5
+North Dakota,ND,Future Generations,9.1,17.6,13.1,12.4
+North Dakota,ND,Social Cohesion,12.8,12.2,11.7,11.7
+North Dakota,ND,Social Mobility,11.3,12.6,13.6,17.1
+North Dakota,ND,Social Trust,9.7,10.3,8.2,12
+North Dakota,ND,Total,79.2,79.4,69.1,69.2
+North Dakota,ND,ce-ao,1.9,1.9,1.9,1.9
+North Dakota,ND,ce-vt,3.1,3.2,4.5,2.7
+North Dakota,ND,cl-cdd,-0.4,-0.7,-2.2,-2.3
+North Dakota,ND,cl-don,1.9,2.7,1.7,1.3
+North Dakota,ND,cl-mem,1.1,1.5,0.6,0.8
+North Dakota,ND,cl-np,0.2,0.4,0.3,0.3
+North Dakota,ND,cl-npo,0.6,0.6,0.6,0.5
+North Dakota,ND,cl-porg,0.7,0.7,0.7,0.7
+North Dakota,ND,cl-rel,1.7,0.6,-0.4,-0.4
+North Dakota,ND,cl-ta,1.6,1.3,0.3,-0.2
+North Dakota,ND,cl-tfn,3.4,1.3,0.5,-0.8
+North Dakota,ND,cl-vol,1,2.8,0.7,0.9
+North Dakota,ND,cv-pm,6.1,3,4,3.6
+North Dakota,ND,fg-act,-0.5,-0.4,1,1.1
+North Dakota,ND,fg-br,2.6,3.5,2.4,1.3
+North Dakota,ND,fg-play,2.9,5.5,4.6,4.6
+North Dakota,ND,fg-read,6.2,1.3,8.5,1.2
+North Dakota,ND,fg-sch,0.3,2.2,1.3,1.8
+North Dakota,ND,fg-yorg,0.3,0.6,0.4,0.6
+North Dakota,ND,fh-eat,2.6,1.1,2.1,0.3
+North Dakota,ND,fh-ed,2.3,2.1,1.3,1.2
+North Dakota,ND,fh-ma,1.5,0.8,1,0.7
+North Dakota,ND,fh-read,3.4,0.9,1.6,1
+North Dakota,ND,fh-spf,-0.1,0,-0.8,-0.8
+North Dakota,ND,fh-time,1.7,0.2,0.6,0.9
+North Dakota,ND,fh-tv,1.2,1.2,0,0
+North Dakota,ND,fh-uw,2.1,2.2,2.6,2.5
+North Dakota,ND,sc-born,3.4,2.8,2.5,2.4
+North Dakota,ND,sc-eng-a,3.7,3.6,3.5,3.4
+North Dakota,ND,sc-eng-c,3.5,3.9,3.7,3.7
+North Dakota,ND,sc-mid,2.2,1.9,2.1,2.2
+North Dakota,ND,sm-em,5,5,5,5
+North Dakota,ND,sm-grad,0.4,1.2,1.6,2.5
+North Dakota,ND,sm-hr,3,1.7,1.8,3
+North Dakota,ND,sm-neet,2.9,4.7,5.2,6.5
+North Dakota,ND,st-fc,2.2,0.3,0.6,3.3
+North Dakota,ND,st-fc trust,2.9,3.6,3.4,3.2
+North Dakota,ND,st-fcc,1.3,3.2,1.5,2.5
+North Dakota,ND,st-vc,3.2,3.1,2.7,3
+Ohio,OH,Civic Engagement,5.2,5.5,10.5,7.2
+Ohio,OH,Community Life,5.3,10.1,2.1,2
+Ohio,OH,Family Health,7.6,4.1,5.1,3.7
+Ohio,OH,Future Generations,7.3,5.7,5.6,4
+Ohio,OH,Social Cohesion,12.4,12.4,12.2,11.8
+Ohio,OH,Social Mobility,4,5.3,7.3,8.2
+Ohio,OH,Social Trust,8.9,10.9,12.5,12.1
+Ohio,OH,Total,50.7,54,55.4,49
+Ohio,OH,ce-ao,1.9,2,2,1.9
+Ohio,OH,ce-vt,2.7,2.9,5.9,3.7
+Ohio,OH,cl-cdd,0.9,0.4,-2,-2.2
+Ohio,OH,cl-don,0.1,2.1,0.2,1.1
+Ohio,OH,cl-mem,0.2,0.6,0.4,0.8
+Ohio,OH,cl-np,0.7,1.1,0.8,1.5
+Ohio,OH,cl-npo,0.7,0.8,0.7,0.7
+Ohio,OH,cl-porg,0.7,0.8,0.7,1.9
+Ohio,OH,cl-rel,0.9,1.2,-0.4,-0.4
+Ohio,OH,cl-ta,1.3,0.6,0.2,-1.3
+Ohio,OH,cl-tfn,0.7,1.9,0.3,-1.7
+Ohio,OH,cl-vol,0.5,2,0,1
+Ohio,OH,cv-pm,0.6,0.6,2.6,1.5
+Ohio,OH,fg-act,0.9,1.8,0.6,0.4
+Ohio,OH,fg-br,1,1,0.6,0
+Ohio,OH,fg-play,1,0.7,1.2,0.8
+Ohio,OH,fg-read,1.6,0.9,1.3,1.1
+Ohio,OH,fg-sch,2.5,1.5,1.7,1.2
+Ohio,OH,fg-yorg,0.4,0.6,0.3,0.8
+Ohio,OH,fh-eat,1.9,0.3,2.5,0.8
+Ohio,OH,fh-ed,-0.1,0.4,-0.2,0.4
+Ohio,OH,fh-ma,0.8,0.6,0.4,0.2
+Ohio,OH,fh-read,2.8,0.8,1.3,1.3
+Ohio,OH,fh-spf,0.4,0.4,0.4,0.3
+Ohio,OH,fh-time,1.5,1.2,1,0.7
+Ohio,OH,fh-tv,1.2,1.2,0,0
+Ohio,OH,fh-uw,0.3,0.4,0.6,0.6
+Ohio,OH,sc-born,4.5,4.6,4.5,4.4
+Ohio,OH,sc-eng-a,3.3,3.3,3.2,3.1
+Ohio,OH,sc-eng-c,3,3.1,2.9,2.7
+Ohio,OH,sc-mid,1.5,1.6,1.6,1.5
+Ohio,OH,sm-em,0.6,0.6,0.6,0.6
+Ohio,OH,sm-grad,-0.1,0.6,1.3,2.1
+Ohio,OH,sm-hr,2.6,2.1,2.5,3
+Ohio,OH,sm-neet,0.9,2,2.9,2.5
+Ohio,OH,st-fc,2.2,3,3.7,3.1
+Ohio,OH,st-fc trust,2.9,2.8,3.1,3.6
+Ohio,OH,st-fcc,1.1,2.4,2.9,2.6
+Ohio,OH,st-vc,2.7,2.7,2.7,2.8
+Oklahoma,OK,Civic Engagement,0.9,3.6,3.3,1
+Oklahoma,OK,Community Life,7.7,8.2,3.3,0.4
+Oklahoma,OK,Family Health,11.1,5.8,3.1,5.5
+Oklahoma,OK,Future Generations,7.3,7,6,4.1
+Oklahoma,OK,Social Cohesion,9.3,9,9.4,9
+Oklahoma,OK,Social Mobility,2.6,4.2,4.8,6.7
+Oklahoma,OK,Social Trust,3.3,5.3,7.1,8.8
+Oklahoma,OK,Total,42.1,43.1,36.9,35.6
+Oklahoma,OK,ce-ao,1.9,2,2.1,2.1
+Oklahoma,OK,ce-vt,-2.2,-0.3,0.5,-1.8
+Oklahoma,OK,cl-cdd,0.4,0.2,-1.9,-2
+Oklahoma,OK,cl-don,-0.3,1.2,0.1,0.7
+Oklahoma,OK,cl-mem,0.5,0.3,0.3,-0.2
+Oklahoma,OK,cl-np,1.3,1.1,0.8,0.7
+Oklahoma,OK,cl-npo,0.7,0.8,0.6,0.6
+Oklahoma,OK,cl-porg,0.7,0.7,0.7,0.7
+Oklahoma,OK,cl-rel,2.6,1.8,0.8,0.8
+Oklahoma,OK,cl-ta,2,1.2,0.4,-0.8
+Oklahoma,OK,cl-tfn,0.9,0.2,0.3,-2.1
+Oklahoma,OK,cl-vol,0.6,1.8,-0.1,0.9
+Oklahoma,OK,cv-pm,1.2,1.9,0.7,0.8
+Oklahoma,OK,fg-act,2.6,0.3,2.8,-0.3
+Oklahoma,OK,fg-br,2.5,2.3,1.3,0.8
+Oklahoma,OK,fg-play,1.5,1.1,1.5,1
+Oklahoma,OK,fg-read,1.6,-0.1,1,1.5
+Oklahoma,OK,fg-sch,0.4,0.5,0.4,0.1
+Oklahoma,OK,fg-yorg,0.5,0.7,0.7,0.8
+Oklahoma,OK,fh-eat,3.2,1.1,2.3,3.3
+Oklahoma,OK,fh-ed,1.7,0.8,-0.5,0.1
+Oklahoma,OK,fh-ma,1.4,1.1,1.1,0.8
+Oklahoma,OK,fh-read,2.7,0.3,-0.7,-0.2
+Oklahoma,OK,fh-spf,0.3,0.6,0.6,0.8
+Oklahoma,OK,fh-time,1.2,1.2,0.5,1.4
+Oklahoma,OK,fh-tv,1.2,1.2,0,0
+Oklahoma,OK,fh-uw,0.6,0.6,0.3,0.2
+Oklahoma,OK,sc-born,2.4,2.3,2.3,2.1
+Oklahoma,OK,sc-eng-a,2.6,2.5,2.5,2.5
+Oklahoma,OK,sc-eng-c,2.4,2.5,2.8,2.5
+Oklahoma,OK,sc-mid,1.9,1.8,1.8,1.8
+Oklahoma,OK,sm-em,1.9,1.9,1.9,1.9
+Oklahoma,OK,sm-grad,-0.3,-0.1,0.4,1.1
+Oklahoma,OK,sm-hr,2.2,1.7,1.9,2.3
+Oklahoma,OK,sm-neet,-1.1,0.7,0.7,1.4
+Oklahoma,OK,st-fc,1,2.5,2.3,2.1
+Oklahoma,OK,st-fc trust,0.5,0.9,2.4,2.4
+Oklahoma,OK,st-fcc,0.5,0.4,1,2.7
+Oklahoma,OK,st-vc,1.2,1.5,1.4,1.6
+Oregon,OR,Civic Engagement,11.7,10.9,13.1,10.3
+Oregon,OR,Community Life,11.4,12.4,3.5,3.4
+Oregon,OR,Family Health,13.1,8.1,8.6,8.1
+Oregon,OR,Future Generations,8.4,6.6,5.5,5.2
+Oregon,OR,Social Cohesion,3.8,4.1,5,4.7
+Oregon,OR,Social Mobility,1.2,4.9,6.8,8.5
+Oregon,OR,Social Trust,13.4,13.2,14.5,14.7
+Oregon,OR,Total,62.9,60.3,57,54.9
+Oregon,OR,ce-ao,2,2.1,2,2
+Oregon,OR,ce-vt,4.8,4.2,7.7,6.2
+Oregon,OR,cl-cdd,2,1.7,-1.1,-1.4
+Oregon,OR,cl-don,1.7,2.6,1.8,1.5
+Oregon,OR,cl-mem,1.8,2.8,1,1.9
+Oregon,OR,cl-np,0.5,0.5,0.2,0.3
+Oregon,OR,cl-npo,0.6,0.7,0.6,0.6
+Oregon,OR,cl-porg,0.8,0.8,0.7,0.7
+Oregon,OR,cl-rel,0.5,0.1,-1.6,-1.6
+Oregon,OR,cl-ta,1.6,1.1,0.2,-0.7
+Oregon,OR,cl-tfn,2.7,0.6,-0.1,-0.8
+Oregon,OR,cl-vol,1.6,3.8,0.8,1.8
+Oregon,OR,cv-pm,4.9,4.7,3.4,2.1
+Oregon,OR,fg-act,2,2.5,0.6,1.4
+Oregon,OR,fg-br,0.7,0.4,-0.7,-1.5
+Oregon,OR,fg-play,2.4,2.1,1.9,1.6
+Oregon,OR,fg-read,2.2,3.4,2,1.9
+Oregon,OR,fg-sch,1.1,0.5,1.5,1.2
+Oregon,OR,fg-yorg,1.4,1.4,0.9,2.1
+Oregon,OR,fh-eat,3.2,0.7,4.5,1.3
+Oregon,OR,fh-ed,1.7,1.5,-1.4,0.3
+Oregon,OR,fh-ma,1.1,1.1,1,0.8
+Oregon,OR,fh-read,3.4,1,1.7,2.2
+Oregon,OR,fh-spf,0.8,1.2,1.7,1.6
+Oregon,OR,fh-time,1.3,1.3,0.8,1.8
+Oregon,OR,fh-tv,1.2,1.2,0,0
+Oregon,OR,fh-uw,1.5,1.5,1.7,1.5
+Oregon,OR,sc-born,0.1,0,0,-0.1
+Oregon,OR,sc-eng-a,1.6,1.7,1.9,2
+Oregon,OR,sc-eng-c,0.3,0.7,1,0.9
+Oregon,OR,sc-mid,1.8,1.7,2.1,1.9
+Oregon,OR,sm-em,0.5,0.5,0.5,0.5
+Oregon,OR,sm-grad,1.3,2.1,2.8,3.7
+Oregon,OR,sm-hr,0.2,0.5,1.5,1.9
+Oregon,OR,sm-neet,-0.8,1.8,1.9,2.3
+Oregon,OR,st-fc,3.8,3.7,4.6,4.5
+Oregon,OR,st-fc trust,3.6,3.5,4,4.4
+Oregon,OR,st-fcc,2.8,3,3.2,3.4
+Oregon,OR,st-vc,3.2,3,2.8,2.5
+Pennsylvania,PA,Civic Engagement,6.1,5.3,10.9,11.2
+Pennsylvania,PA,Community Life,7.4,8.6,3,1.4
+Pennsylvania,PA,Family Health,8.7,6.8,4.4,6.8
+Pennsylvania,PA,Future Generations,4.3,2.7,1.8,1.4
+Pennsylvania,PA,Social Cohesion,10.6,10.4,9.7,9.1
+Pennsylvania,PA,Social Mobility,8,9.2,11.6,13.2
+Pennsylvania,PA,Social Trust,6.9,7.9,9.9,12
+Pennsylvania,PA,Total,51.9,50.8,51.4,55
+Pennsylvania,PA,ce-ao,2,2,2,2
+Pennsylvania,PA,ce-vt,2,2.5,6,6.5
+Pennsylvania,PA,cl-cdd,1.1,0.8,-1.8,-2
+Pennsylvania,PA,cl-don,0.5,2.2,0.9,1.4
+Pennsylvania,PA,cl-mem,0.5,0.9,1,1.1
+Pennsylvania,PA,cl-np,1.2,2.2,1.8,1.4
+Pennsylvania,PA,cl-npo,0.8,0.9,0.8,0.9
+Pennsylvania,PA,cl-porg,0.9,0.8,0.9,0.7
+Pennsylvania,PA,cl-rel,1.3,0.7,-0.7,-0.7
+Pennsylvania,PA,cl-ta,1.2,0.5,0.1,-1.4
+Pennsylvania,PA,cl-tfn,1.3,0.3,-0.4,-1.5
+Pennsylvania,PA,cl-vol,0.9,2.2,0.4,1
+Pennsylvania,PA,cv-pm,2.1,0.9,3,2.7
+Pennsylvania,PA,fg-act,1.2,1.1,1.3,1.3
+Pennsylvania,PA,fg-br,0.4,0.2,-0.3,-0.8
+Pennsylvania,PA,fg-play,0.3,-0.2,-0.2,0.1
+Pennsylvania,PA,fg-read,0.5,1.8,0.7,0.7
+Pennsylvania,PA,fg-sch,1.6,1.3,1.3,1.2
+Pennsylvania,PA,fg-yorg,0.6,0.6,0.4,0.4
+Pennsylvania,PA,fh-eat,1.2,0.7,2,1.1
+Pennsylvania,PA,fh-ed,0.5,0.8,-0.8,1.2
+Pennsylvania,PA,fh-ma,1.1,1,0.7,0.6
+Pennsylvania,PA,fh-read,3.4,1,0.9,1.5
+Pennsylvania,PA,fh-spf,0.9,1.1,1,1.2
+Pennsylvania,PA,fh-time,1.1,1.4,0.2,1
+Pennsylvania,PA,fh-tv,1.2,1.2,0,0
+Pennsylvania,PA,fh-uw,0.7,0.8,1.1,1.3
+Pennsylvania,PA,sc-born,4.4,4.2,4,3.8
+Pennsylvania,PA,sc-eng-a,2.6,2.5,2.4,2.3
+Pennsylvania,PA,sc-eng-c,2.1,2.2,2,1.6
+Pennsylvania,PA,sc-mid,1.5,1.5,1.4,1.4
+Pennsylvania,PA,sm-em,2.9,2.9,2.9,2.9
+Pennsylvania,PA,sm-grad,0.6,1.4,2.2,3.1
+Pennsylvania,PA,sm-hr,3.7,3.3,3.3,3.9
+Pennsylvania,PA,sm-neet,0.9,1.7,3.3,3.3
+Pennsylvania,PA,st-fc,1.5,1.7,2.9,3.1
+Pennsylvania,PA,st-fc trust,1.8,2,2.5,3.3
+Pennsylvania,PA,st-fcc,1.6,1.6,1.8,2.6
+Pennsylvania,PA,st-vc,2.1,2.6,2.6,3
+Rhode Island,RI,Civic Engagement,8.9,5.9,12.1,6.6
+Rhode Island,RI,Community Life,6,5.9,8.5,-0.8
+Rhode Island,RI,Family Health,4.7,6.5,1.5,4.3
+Rhode Island,RI,Future Generations,3.3,3.5,1.6,2.8
+Rhode Island,RI,Social Cohesion,3.8,5.3,5,4.7
+Rhode Island,RI,Social Mobility,7.5,9.4,11.8,15.1
+Rhode Island,RI,Social Trust,10.8,9,12.7,11.5
+Rhode Island,RI,Total,45.1,45.6,53.2,44.2
+Rhode Island,RI,ce-ao,2,2,2,2.3
+Rhode Island,RI,ce-vt,2.4,1.5,4.2,2.4
+Rhode Island,RI,cl-cdd,1.8,1.5,-1.5,-1.8
+Rhode Island,RI,cl-don,1.3,2.3,1.3,0.7
+Rhode Island,RI,cl-mem,0.3,-0.2,0.1,-0.7
+Rhode Island,RI,cl-np,0.8,0.5,0.3,0.3
+Rhode Island,RI,cl-npo,0.8,1,0.9,1.1
+Rhode Island,RI,cl-porg,0.8,0.8,0.8,0.7
+Rhode Island,RI,cl-rel,0.2,0.9,-0.7,-0.7
+Rhode Island,RI,cl-ta,1.2,-1.3,-0.6,-0.8
+Rhode Island,RI,cl-tfn,1.1,0.7,7.1,-0.4
+Rhode Island,RI,cl-vol,0.2,1.6,-0.4,-0.6
+Rhode Island,RI,cv-pm,4.5,2.4,6,1.9
+Rhode Island,RI,fg-act,3.6,0.7,3.6,-1.3
+Rhode Island,RI,fg-br,-0.3,-0.3,-1,-1.5
+Rhode Island,RI,fg-play,-0.7,-0.2,-0.4,-0.5
+Rhode Island,RI,fg-read,-0.7,0.8,2.7,4.8
+Rhode Island,RI,fg-sch,1.7,1.5,1.1,2.3
+Rhode Island,RI,fg-yorg,1.5,1.4,1.3,1.6
+Rhode Island,RI,fh-eat,0.9,0.5,2.4,0.5
+Rhode Island,RI,fh-ed,0.3,2,-1.3,0.6
+Rhode Island,RI,fh-ma,0.1,-0.1,0.2,-0.1
+Rhode Island,RI,fh-read,2.9,1.5,0.4,1.5
+Rhode Island,RI,fh-spf,0.7,0.7,0.9,1.6
+Rhode Island,RI,fh-time,-0.4,1.6,-1.2,0.4
+Rhode Island,RI,fh-tv,1.2,1.2,0,0
+Rhode Island,RI,fh-uw,0.2,0.3,0.4,0.5
+Rhode Island,RI,sc-born,2,1.7,1.7,1.2
+Rhode Island,RI,sc-eng-a,0.4,0.5,0.6,0.5
+Rhode Island,RI,sc-eng-c,0.3,1.7,0.5,0.7
+Rhode Island,RI,sc-mid,1.1,1.3,2.2,2.3
+Rhode Island,RI,sm-em,3.1,3.1,3.1,3.1
+Rhode Island,RI,sm-grad,1.8,2.3,2.9,4.1
+Rhode Island,RI,sm-hr,0.9,0.5,1.5,2.5
+Rhode Island,RI,sm-neet,1.7,3.5,4.3,5.4
+Rhode Island,RI,st-fc,2.9,2.3,3,0.3
+Rhode Island,RI,st-fc trust,3.3,2.6,3.2,3.7
+Rhode Island,RI,st-fcc,1.4,0.9,3.1,3.5
+Rhode Island,RI,st-vc,3.2,3.3,3.5,4
+South Carolina,SC,Civic Engagement,6.5,6.5,8.8,7.1
+South Carolina,SC,Community Life,8.4,9.3,4.4,1.5
+South Carolina,SC,Family Health,6.7,2.6,4.3,5.1
+South Carolina,SC,Future Generations,7.7,7.4,5.4,6.2
+South Carolina,SC,Social Cohesion,9.7,9.8,9,8.5
+South Carolina,SC,Social Mobility,1.1,3.8,6.6,9.4
+South Carolina,SC,Social Trust,3.6,7.7,8.9,11.2
+South Carolina,SC,Total,43.7,47.2,47.3,48.9
+South Carolina,SC,ce-ao,2,2.1,2.1,2
+South Carolina,SC,ce-vt,3.4,2.2,2.8,2.3
+South Carolina,SC,cl-cdd,1.1,0.9,-1.6,-1.9
+South Carolina,SC,cl-don,1.3,0.9,0.9,0.3
+South Carolina,SC,cl-mem,0.6,1.3,1.6,0.7
+South Carolina,SC,cl-np,1.3,1,0.6,0.5
+South Carolina,SC,cl-npo,0.6,0.6,0.5,0.6
+South Carolina,SC,cl-porg,0.7,0.7,0.7,0.8
+South Carolina,SC,cl-rel,3.1,2.3,0.9,0.9
+South Carolina,SC,cl-ta,1.1,0.3,0,-1.2
+South Carolina,SC,cl-tfn,1.2,1.5,-0.2,-1.1
+South Carolina,SC,cl-vol,-0.2,1.6,-0.1,0.6
+South Carolina,SC,cv-pm,1.1,2.2,3.9,2.9
+South Carolina,SC,fg-act,-0.7,0.2,0.1,-0.6
+South Carolina,SC,fg-br,1.2,0.9,0.2,-0.1
+South Carolina,SC,fg-play,0.9,1.4,1.1,1.5
+South Carolina,SC,fg-read,1.9,0,0.3,0.5
+South Carolina,SC,fg-sch,2.3,1.5,1.4,0.9
+South Carolina,SC,fg-yorg,0.6,1.2,0.9,1.7
+South Carolina,SC,fh-eat,2.3,-0.1,2.5,1.7
+South Carolina,SC,fh-ed,-0.5,1,-0.8,0.7
+South Carolina,SC,fh-ma,1.1,0.7,1,1.1
+South Carolina,SC,fh-read,2.6,0.1,-0.3,1
+South Carolina,SC,fh-spf,0.7,0.6,0.9,1.1
+South Carolina,SC,fh-time,0.7,0.3,1.5,0.2
+South Carolina,SC,fh-tv,1.2,1.2,0,0
+South Carolina,SC,fh-uw,-0.2,0,0.1,0.2
+South Carolina,SC,sc-born,2.1,1.8,1.4,0.9
+South Carolina,SC,sc-eng-a,2.9,3.1,3.1,3
+South Carolina,SC,sc-eng-c,3.1,3.1,2.8,2.6
+South Carolina,SC,sc-mid,1.5,1.8,1.6,2
+South Carolina,SC,sm-em,1.2,1.2,1.2,1.2
+South Carolina,SC,sm-grad,-0.2,0.6,1.4,2.3
+South Carolina,SC,sm-hr,2.6,2.3,3.1,4.2
+South Carolina,SC,sm-neet,-2.4,-0.2,1,1.7
+South Carolina,SC,st-fc,-1.8,0.8,2.2,3.7
+South Carolina,SC,st-fc trust,2.9,3.3,3.1,3.2
+South Carolina,SC,st-fcc,2.7,2.9,2.8,3.1
+South Carolina,SC,st-vc,-0.2,0.8,0.6,1
+South Dakota,SD,Civic Engagement,10.9,6.9,10.2,9.1
+South Dakota,SD,Community Life,12.1,10.5,11.2,3.4
+South Dakota,SD,Family Health,10.5,9.2,9.2,6.1
+South Dakota,SD,Future Generations,10.8,12.8,6.1,6.2
+South Dakota,SD,Social Cohesion,12,12.2,12,11.8
+South Dakota,SD,Social Mobility,13.3,11.6,14,15.9
+South Dakota,SD,Social Trust,1.9,1.1,-9,4.9
+South Dakota,SD,Total,71.5,64.2,53.6,57.4
+South Dakota,SD,ce-ao,1.9,1.9,1.9,1.9
+South Dakota,SD,ce-vt,1.7,0.9,0.6,3.1
+South Dakota,SD,cl-cdd,-0.5,-0.7,-2.2,-2.3
+South Dakota,SD,cl-don,1.7,1,1.6,1.4
+South Dakota,SD,cl-mem,1.9,1.4,2.5,1.5
+South Dakota,SD,cl-np,1.3,1.6,1.3,1.2
+South Dakota,SD,cl-npo,0.6,0.7,0.6,0.6
+South Dakota,SD,cl-porg,0.7,0.7,0.7,0.7
+South Dakota,SD,cl-rel,1.7,0.9,1.4,1.4
+South Dakota,SD,cl-ta,2,3.1,2.4,-1.3
+South Dakota,SD,cl-tfn,1.4,0.2,0,-3.5
+South Dakota,SD,cl-vol,2.1,2.6,1.9,2.6
+South Dakota,SD,cv-pm,7.3,4.1,7.7,4.1
+South Dakota,SD,fg-act,4.1,-1.2,-2.5,3.4
+South Dakota,SD,fg-br,3,3,1.8,1.1
+South Dakota,SD,fg-play,2.7,3,1.5,1.7
+South Dakota,SD,fg-read,2.9,6.4,-0.2,1
+South Dakota,SD,fg-sch,0.7,0.6,0,0.5
+South Dakota,SD,fg-yorg,0.9,2,0.7,0.8
+South Dakota,SD,fh-eat,2.2,0.1,2.2,0.8
+South Dakota,SD,fh-ed,2.2,1.9,1.3,1.7
+South Dakota,SD,fh-ma,1.8,1.5,1.8,1.1
+South Dakota,SD,fh-read,2.6,0.4,0.3,0.3
+South Dakota,SD,fh-spf,0,0,0,-0.4
+South Dakota,SD,fh-time,0.6,3.9,3.3,1.7
+South Dakota,SD,fh-tv,1.2,1.2,0,0
+South Dakota,SD,fh-uw,1.2,1.3,1.8,1.9
+South Dakota,SD,sc-born,2.9,3,2.8,2.6
+South Dakota,SD,sc-eng-a,3.4,3.3,3.4,3.4
+South Dakota,SD,sc-eng-c,2.9,3,3.3,3.4
+South Dakota,SD,sc-mid,2.7,2.9,2.5,2.5
+South Dakota,SD,sm-em,6.1,6.1,6.1,6.1
+South Dakota,SD,sm-grad,0.4,0.8,1.4,2.5
+South Dakota,SD,sm-hr,3.1,3.1,3.2,3.9
+South Dakota,SD,sm-neet,3.6,1.5,3.2,3.4
+South Dakota,SD,st-fc,-0.3,-1.3,-3.8,0.4
+South Dakota,SD,st-fc trust,1.2,-0.9,-3.3,1.6
+South Dakota,SD,st-fcc,-2.1,1.3,-3.6,0.6
+South Dakota,SD,st-vc,3.1,1.9,1.7,2.2
+Tennessee,TN,Civic Engagement,2.6,0.5,8.4,5.1
+Tennessee,TN,Community Life,9.1,11,4.3,3.3
+Tennessee,TN,Family Health,7.2,7.4,5.2,6.2
+Tennessee,TN,Future Generations,4.8,4.9,2.4,2.1
+Tennessee,TN,Social Cohesion,10,9.8,9.6,8
+Tennessee,TN,Social Mobility,1,4.5,6.5,8
+Tennessee,TN,Social Trust,3.5,4.8,7,10.2
+Tennessee,TN,Total,38.1,42.9,43.3,42.9
+Tennessee,TN,ce-ao,1.9,2.2,2,2
+Tennessee,TN,ce-vt,-0.7,-1.5,4.2,0.2
+Tennessee,TN,cl-cdd,0.1,-0.2,-2,-2.1
+Tennessee,TN,cl-don,0.9,1.7,0.2,1.5
+Tennessee,TN,cl-mem,0.4,0.3,0.4,1.5
+Tennessee,TN,cl-np,2.1,1.7,1.3,1.1
+Tennessee,TN,cl-npo,0.6,0.6,0.6,0.5
+Tennessee,TN,cl-porg,0.8,0.8,0.8,0.7
+Tennessee,TN,cl-rel,2.9,2.7,0.9,0.9
+Tennessee,TN,cl-ta,1.3,1.3,0.7,-0.6
+Tennessee,TN,cl-tfn,1.7,1.8,0.9,-2.3
+Tennessee,TN,cl-vol,0.6,1.7,-0.1,1.1
+Tennessee,TN,cv-pm,1.4,-0.2,2.2,2.9
+Tennessee,TN,fg-act,1.5,4.1,1.6,1
+Tennessee,TN,fg-br,1.4,1.3,0.8,0.7
+Tennessee,TN,fg-play,0.4,0.8,0.4,0.2
+Tennessee,TN,fg-read,-0.2,0.3,1.5,1
+Tennessee,TN,fg-sch,0.5,-0.1,-0.4,-0.3
+Tennessee,TN,fg-yorg,1,1.3,0.9,0.8
+Tennessee,TN,fh-eat,2.4,1.7,3.6,0.7
+Tennessee,TN,fh-ed,-0.6,0.9,-1,1.1
+Tennessee,TN,fh-ma,1.1,1,1.2,0.9
+Tennessee,TN,fh-read,3,1.3,-0.4,1.8
+Tennessee,TN,fh-spf,0.5,0.7,1,1.2
+Tennessee,TN,fh-time,0.5,1.3,1,0.9
+Tennessee,TN,fh-tv,1.2,1.2,0,0
+Tennessee,TN,fh-uw,0.3,0.4,0.6,0.6
+Tennessee,TN,sc-born,2.4,2.2,2.1,1.7
+Tennessee,TN,sc-eng-a,3,3.1,3,2.8
+Tennessee,TN,sc-eng-c,3.1,3,2.6,1.7
+Tennessee,TN,sc-mid,1.4,1.5,1.9,1.8
+Tennessee,TN,sm-em,1.2,1.2,1.2,1.2
+Tennessee,TN,sm-grad,-0.4,0.2,1.1,2
+Tennessee,TN,sm-hr,2.3,1.7,2.3,2.6
+Tennessee,TN,sm-neet,-2.2,1.3,1.8,2.1
+Tennessee,TN,st-fc,0.7,2.5,2.5,4.2
+Tennessee,TN,st-fc trust,1.3,1.6,2.3,3.4
+Tennessee,TN,st-fcc,1.8,1.1,2.3,3.1
+Tennessee,TN,st-vc,-0.3,-0.4,-0.2,-0.5
+Texas,TX,Civic Engagement,1.5,2.2,6.5,2.7
+Texas,TX,Community Life,6.5,7,1,-1.1
+Texas,TX,Family Health,8.7,6.9,5.6,6
+Texas,TX,Future Generations,9.2,9.1,6.5,5.6
+Texas,TX,Social Cohesion,-3.1,-2.6,-1.4,-0.9
+Texas,TX,Social Mobility,2.8,3.8,6.2,7.8
+Texas,TX,Social Trust,3.5,5.5,8.8,9.7
+Texas,TX,Total,29.1,32,33.3,30
+Texas,TX,ce-ao,1.9,2,1.9,1.9
+Texas,TX,ce-vt,-1.6,-0.8,3.1,-0.3
+Texas,TX,cl-cdd,0.2,0.1,-1.7,-1.9
+Texas,TX,cl-don,-0.3,0.5,-0.1,-0.4
+Texas,TX,cl-mem,0,0.3,0.1,0.1
+Texas,TX,cl-np,0.8,1,0.8,0.6
+Texas,TX,cl-npo,0.6,0.7,0.6,0.5
+Texas,TX,cl-porg,0.8,0.7,0.7,0.7
+Texas,TX,cl-rel,2.3,1.7,0,0
+Texas,TX,cl-ta,2.1,1.1,0.8,-0.4
+Texas,TX,cl-tfn,0.8,0.7,-0.5,-1.9
+Texas,TX,cl-vol,0.2,1.2,-0.6,0.3
+Texas,TX,cv-pm,1.2,1.1,1.5,1.1
+Texas,TX,fg-act,1.1,1,0.3,0.9
+Texas,TX,fg-br,3.3,3.2,1.8,1.6
+Texas,TX,fg-play,0.6,0.3,0.4,0.1
+Texas,TX,fg-read,1.5,0.6,0.6,1.7
+Texas,TX,fg-sch,1.8,1.3,1.2,1.2
+Texas,TX,fg-yorg,0.5,1.3,0.9,0.9
+Texas,TX,fh-eat,3,2.1,4.7,2.5
+Texas,TX,fh-ed,0,0.2,-3.2,-0.3
+Texas,TX,fh-ma,1.5,1.5,1.6,1.4
+Texas,TX,fh-read,1.1,-0.1,-0.6,-0.8
+Texas,TX,fh-spf,1.7,1.9,2.4,2.6
+Texas,TX,fh-time,0.9,0.7,0.8,0.8
+Texas,TX,fh-tv,1.2,1.2,0,0
+Texas,TX,fh-uw,0.6,0.8,0.8,0.7
+Texas,TX,sc-born,2.3,2.1,2.1,1.8
+Texas,TX,sc-eng-a,-2.1,-2,-1.6,-1.4
+Texas,TX,sc-eng-c,-4.6,-3.9,-3.2,-2.8
+Texas,TX,sc-mid,1.3,1.2,1.3,1.5
+Texas,TX,sm-em,1.6,1.6,1.6,1.6
+Texas,TX,sm-grad,0.4,1,1.7,2.7
+Texas,TX,sm-hr,1.3,0.8,1.2,1.9
+Texas,TX,sm-neet,-0.5,0.4,1.7,1.7
+Texas,TX,st-fc,-1.1,1.3,2.6,2.7
+Texas,TX,st-fc trust,1.3,1.6,2.1,2.6
+Texas,TX,st-fcc,1.6,1,2.6,2.7
+Texas,TX,st-vc,1.7,1.6,1.5,1.7
+United States,US,Civic Engagement,7.5,6.3,10.2,8.1
+United States,US,Community Life,7.6,8,2.8,0.2
+United States,US,Family Health,9,6.8,6.4,6.9
+United States,US,Future Generations,7.9,6.6,4.8,4.1
+United States,US,Social Cohesion,4.2,4.6,4.9,4.4
+United States,US,Social Mobility,4,5.7,8.1,9.7
+United States,US,Social Trust,4.9,7.1,8.8,10.4
+United States,US,Total,45.2,45.1,46,43.9
+United States,US,ce-ao,2.4,2.4,2.2,2.4
+United States,US,ce-vt,2.1,1.9,4.4,3.1
+United States,US,cl-cdd,1.1,0.8,-1.6,-1.8
+United States,US,cl-don,0.7,1,0.3,0.4
+United States,US,cl-mem,0.6,0.7,0.6,0.7
+United States,US,cl-np,0.8,0.9,0.6,0.6
+United States,US,cl-npo,0.9,0.9,0.8,0.7
+United States,US,cl-porg,0.9,0.9,0.9,0.8
+United States,US,cl-rel,1.3,0.9,-0.4,-0.4
+United States,US,cl-ta,1.4,0.9,0.4,-0.9
+United States,US,cl-tfn,1.3,1.3,0.2,-1.7
+United States,US,cl-vol,0.6,1.5,-0.1,0.6
+United States,US,cv-pm,3,2,3.6,2.7
+United States,US,fg-act,1.4,1.3,0.9,0.9
+United States,US,fg-br,1.6,1.3,0.5,-0.1
+United States,US,fg-play,1.3,0.9,1,0.8
+United States,US,fg-read,1.3,1.4,1.5,1.4
+United States,US,fg-sch,1.4,0.9,0.9,0.9
+United States,US,fg-yorg,1.1,1.2,0.8,1
+United States,US,fh-eat,2.2,1,3.3,1.8
+United States,US,fh-ed,0.5,0.8,-1.2,0.7
+United States,US,fh-ma,1.1,1,1.1,0.9
+United States,US,fh-read,2.3,0.6,0.7,0.9
+United States,US,fh-spf,1.3,1.4,1.8,2
+United States,US,fh-time,0.8,1,0.7,0.8
+United States,US,fh-tv,1.2,1.2,0,0
+United States,US,fh-uw,0.8,0.9,1,1
+United States,US,sc-born,2,2,1.9,1.7
+United States,US,sc-eng-a,0.4,0.5,0.6,0.6
+United States,US,sc-eng-c,0,0.4,0.5,0.3
+United States,US,sc-mid,1.8,1.8,1.9,1.8
+United States,US,sm-em,1.6,1.6,1.6,1.6
+United States,US,sm-grad,1.1,1.7,2.4,3.3
+United States,US,sm-hr,1.6,1.1,1.6,2.3
+United States,US,sm-neet,-0.2,1.4,2.5,2.5
+United States,US,st-fc,0.8,1.8,2.6,3.2
+United States,US,st-fc trust,1.5,1.7,2.5,2.9
+United States,US,st-fcc,0.7,1.6,1.8,2.3
+United States,US,st-vc,1.9,1.9,1.9,2
+Utah,UT,Civic Engagement,7.3,7.9,13.2,9.3
+Utah,UT,Community Life,20.6,18.8,12.2,12.5
+Utah,UT,Family Health,19.6,18.1,17.1,13.5
+Utah,UT,Future Generations,17.9,13,10.2,7.2
+Utah,UT,Social Cohesion,9.6,10.3,11,9.9
+Utah,UT,Social Mobility,9,10.8,13.8,14.2
+Utah,UT,Social Trust,12.3,14,14.9,15.7
+Utah,UT,Total,96.4,92.9,92.5,82.4
+Utah,UT,ce-ao,1.9,1.9,1.9,1.9
+Utah,UT,ce-vt,-0.1,2.5,2.9,3.2
+Utah,UT,cl-cdd,2.4,2,-0.8,-1
+Utah,UT,cl-don,3.4,3.4,1.1,2.9
+Utah,UT,cl-mem,4.2,4.1,3.9,4.6
+Utah,UT,cl-np,-0.1,0,-0.1,-0.2
+Utah,UT,cl-npo,0.6,0.6,0.6,0.5
+Utah,UT,cl-porg,0.7,0.7,0.7,0.9
+Utah,UT,cl-rel,3.5,3,1.5,1.5
+Utah,UT,cl-ta,2.9,2.1,2.1,0.2
+Utah,UT,cl-tfn,1.3,-0.2,-0.8,-2.2
+Utah,UT,cl-vol,4.1,5.1,3,4.1
+Utah,UT,cv-pm,5.5,3.5,8.4,4.2
+Utah,UT,fg-act,4.1,2.3,2.6,0.5
+Utah,UT,fg-br,9.2,7.7,4.8,3
+Utah,UT,fg-play,4.9,3.3,3.9,3.6
+Utah,UT,fg-read,2,1.9,3.2,3.9
+Utah,UT,fg-sch,2.5,1.1,1.3,0.5
+Utah,UT,fg-yorg,1.3,0.9,0.3,0.1
+Utah,UT,fh-eat,2.8,1.2,3.9,0.5
+Utah,UT,fh-ed,2.1,2.4,0.5,0.6
+Utah,UT,fh-ma,3.9,4,3.9,3.4
+Utah,UT,fh-read,3.9,1.4,0.7,0.5
+Utah,UT,fh-spf,3.1,3.4,3.7,4.1
+Utah,UT,fh-time,-0.4,1.6,0.4,0.6
+Utah,UT,fh-tv,1,1,0,0
+Utah,UT,fh-uw,4.1,4.2,4,3.8
+Utah,UT,sc-born,2.5,2.6,2.5,2.3
+Utah,UT,sc-eng-a,1.7,1.9,2.1,2
+Utah,UT,sc-eng-c,2.1,2.6,2.8,2.4
+Utah,UT,sc-mid,3.3,3.2,3.7,3.3
+Utah,UT,sm-em,2.6,2.6,2.6,2.6
+Utah,UT,sm-grad,1.4,2,2.9,3.9
+Utah,UT,sm-hr,3.4,3.3,4.2,4
+Utah,UT,sm-neet,1.6,2.9,4.1,3.7
+Utah,UT,st-fc,2,2.7,3.3,4.4
+Utah,UT,st-fc trust,3.6,4.9,4.8,4.7
+Utah,UT,st-fcc,3.1,3.1,3.4,3.3
+Utah,UT,st-vc,3.7,3.3,3.3,3.4
+Vermont,VT,Civic Engagement,15.4,13.7,19.5,21.1
+Vermont,VT,Community Life,10.2,9.9,3,3.6
+Vermont,VT,Family Health,14.6,12.2,11.6,12
+Vermont,VT,Future Generations,3.2,2.9,3.1,5.5
+Vermont,VT,Social Cohesion,11.1,10.9,9.9,10.2
+Vermont,VT,Social Mobility,11.3,12.4,12.6,15.4
+Vermont,VT,Social Trust,4.9,7.6,11.9,12.6
+Vermont,VT,Total,70.8,69.6,71.6,80.5
+Vermont,VT,ce-ao,1.9,2,2,2
+Vermont,VT,ce-vt,2.8,2.4,5.1,6.3
+Vermont,VT,cl-cdd,0.6,0.3,-2,-2.2
+Vermont,VT,cl-don,0.5,1.2,0.6,1.8
+Vermont,VT,cl-mem,3,1.6,3.2,2.6
+Vermont,VT,cl-np,0,-0.1,-0.2,0.1
+Vermont,VT,cl-npo,0.8,0.8,0.7,0.7
+Vermont,VT,cl-porg,0.8,0.8,0.7,0.7
+Vermont,VT,cl-rel,-0.6,-0.9,-1.9,-1.9
+Vermont,VT,cl-ta,0.9,1.1,0.4,-1.7
+Vermont,VT,cl-tfn,3,2.8,-1.9,-1.6
+Vermont,VT,cl-vol,2,2.5,1.2,3
+Vermont,VT,cv-pm,10.7,9.3,12.4,12.9
+Vermont,VT,fg-act,5.7,3.9,3.1,-0.5
+Vermont,VT,fg-br,-0.9,-1.1,-1.8,-2.5
+Vermont,VT,fg-play,0.2,0.3,0.2,0.4
+Vermont,VT,fg-read,0.5,1.6,1.2,-1.2
+Vermont,VT,fg-sch,2.7,2.5,3.5,3.6
+Vermont,VT,fg-yorg,0.2,0.3,0.2,2.2
+Vermont,VT,fh-eat,3.1,1.7,5,2.3
+Vermont,VT,fh-ed,3.2,2.8,0.6,2.3
+Vermont,VT,fh-ma,1.6,1.1,0.6,0.9
+Vermont,VT,fh-read,5.2,3.6,2.7,5
+Vermont,VT,fh-spf,0.6,0.3,0.1,0.2
+Vermont,VT,fh-time,0.1,1.8,2.9,1.5
+Vermont,VT,fh-tv,1.2,1.2,0,0
+Vermont,VT,fh-uw,0.9,0.9,1.7,1.8
+Vermont,VT,sc-born,0.8,0.6,0.5,0.1
+Vermont,VT,sc-eng-a,3.6,3.7,3.7,3.8
+Vermont,VT,sc-eng-c,3.8,3.9,3.8,4.1
+Vermont,VT,sc-mid,2.9,2.8,2,2.3
+Vermont,VT,sm-em,0.4,0.4,0.4,0.4
+Vermont,VT,sm-grad,3.1,3.5,4,5.5
+Vermont,VT,sm-hr,4,3.7,4.3,5.3
+Vermont,VT,sm-neet,3.9,4.7,3.9,4.2
+Vermont,VT,st-fc,0.9,1.2,3,3.4
+Vermont,VT,st-fc trust,-1.6,-0.7,2.1,2.2
+Vermont,VT,st-fcc,1.4,2.6,3.2,3.5
+Vermont,VT,st-vc,4.2,4.5,3.6,3.6
+Virginia,VA,Civic Engagement,9,11.9,11.4,11
+Virginia,VA,Community Life,10.7,8.4,5.4,3
+Virginia,VA,Family Health,11.4,7.7,9.2,9
+Virginia,VA,Future Generations,5.5,5.1,3.6,1.4
+Virginia,VA,Social Cohesion,5.8,5.8,5.5,4.8
+Virginia,VA,Social Mobility,7.3,8.5,11.4,12.4
+Virginia,VA,Social Trust,4.2,5.6,9.5,11.6
+Virginia,VA,Total,53.8,53.1,56,53.3
+Virginia,VA,ce-ao,2.4,2.4,2.5,2.6
+Virginia,VA,ce-vt,4.4,5,6.6,6.4
+Virginia,VA,cl-cdd,2.3,2,-0.7,-1.1
+Virginia,VA,cl-don,1.9,1,1.4,1.5
+Virginia,VA,cl-mem,0.6,0.2,0.6,1
+Virginia,VA,cl-np,2,1.3,1,0.9
+Virginia,VA,cl-npo,0.8,0.8,0.8,0.6
+Virginia,VA,cl-porg,1,1,0.9,0.8
+Virginia,VA,cl-rel,1.5,1.9,0.1,0.1
+Virginia,VA,cl-ta,1.3,0.8,0.3,-1
+Virginia,VA,cl-tfn,1.9,0.5,0.8,-1.4
+Virginia,VA,cl-vol,1.5,2.2,0.5,1.4
+Virginia,VA,cv-pm,2.2,4.5,2.3,2.1
+Virginia,VA,fg-act,2.1,1.6,0.1,0.4
+Virginia,VA,fg-br,1.6,1.3,0.5,-0.1
+Virginia,VA,fg-play,0.8,0.8,0.7,0.6
+Virginia,VA,fg-read,1.1,3.7,1.3,0.5
+Virginia,VA,fg-sch,0.7,0.7,0.5,0.2
+Virginia,VA,fg-yorg,0.7,0.6,0.7,0.3
+Virginia,VA,fh-eat,1.7,0.5,4.3,1.8
+Virginia,VA,fh-ed,0.9,1.1,-1.8,0.8
+Virginia,VA,fh-ma,1.7,1.4,1.7,1.5
+Virginia,VA,fh-read,3,1.3,2.7,1.8
+Virginia,VA,fh-spf,1.4,1.4,1.6,1.9
+Virginia,VA,fh-time,0.9,0.2,0.3,0.9
+Virginia,VA,fh-tv,1.2,1.2,0,0
+Virginia,VA,fh-uw,1.7,1.7,2,1.9
+Virginia,VA,sc-born,0.7,0.6,0.6,0.4
+Virginia,VA,sc-eng-a,1.8,1.7,1.7,1.6
+Virginia,VA,sc-eng-c,1.9,2.1,1.8,1.4
+Virginia,VA,sc-mid,1.4,1.4,1.4,1.4
+Virginia,VA,sm-em,0.6,0.6,0.6,0.6
+Virginia,VA,sm-grad,3,3.5,4.3,5.1
+Virginia,VA,sm-hr,2.3,1.6,2.2,3
+Virginia,VA,sm-neet,1.5,2.8,4.3,3.7
+Virginia,VA,st-fc,0,0.6,2.1,2.7
+Virginia,VA,st-fc trust,1.2,1,2,3.4
+Virginia,VA,st-fcc,-0.7,0.3,1.7,2.2
+Virginia,VA,st-vc,3.7,3.7,3.6,3.3
+Washington,WA,Civic Engagement,9.3,11,13.5,10.3
+Washington,WA,Community Life,11.7,10.7,4.4,1.3
+Washington,WA,Family Health,15.4,11.2,9.8,12.9
+Washington,WA,Future Generations,7.8,5.8,5.7,3.4
+Washington,WA,Social Cohesion,2.2,3.2,3.2,2.6
+Washington,WA,Social Mobility,2.5,5,7.8,8.6
+Washington,WA,Social Trust,10.4,12.3,13.4,13.9
+Washington,WA,Total,59.3,59.3,57.9,53
+Washington,WA,ce-ao,2,2,1.9,1.9
+Washington,WA,ce-vt,3.8,4.1,6.6,5.9
+Washington,WA,cl-cdd,1.4,1,-1.3,-1.5
+Washington,WA,cl-don,2.1,1.5,1.5,1.8
+Washington,WA,cl-mem,1.7,1.4,0.5,0.6
+Washington,WA,cl-np,0.3,0.3,0.2,0.2
+Washington,WA,cl-npo,1.1,1.2,1,0.5
+Washington,WA,cl-porg,0.7,0.7,0.7,0.7
+Washington,WA,cl-rel,0.6,0.2,-1,-1
+Washington,WA,cl-ta,1.9,0.8,0.6,-1.2
+Washington,WA,cl-tfn,1.6,2.4,0.8,-1.5
+Washington,WA,cl-vol,2,2.5,0.3,1.4
+Washington,WA,cv-pm,3.5,4.9,5.1,2.4
+Washington,WA,fg-act,3.9,1.2,2.1,1.5
+Washington,WA,fg-br,1.6,1.3,0.3,-0.4
+Washington,WA,fg-play,1.7,1.1,1.4,1.2
+Washington,WA,fg-read,3.6,2.3,2.6,3
+Washington,WA,fg-sch,0.8,0.4,1.5,0.4
+Washington,WA,fg-yorg,1,1.1,0.6,1
+Washington,WA,fh-eat,3,2.7,3.9,4.2
+Washington,WA,fh-ed,2.6,1.3,-0.6,0.7
+Washington,WA,fh-ma,1.4,1.4,1.5,1.4
+Washington,WA,fh-read,3.9,1.5,1.4,2.9
+Washington,WA,fh-spf,1.1,1.4,2.1,2
+Washington,WA,fh-time,1.3,0.7,0.5,1.3
+Washington,WA,fh-tv,1.2,1.2,0,0
+Washington,WA,fh-uw,2,2.2,2.6,2.5
+Washington,WA,sc-born,0.2,0.2,0.1,0
+Washington,WA,sc-eng-a,0.9,1,1,0.9
+Washington,WA,sc-eng-c,-0.9,0.1,0.3,-0.1
+Washington,WA,sc-mid,1.9,2,1.9,1.8
+Washington,WA,sm-em,-0.2,-0.2,-0.2,-0.2
+Washington,WA,sm-grad,2,2.7,3.5,4.5
+Washington,WA,sm-hr,1.1,1,1.5,1.9
+Washington,WA,sm-neet,-0.4,1.5,3,2.3
+Washington,WA,st-fc,2.5,3.2,4,4.7
+Washington,WA,st-fc trust,2.3,3.2,3.9,4
+Washington,WA,st-fcc,3,3,2.8,3
+Washington,WA,st-vc,2.8,2.8,2.7,2.1
+West Virginia,WV,Civic Engagement,-3.4,-0.2,2.8,2.6
+West Virginia,WV,Community Life,2,8.4,2.1,-5.4
+West Virginia,WV,Family Health,8.7,8.1,6.5,3.7
+West Virginia,WV,Future Generations,6.5,5.1,3.2,4.2
+West Virginia,WV,Social Cohesion,13.1,13.6,13.2,13
+West Virginia,WV,Social Mobility,-0.1,1.8,4.3,6
+West Virginia,WV,Social Trust,3.8,3.9,4.3,6.6
+West Virginia,WV,Total,30.5,40.7,36.3,30.8
+West Virginia,WV,ce-ao,1.9,1.9,1.9,1.9
+West Virginia,WV,ce-vt,-4.3,-3,-0.5,-0.8
+West Virginia,WV,cl-cdd,-0.7,-0.9,-2.4,-2.4
+West Virginia,WV,cl-don,-0.7,0.4,0,-1.7
+West Virginia,WV,cl-mem,0.5,1.5,0.7,0
+West Virginia,WV,cl-np,0.1,0.2,0.1,0
+West Virginia,WV,cl-npo,0.6,0.6,0.6,0.5
+West Virginia,WV,cl-porg,0.7,0.7,0.7,0.7
+West Virginia,WV,cl-rel,1.8,2.1,-0.5,-0.5
+West Virginia,WV,cl-ta,0.7,1.3,0.2,-1.7
+West Virginia,WV,cl-tfn,-1.5,0.7,0.4,-2.3
+West Virginia,WV,cl-vol,-0.1,1.1,0,-0.3
+West Virginia,WV,cv-pm,-1,0.8,1.5,1.5
+West Virginia,WV,fg-act,3.6,-0.6,0.6,-1.9
+West Virginia,WV,fg-br,0.3,-0.1,-0.6,-1.2
+West Virginia,WV,fg-play,1.1,1,1.8,1.8
+West Virginia,WV,fg-read,0.1,-0.7,-0.9,-0.4
+West Virginia,WV,fg-sch,2.7,1.9,0.9,2.1
+West Virginia,WV,fg-yorg,0.2,0.5,0,0.2
+West Virginia,WV,fh-eat,3.2,0.9,2.4,1.8
+West Virginia,WV,fh-ed,-0.5,1.4,-0.7,0.2
+West Virginia,WV,fh-ma,1.1,1,1.4,0.5
+West Virginia,WV,fh-read,3.2,0.2,-0.6,-0.4
+West Virginia,WV,fh-spf,0.3,0.3,0.6,0.4
+West Virginia,WV,fh-time,1.2,4.2,4.3,1.8
+West Virginia,WV,fh-tv,1.2,1.2,0,0
+West Virginia,WV,fh-uw,0.1,0.1,0.1,0.2
+West Virginia,WV,sc-born,3.9,3.7,3.5,3.3
+West Virginia,WV,sc-eng-a,4,4,4,4
+West Virginia,WV,sc-eng-c,4.1,4.2,4.3,4.3
+West Virginia,WV,sc-mid,1.1,1.7,1.4,1.4
+West Virginia,WV,sm-em,1.4,1.4,1.4,1.4
+West Virginia,WV,sm-grad,-1.9,-1.6,-1.1,-0.3
+West Virginia,WV,sm-hr,4,3.8,4.3,4.8
+West Virginia,WV,sm-neet,-3.6,-1.8,-0.3,0.2
+West Virginia,WV,st-fc,1.3,2.6,2.8,1.9
+West Virginia,WV,st-fc trust,-2,-0.7,-1.3,1.4
+West Virginia,WV,st-fcc,1.7,-0.3,0.2,0.4
+West Virginia,WV,st-vc,2.7,2.2,2.5,3
+Wisconsin,WI,Civic Engagement,14.1,13.5,15.2,15.4
+Wisconsin,WI,Community Life,10.7,7.4,4.1,0.1
+Wisconsin,WI,Family Health,9.1,7,7.2,5.8
+Wisconsin,WI,Future Generations,7.4,6.3,4.8,2.9
+Wisconsin,WI,Social Cohesion,11.5,11.6,12.1,11.5
+Wisconsin,WI,Social Mobility,7,9,10.5,12
+Wisconsin,WI,Social Trust,12.6,12.9,12.9,14.4
+Wisconsin,WI,Total,72.6,67.8,66.6,62.1
+Wisconsin,WI,ce-ao,1.9,2.1,2.1,2.4
+Wisconsin,WI,ce-vt,7.5,6.1,7.5,8.9
+Wisconsin,WI,cl-cdd,1.7,1.1,-1.9,-2.1
+Wisconsin,WI,cl-don,2.5,1.8,1,1.4
+Wisconsin,WI,cl-mem,1,0.4,0.6,0.5
+Wisconsin,WI,cl-np,1.7,1.9,1.8,0.4
+Wisconsin,WI,cl-npo,0.7,0.7,0.7,0.6
+Wisconsin,WI,cl-porg,0.8,0.8,0.8,0.7
+Wisconsin,WI,cl-rel,0.6,-0.1,-0.7,-0.7
+Wisconsin,WI,cl-ta,1.2,0.4,1,-1.3
+Wisconsin,WI,cl-tfn,1.6,0.7,0.4,-2
+Wisconsin,WI,cl-vol,2.4,2.8,0.3,0.9
+Wisconsin,WI,cv-pm,4.6,5.3,5.6,4.1
+Wisconsin,WI,fg-act,0.9,1.1,0.9,1.1
+Wisconsin,WI,fg-br,0.9,0.7,0.1,-0.6
+Wisconsin,WI,fg-play,0.9,0.9,0.9,1.1
+Wisconsin,WI,fg-read,1.9,1.6,1.9,1.1
+Wisconsin,WI,fg-sch,1.7,1.2,1,0.5
+Wisconsin,WI,fg-yorg,1.5,1.5,1.2,0.9
+Wisconsin,WI,fh-eat,0.8,-0.1,2.1,0.1
+Wisconsin,WI,fh-ed,1.5,2.1,-0.2,0.7
+Wisconsin,WI,fh-ma,1.4,1.3,0.9,0.7
+Wisconsin,WI,fh-read,2.9,1.2,2,1.4
+Wisconsin,WI,fh-spf,0.4,0.4,0.2,0.2
+Wisconsin,WI,fh-time,0.8,0.9,0.8,1.2
+Wisconsin,WI,fh-tv,1,1,0,0
+Wisconsin,WI,fh-uw,1.4,1.3,1.4,1.4
+Wisconsin,WI,sc-born,4,4,3.9,3.8
+Wisconsin,WI,sc-eng-a,2.9,2.9,3,3
+Wisconsin,WI,sc-eng-c,2,2.1,2.4,2.4
+Wisconsin,WI,sc-mid,2.6,2.5,2.7,2.4
+Wisconsin,WI,sm-em,1.6,1.6,1.6,1.6
+Wisconsin,WI,sm-grad,0.5,1,1.9,2.6
+Wisconsin,WI,sm-hr,3.1,2.7,3,3.7
+Wisconsin,WI,sm-neet,1.8,3.7,3.9,4.1
+Wisconsin,WI,st-fc,4,4.4,4.4,5.3
+Wisconsin,WI,st-fc trust,2.8,3.3,3,3.6
+Wisconsin,WI,st-fcc,2.6,2.5,2.7,2.7
+Wisconsin,WI,st-vc,3.2,2.7,2.7,2.8
+Wyoming,WY,Civic Engagement,7.3,8.2,12.9,9.5
+Wyoming,WY,Community Life,6.6,3.8,8.5,0
+Wyoming,WY,Family Health,12,11.4,10.6,9.8
+Wyoming,WY,Future Generations,16,18.6,8.7,5
+Wyoming,WY,Social Cohesion,8.7,8.9,10.3,9.1
+Wyoming,WY,Social Mobility,5.6,3.8,6.7,10.2
+Wyoming,WY,Social Trust,8.7,9.8,12.3,13.5
+Wyoming,WY,Total,64.9,64.6,70,57.2
+Wyoming,WY,ce-ao,1.9,2,1.9,1.9
+Wyoming,WY,ce-vt,0.8,3.5,3.8,1.9
+Wyoming,WY,cl-cdd,-0.3,-0.4,-2.1,-2.2
+Wyoming,WY,cl-don,0.7,0.2,1,0.5
+Wyoming,WY,cl-mem,1.2,0.4,2.7,1.5
+Wyoming,WY,cl-np,0,0.3,0.3,0
+Wyoming,WY,cl-npo,0.6,0.7,0.6,0.5
+Wyoming,WY,cl-porg,0.7,0.7,0.7,0.7
+Wyoming,WY,cl-rel,0.3,1.2,-0.6,-0.6
+Wyoming,WY,cl-ta,0.9,0.4,1,-1.6
+Wyoming,WY,cl-tfn,0.9,-1.7,0.6,-2.3
+Wyoming,WY,cl-vol,1.1,1.9,2.4,1.4
+Wyoming,WY,cv-pm,4.6,2.8,7.1,5.7
+Wyoming,WY,fg-act,0.3,4.1,-1.4,0.1
+Wyoming,WY,fg-br,1.8,2,0.4,-0.5
+Wyoming,WY,fg-play,3.2,3.7,2.4,1.8
+Wyoming,WY,fg-read,2.4,-1.2,15.7,0.5
+Wyoming,WY,fg-sch,3.8,5.2,2.2,1.1
+Wyoming,WY,fg-yorg,1.9,1.5,0.7,0.9
+Wyoming,WY,fh-eat,3.1,1.8,4.8,2.7
+Wyoming,WY,fh-ed,2.2,2.9,2.4,1.5
+Wyoming,WY,fh-ma,1.9,1.8,2.4,1.5
+Wyoming,WY,fh-read,3.9,0.8,0.3,1.2
+Wyoming,WY,fh-spf,0.3,0.2,0.4,0.1
+Wyoming,WY,fh-time,-1.4,1.9,-0.3,2.3
+Wyoming,WY,fh-tv,1.2,1.2,0,0
+Wyoming,WY,fh-uw,2,1.9,2.3,2.3
+Wyoming,WY,sc-born,-0.8,-0.8,-0.4,-0.6
+Wyoming,WY,sc-eng-a,3.4,3.3,3.4,3.4
+Wyoming,WY,sc-eng-c,3.5,3.7,4,3.7
+Wyoming,WY,sc-mid,2.6,2.7,3.3,2.6
+Wyoming,WY,sm-em,1,1,1,1
+Wyoming,WY,sm-grad,-0.1,0.4,1.2,1.6
+Wyoming,WY,sm-hr,3.5,2.4,4,4
+Wyoming,WY,sm-neet,1.1,0,0.5,3.6
+Wyoming,WY,st-fc,0.9,2,2.8,3.4
+Wyoming,WY,st-fc trust,3.4,1.9,2.5,3.2
+Wyoming,WY,st-fcc,0.9,2.5,3.5,3.1
+Wyoming,WY,st-vc,3.5,3.5,3.5,3.8
